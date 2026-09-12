@@ -5,45 +5,42 @@
 - [ ] Finaliser le titre du Manuel I : *L'Héritage du Wuju* est le titre de travail actuel.
 - [x] Rédiger une première version des pages d'introduction destinées au MJ.
 - [x] Écrire un synopsis général du Prologue, du chapitre I au chapitre III.
-- [x] Reconstruire une première version complète du chapitre I à partir des anciennes idées.
-- [ ] Valider les éléments encore ouverts du chapitre I.
-- [ ] Intégrer le chapitre I dans le manuscrit Homebrewery final.
-- [ ] Définir la transition exacte entre le chapitre I et le chapitre II après validation du chapitre I.
+- [x] Reconstruire et verrouiller la version narrative du chapitre I.
+- [ ] Intégrer complètement le chapitre I dans le manuscrit Homebrewery.
+- [x] Définir la transition exacte entre le chapitre I et le chapitre II.
 
 ## Chapitre I — Les Épreuves du Wuju
 
-Première version rédigée dans `manuel/prologue/01-epreuves-du-wuju.md`.
+Version narrative verrouillée dans `manuel/prologue/01-epreuves-du-wuju.md`.
 
-### Première passe terminée
+### Contenu validé
 
-- [x] Arrivée en Ionia.
-- [x] Baie des Pins.
+- [x] Arrivée en Ionia et Baie des Pins.
 - [x] Route vers le monastère.
-- [x] Première rencontre avec Maître Yi.
-- [x] Présentation de Jun.
-- [x] Proposition de règle pour le choix des épreuves.
-- [x] Première réécriture de L'Esprit Rancunier.
-- [x] Première réécriture de L'Escorte du Manuscrit.
-- [x] Première réécriture du Sanctuaire sous la Falaise.
-- [x] Retour au monastère.
-- [x] Première version du Reliquaire Wuju.
-- [x] Premier présage lié à la future menace Darkin.
-- [x] Épilogue et invitation vers les Chutes de Brume.
+- [x] Première rencontre avec Jun et Maître Yi.
+- [x] Interlude du thé au dojo.
+- [x] Deux épreuves jouées sur trois : première choisie par les PJ, seconde suggérée par Yi.
+- [x] L'Esprit Rancunier : mémoire des morts de l'invasion noxienne déplacée par ignorance.
+- [x] L'Escorte du Manuscrit : opposition entre protection du texte et aide aux voyageurs.
+- [x] Le Sanctuaire sous la Falaise : exploration, Gardien de jade mineur et premier présage.
+- [x] Retour devant Yi.
+- [x] Reliquaire Wuju.
+- [x] Premier enseignement : Souffle intérieur.
+- [x] Cassian introduit à la fin du chapitre, pouvoir encore secret.
+- [x] Premier présage lié à Xolaani sans la nommer.
+- [x] Transition vers les Chutes de Brume.
+- [x] Niveau conseillé : 1 au départ, niveau 2 à la fin.
 
-### À valider / développer
+### Passe technique restante
 
-- [ ] Confirmer que les PJ accomplissent exactement deux épreuves sur trois.
-- [ ] Définir précisément la raison initiale de leur venue en Ionia et au monastère.
-- [ ] Fixer l'histoire exacte derrière l'Esprit Rancunier.
-- [ ] Fixer l'incident principal de l'Escorte du Manuscrit.
-- [ ] Concevoir la carte et le gardien du Sanctuaire sous la Falaise.
-- [ ] Décider si Cassian apparaît déjà dans le chapitre I.
-- [ ] Définir la première récompense / technique Wuju du Reliquaire.
-- [ ] Définir les variations du premier présage selon les PJ.
-- [ ] Fixer les niveaux exacts de début et de fin du chapitre.
-- [ ] Équilibrer DD, rencontres et récompenses.
+- [ ] Définir les DD.
+- [ ] Écrire le profil du Gardien de jade mineur.
+- [ ] Définir les pillards et obstacles de l'Escorte du Manuscrit.
+- [ ] Définir une mécanique simple de confiance Wuju pour le chapitre I.
 - [ ] Ajouter les renvois vers les annexes.
-- [ ] Créer / sélectionner l'illustration maîtresse du chapitre I.
+- [ ] Choisir / créer les cartes du chapitre I.
+- [ ] Créer l'illustration maîtresse du chapitre I.
+- [ ] Mise en page Homebrewery complète.
 
 ## Chapitre II — Les Chutes de Brume
 
@@ -99,7 +96,7 @@ Première version rédigée dans `manuel/prologue/01-epreuves-du-wuju.md`.
 
 À chaque nouvelle décision importante :
 
-1. modifier `CANON.md` si c'est un fait de l'univers ou du scénario ;
+1. modifier `CANON.md` ou le chapitre concerné si c'est un fait de l'univers ou du scénario ;
 2. modifier `DECISIONS.md` si c'est un choix de conception ;
 3. modifier le chapitre concerné lorsque le texte est réellement rédigé ;
 4. retirer ou cocher l'entrée correspondante dans ce fichier.
