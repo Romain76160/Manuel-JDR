@@ -1,7 +1,25 @@
+/* =========================================================
+   LA SECONDE GUERRE DARKIN — PROLOGUE
+   Identité visuelle commune Homebrewery
+   ========================================================= */
+
+.page {
+  --wuju-jade: #315f56;
+  --wuju-jade-light: #819d89;
+  --wuju-mist: #e8eee9;
+  --wuju-paper: #f3f1e8;
+  --wuju-ink: #26332f;
+  --darkin-red: #6f2628;
+  --darkin-dark: #2f2022;
+  --darkin-pale: #efe2df;
+  --encounter-gold: #9a783d;
+}
+
 .page h1,
 .page h2,
-.page h3 {
-  color: #315f56;
+.page h3,
+.page h4 {
+  color: var(--wuju-jade);
 }
 
 .page h1 {
@@ -9,18 +27,113 @@
 }
 
 .page h2 {
-  border-bottom-color: #819d89;
+  border-bottom-color: var(--wuju-jade-light);
 }
 
+.page p,
+.page li {
+  color: var(--wuju-ink);
+}
+
+/* Lecture aux joueurs / descriptions */
 .page .descriptive {
-  background-color: #e8eee9;
+  background-color: var(--wuju-mist);
+  border-left: 3px solid var(--wuju-jade-light);
+  box-shadow: none;
 }
 
+/* Conseils MJ / rappels de règle */
 .page .note {
   background-color: #eef0e5;
+  border-left: 3px solid #a2a578;
+  box-shadow: none;
 }
 
+/* Encadré Wuju : visions, enseignements, scènes spirituelles */
+.page .wuju {
+  background: linear-gradient(135deg, #edf4ef 0%, #dde9e2 100%);
+  border: 1px solid #8aa79b;
+  border-left: 4px solid var(--wuju-jade);
+  padding: 10px 12px;
+  margin: 10px 0;
+  border-radius: 2px;
+}
+
+.page .wuju h5 {
+  color: var(--wuju-jade);
+  margin-top: 0;
+}
+
+/* Encadré Darkin : murmures, tentations, révélations */
+.page .darkin {
+  background: linear-gradient(135deg, #f3e9e6 0%, var(--darkin-pale) 100%);
+  border: 1px solid #b38a86;
+  border-left: 4px solid var(--darkin-red);
+  padding: 10px 12px;
+  margin: 10px 0;
+  border-radius: 2px;
+}
+
+.page .darkin h5,
+.page .darkin strong {
+  color: var(--darkin-red);
+}
+
+/* Encadré de rencontre tactique */
+.page .encounter {
+  background: #f3eee3;
+  border: 1px solid #b79a61;
+  border-left: 4px solid var(--encounter-gold);
+  padding: 10px 12px;
+  margin: 10px 0;
+  border-radius: 2px;
+}
+
+.page .encounter h5 {
+  color: #765826;
+  margin-top: 0;
+}
+
+/* Petites citations de doctrine */
+.page blockquote {
+  border-left-color: var(--wuju-jade-light);
+}
+
+/* Pieds de page */
 .page .footnote,
 .page .pageNumber {
   color: #53645e;
+}
+
+/* Ouvertures de chapitres */
+.page .chapter h1 {
+  color: var(--wuju-jade);
+}
+
+/* Le chapitre III peut recevoir cette classe sur une page si besoin */
+.page.darkinChapter h1,
+.page.darkinChapter h2,
+.page.darkinChapter h3 {
+  color: var(--darkin-red);
+}
+
+/* Tables plus sobres */
+.page table tbody tr:nth-child(odd) {
+  background-color: rgba(129, 157, 137, 0.10);
+}
+
+/* Liens internes / renvois */
+.page a {
+  color: var(--wuju-jade);
+}
+
+/* Impression : éviter les ombres trop fortes */
+@media print {
+  .page .descriptive,
+  .page .note,
+  .page .wuju,
+  .page .darkin,
+  .page .encounter {
+    box-shadow: none !important;
+  }
 }
