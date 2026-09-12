@@ -1,8 +1,8 @@
 # Annexes — Manuel I : L'Héritage du Wuju
 
-> **Statut : V0.1 technique.**
+> **Statut : V1 technique jouable.**
 >
-> Ces annexes regroupent les règles récurrentes du Prologue. Les valeurs sont conçues pour être simples à utiliser à table et pourront être ajustées après test.
+> Ces annexes regroupent les règles récurrentes du Prologue. Les valeurs servent de référence officielle pour les chapitres I à III.
 
 ---
 
@@ -12,11 +12,9 @@ Les **Points de Confiance Wuju (PCW)** mesurent l'accord entre le comportement d
 
 La jauge est **collective** et va de **0 à 5**.
 
-Elle n'est pas une jauge de moralité. Un groupe peut faire une chose dure ou violente sans perdre de PCW si cette action est nécessaire et maîtrisée. À l'inverse, une action apparemment pacifique peut faire perdre de la confiance si elle sert uniquement à manipuler ou à profaner.
+Elle n'est pas une jauge de moralité. Une action dure peut rester compatible avec le Wuju si elle est nécessaire et maîtrisée. À l'inverse, une action pacifique accomplie uniquement pour manipuler ou profaner peut faire perdre de la confiance.
 
-## Valeur initiale
-
-Au chapitre II :
+## Valeur initiale au chapitre II
 
 - **2 PCW** : le groupe a particulièrement respecté les enseignements du chapitre I ;
 - **1 PCW** : valeur normale ;
@@ -24,7 +22,7 @@ Au chapitre II :
 
 ## Effet principal
 
-Pour les interactions spirituelles importantes :
+Pour les interactions spirituelles explicitement concernées :
 
 **DD final = DD de base − PCW**
 
@@ -60,15 +58,15 @@ La valeur finale des Chutes suit le groupe au temple.
 
 ### Brume protectrice
 
-Une fois pendant le chapitre III, si un PJ prend une action pour appeler les enseignements des Chutes, la brume traverse brièvement le temple.
+Une fois pendant le chapitre III, si un PJ prend une action pour appeler les enseignements des Chutes, la brume traverse les galeries du temple.
 
 Jusqu'au début du prochain tour de ce PJ :
 
-- les déplacements par ombre sont visibles ;
+- les déplacements par ombre deviennent visibles ;
 - les PJ ont l'avantage pour repérer un ennemi dissimulé par les ombres ;
-- Kayn ne peut pas utiliser une disparition narrative pour quitter immédiatement la zone.
+- Kayn ne peut pas utiliser Marche d'ombre pour franchir un niveau entier du temple ou quitter la zone de confrontation.
 
-Cet effet n'annule pas ses pouvoirs de manière permanente. Il crée une fenêtre.
+Cet effet ne supprime pas durablement ses pouvoirs. Il crée une fenêtre tactique.
 
 ---
 
@@ -84,13 +82,11 @@ Un personnage ne peut utiliser qu'**un enseignement Wuju par round**.
 
 **Obtention :** Reliquaire Wuju, fin du chapitre I.
 
-Une fois par repos court, quand le personnage doit effectuer un jet pour résister à la peur, à une influence mentale, à une provocation surnaturelle ou à une perte de concentration, il peut prendre un instant pour contrôler sa respiration.
+Une fois par repos court, quand le personnage doit effectuer un jet pour résister à la peur, à une influence mentale, à une provocation surnaturelle ou à une perte de concentration, il peut contrôler sa respiration.
 
 Il ajoute **1d4** au jet après avoir lancé le dé, mais avant de connaître le résultat final.
 
-Narrativement, Souffle intérieur doit également pouvoir servir sans jet pour montrer qu'un personnage retrouve volontairement son calme.
-
----
+Narrativement, Souffle intérieur peut également servir sans jet pour montrer qu'un personnage retrouve volontairement son calme.
 
 ## Feuille sans vent
 
@@ -98,21 +94,13 @@ Narrativement, Souffle intérieur doit également pouvoir servir sans jet pour m
 
 Une fois par repos court, le personnage peut se déplacer de **3 m** sans provoquer d'attaque d'opportunité.
 
-Ce déplacement doit être décrit comme un repositionnement fluide, pas comme une téléportation.
-
----
-
 ## Lame posée
 
 **Obtention possible :** épreuve d'Urong.
 
-Quand une créature que le personnage peut voir l'attaque au corps à corps, il peut utiliser sa réaction pour gagner **+2 CA** contre cette attaque uniquement.
+Quand une créature visible attaque le personnage au corps à corps, il peut utiliser sa réaction pour gagner **+2 CA** contre cette attaque uniquement.
 
-S'il choisit de ne pas contre-attaquer cette créature avant le début de son prochain tour, il gagne également **+1 à son prochain jet de sauvegarde** avant la fin de ce tour.
-
-Le principe est de récompenser la retenue, pas seulement la défense.
-
----
+S'il ne contre-attaque pas cette créature avant le début de son prochain tour, il gagne également **+1 à son prochain jet de sauvegarde** avant la fin de ce tour.
 
 ## Souffle du bassin
 
@@ -124,33 +112,23 @@ Une fois par repos court, au début de son tour, le personnage peut ignorer jusq
 - un désavantage provoqué uniquement par la brume, la pluie ou un environnement similaire ;
 - ou une pénalité mineure de déplacement.
 
-Le personnage doit pouvoir respirer librement pour utiliser cette technique.
-
----
-
 ## Regard d'Urong
 
 **Obtention possible :** épreuve d'Urong.
 
 Une fois par repos court, après avoir observé une créature ou un phénomène pendant quelques secondes, le personnage peut demander au MJ une information parmi les suivantes :
 
-- est-ce que cette créature cherche immédiatement à attaquer ?
-- est-ce que ce phénomène semble spirituel, matériel ou mêlé ?
-- quelle sortie ou menace visible paraît la plus importante ?
+- cette créature cherche-t-elle immédiatement à attaquer ?
+- le phénomène semble-t-il spirituel, matériel ou mêlé ?
+- quelle menace ou sortie visible paraît la plus importante ?
 
 Le MJ répond sincèrement selon ce que le personnage peut raisonnablement percevoir.
-
-Cette technique ne révèle pas automatiquement les secrets cachés ni les statistiques d'une créature.
-
----
 
 ## Pas dans la brume
 
 **Obtention possible :** épreuve d'Urong.
 
 Une fois par repos court, si le personnage commence son tour partiellement masqué par de la brume, de la végétation, une foule ou un décor comparable, il peut tenter de se dissimuler en **action bonus**.
-
-Cette technique ne fonctionne pas sous observation directe sans aucun couvert narratif.
 
 ---
 
@@ -163,13 +141,11 @@ Le Prologue utilise une progression simple :
 - **fin du chapitre II : niveau 3** ;
 - **chapitre III : niveau 3**.
 
-Le passage au niveau 3 doit avoir lieu après le retour des Chutes ou juste avant la fin du chapitre II, afin que les joueurs aient le temps de prendre connaissance de leurs nouvelles capacités avant l'assaut.
+Le passage au niveau 3 a lieu au retour des Chutes, avant le repos précédant l'assaut. Les joueurs ont ainsi le temps de prendre connaissance de leurs nouvelles capacités.
 
 ---
 
 # D. Référence rapide des DD
-
-Utilisez les valeurs suivantes comme base :
 
 | DD | Usage |
 |---|---|
@@ -188,7 +164,7 @@ Les PCW réduisent uniquement les DD liés directement au Wuju ou aux esprits lo
 
 > **Chapitre I — Sanctuaire sous la Falaise**
 
-Le Gardien de jade mineur est conçu comme une rencontre courte et évitable.
+Le Gardien de jade mineur est une rencontre courte et évitable.
 
 **Type :** créature artificielle spirituelle, taille M  
 **CA :** 14  
@@ -197,12 +173,12 @@ Le Gardien de jade mineur est conçu comme une rencontre courte et évitable.
 
 ### Frappe de jade
 
-Attaque de mêlée : bonus à l'attaque **+4**, portée 1,5 m, une cible.  
+Attaque de mêlée : **+4 au toucher**, portée 1,5 m.  
 Dégâts : **1d8 + 2 contondants**.
 
 ### Repoussement
 
-Une fois par tour lorsqu'il touche avec Frappe de jade, le Gardien peut demander un jet de Force DD 12. En cas d'échec, la cible est repoussée de 1,5 m.
+Une fois par tour lorsqu'il touche, le Gardien peut imposer un jet de Force DD 12. En cas d'échec, la cible est repoussée de 1,5 m.
 
 ### Gardien, pas bourreau
 
@@ -210,13 +186,13 @@ Le Gardien :
 
 - n'attaque jamais une créature inconsciente ;
 - ne poursuit jamais au-delà du sanctuaire ;
-- cesse immédiatement de combattre si les PJ restituent l'objet profané ou accomplissent le geste attendu.
+- cesse immédiatement de combattre si l'objet profané est restitué ou si le geste attendu est accompli.
 
 ### Fin alternative
 
-Un PJ adjacent peut utiliser son action pour tenter de reproduire le geste de la **main ouverte** et déposer volontairement une arme ou un objet pris dans le sanctuaire.
+Un PJ adjacent peut utiliser son action pour reproduire le geste de la **main ouverte** et déposer volontairement une arme ou un objet pris dans le sanctuaire.
 
-Le Gardien cesse alors son attaque jusqu'à son prochain tour. Si le groupe poursuit l'apaisement, la rencontre se termine sans qu'il soit nécessaire de le détruire.
+Si le groupe poursuit l'apaisement, la rencontre se termine sans qu'il soit nécessaire de détruire le Gardien.
 
 ---
 
@@ -224,40 +200,41 @@ Le Gardien cesse alors son attaque jusqu'à son prochain tour. Si le groupe pour
 
 > **Chapitre II — Ruines sous la Chute**
 
-Ce gardien est plus ancien et plus puissant que celui du chapitre I.
+Cette version est la **référence officielle** et remplace les variantes antérieures.
 
 **Type :** créature artificielle spirituelle, taille G  
 **CA :** 15  
-**PV :** 52  
-**Vitesse :** 7,5 m
+**PV :** 45  
+**Vitesse :** 9 m
 
-### Double frappe
+### Coup de jade
 
-Le Gardien effectue **deux Frappes de jade**.
+Attaque de mêlée : **+5 au toucher**, allonge 3 m.  
+Dégâts : **1d10 + 3 contondants**.
 
-**Frappe de jade :** +5 à l'attaque, portée 1,5 m, **1d8 + 3 contondants**.
+Une cible de taille M ou inférieure est repoussée de 3 m.
 
-### Onde du sceau — recharge 5–6
+### Onde de brume — recharge 6
 
-Le Gardien frappe le sol. Chaque créature dans un rayon de 3 m effectue un jet de Dextérité DD 13.
+Cône de 4,5 m. Chaque créature dans la zone effectue un jet de Constitution DD 12.
 
-Échec : **2d6 contondants** et à terre.  
-Réussite : moitié des dégâts et reste debout.
+**Échec :** **2d8 froid** et vitesse réduite de moitié jusqu'à la fin du prochain tour.  
+**Réussite :** moitié des dégâts.
 
-### Priorité : la relique
+### Lié au sanctuaire
 
-Le Gardien cherche d'abord à récupérer ou protéger les Seigneurs des Darkin. Il attaque le porteur des lames en priorité mais n'achève pas les autres.
+Le Gardien ne quitte jamais les ruines. Au-delà du seuil, il redevient pierre.
 
 ### Apaisement
 
-La rencontre se termine immédiatement si :
+Le combat cesse immédiatement si :
 
 - les lames sont reposées dans l'alcôve ;
-- ou trois actions réussies reproduisent dans l'ordre **silence, souffle, relâchement**.
+- ou une créature exécute correctement les gestes **silence → souffle → relâchement**.
 
-Pour chaque étape : Discipline DD 14 − PCW.
+Rite d'apaisement : **Discipline DD 13 − PCW**.
 
-Une réussite reste acquise même si l'étape suivante échoue.
+Il n'achève jamais une créature à terre.
 
 ---
 
@@ -265,9 +242,7 @@ Une réussite reste acquise même si l'étape suivante échoue.
 
 Les premières manifestations de Xolaani doivent rester **narratives avant d'être mécaniques**.
 
-Elle ne promet presque jamais le pouvoir directement.
-
-Elle promet :
+Elle ne promet presque jamais le pouvoir directement. Elle promet :
 
 - de faire disparaître une douleur ;
 - de rendre quelqu'un perdu ;
@@ -291,35 +266,122 @@ Pendant quelques secondes, il refuse instinctivement de la lâcher.
 
 Il ne perd pas le contrôle de son personnage. Un allié peut lui parler, le toucher ou lui rappeler une relation importante pour lui permettre de refaire le jet avec avantage.
 
-### Échec critique ou scène particulièrement dramatique
+### Échec particulièrement dramatique
 
 Le MJ peut noter une **Marque de Xolaani**.
 
-La marque n'accorde aucun malus permanent automatique. Elle signifie simplement que Xolaani a désormais identifié une faille émotionnelle qu'elle pourra exploiter plus tard.
+La marque n'impose aucun malus permanent automatique. Elle signifie que Xolaani a identifié une faille émotionnelle qu'elle pourra exploiter plus tard.
 
 ---
 
-# H. Assaut du Temple — structure technique
+# H. Assaut du Temple — structure technique verticale
 
-Le chapitre III utilise trois phases.
+Le Temple Wuju est creusé dans la montagne. Le chapitre III utilise cette verticalité comme mécanique de scénario.
 
-## Phase 1 — Vestibule
+## Niveau 0 — Entrée / Vestibule
 
-Objectif : récupérer les armes, aider Cassian, sonner la cloche ou empêcher les éclaireurs de fuir.
+Contient l'entrée principale, les râteliers et les sabres de Cassian.
 
-## Phase 2 — Transfuge
+**Objectifs possibles :** récupérer l'équipement, empêcher une fuite, couper la route aux assaillants venus du haut.
 
-Objectif : empêcher le lieutenant du Clan des Ombres d'atteindre le reliquaire ou d'obtenir les informations qu'il cherche.
+## Niveau -1 — Temple principal
 
-## Phase 3 — Kayn
+Contient la salle centrale, le dojo et le bassin intérieur.
 
-Objectif : tenir, protéger la relique et créer une ouverture jusqu'au retour de Yi ou au retrait de Kayn.
+**Fonction principale :** duel Yi–Kayn et zone de rupture entre les deux fronts.
 
-Le profil spécial de Kayn doit être construit comme un **danger scénarisé avec conditions de victoire**, pas comme un monstre standard que des PJ niveau 3 peuvent tuer.
+## Niveau -2 — Dortoirs / Cloître
+
+Point de départ normal des PJ lorsque l'attaque commence.
+
+**Objectifs possibles :** réveiller les disciples, organiser l'évacuation, choisir de monter vers les armes ou de descendre vers le reliquaire.
+
+## Niveau -3 — Reliquaire
+
+Contient les Seigneurs des Darkin si les lames ont été ramenées.
+
+**Fonction principale :** combat contre le Transfuge puis phase finale contre Kayn.
+
+## Niveau -4 — Grottes des esprits
+
+Voie secondaire et spirituelle utilisée par une partie du Clan des Ombres.
+
+**Objectifs possibles :** fermer l'accès, utiliser la Brume protectrice, couper la retraite du Transfuge.
+
+## Principe de pression
+
+Les assaillants progressent **depuis le niveau 0 et le niveau -4 simultanément**.
+
+Les PJ commencent au milieu, au niveau -2.
+
+Leur premier choix est donc structurel :
+
+- **monter** récupérer les armes et contrer l'infiltration supérieure ;
+- **tenir** les dortoirs et sauver les disciples ;
+- **descendre** protéger immédiatement le reliquaire.
+
+Aucune option ne couvre tout le temple.
 
 ---
 
-# I. État de fin du Prologue
+# I. Ajustement des rencontres
+
+## Chapitre I — Gardien mineur
+
+Pour 3 à 5 PJ niveau 1 : profil normal. Il doit être présenté comme un problème à apaiser, pas comme un sac de PV.
+
+## Chapitre II — Gardien des Chutes
+
+Pour 3 PJ niveau 2 : **36 PV**.  
+Pour 4 PJ niveau 2 : **45 PV**.  
+Pour 5 PJ niveau 2 : **50 PV**, mais ne modifiez pas ses dégâts.
+
+Le rite d'apaisement vaut exactement autant qu'une victoire par destruction.
+
+## Chapitre III — Transfuge
+
+Pour 3 PJ niveau 3 : **48 PV**, 1 éclaireur maximum.  
+Pour 4 PJ niveau 3 : **58 PV**, 1 à 2 éclaireurs selon l'état du groupe.  
+Pour 5 PJ niveau 3 : **58 PV**, 2 éclaireurs ou 1 Lame d'ombre.
+
+N'ajoutez pas de dégâts au boss pour augmenter la difficulté : augmentez plutôt la pression des objectifs.
+
+## Chapitre III — Kayn
+
+Au début de sa confrontation directe, Kayn possède normalement **52 PV restants**.
+
+Il cherche à se retirer à **25 PV ou moins**.
+
+Pour 3 PJ : **1 action d'élite par round**.  
+Pour 4–5 PJ : **2 actions d'élite par round**.
+
+La phase prend également fin si les PJ obtiennent **3 succès d'objectif**.
+
+---
+
+# J. Objets de Doran
+
+Les récompenses complètes figurent dans `manuel/prologue/recompenses.md`.
+
+Après l'assaut, chaque PJ peut recevoir un objet adapté à sa conduite.
+
+## Lame de Doran
+
+**+1 aux dégâts**, mais pas à l'attaque. Sur un critique ou lorsqu'il réduit un ennemi à 0 PV, le porteur peut récupérer **1d6 + bonus de maîtrise PV**, un nombre de fois égal à son bonus de maîtrise par repos long.
+
+## Bouclier de Doran
+
+**+1 aux jets de Constitution pour maintenir la concentration**. En réaction, réduit les dégâts de **1d8 + bonus de maîtrise**, un nombre de fois égal au bonus de maîtrise par repos long. Après l'action Esquiver, la réduction devient **1d10 + bonus de maîtrise**.
+
+## Anneau de Doran
+
+Charges égales au bonus de maîtrise. Une charge ajoute le bonus de maîtrise à un jet de dégâts ou de soins d'un sort de niveau 1 ou supérieur. Une fois par repos long après un repos court, récupère un emplacement de niveau 1 ou accorde **2 × bonus de maîtrise PV temporaires** à un non-lanceur.
+
+Les objets peuvent évoluer plus tard dans la campagne, mais ne gagnent aucun bonus supplémentaire pendant le Prologue.
+
+---
+
+# K. État de fin du Prologue
 
 À la fin du Manuel I, le MJ note six états :
 
