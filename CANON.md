@@ -68,42 +68,65 @@ Le chapitre II est consacré à l'exploration, au Wuju, au Royaume Spirituel et 
 
 Éléments établis :
 
-- Maître Yi poursuit l'enseignement des PJ ;
-- **Jun** et **Cassian** sont présents ;
-- tension importante entre Jun et Cassian, notamment à cause du passé noxien de Cassian ;
-- voyage vers les **Chutes de Brume** ;
-- ancien sanctuaire Wuju ;
-- présence de l'héritage de **Maître Urong**, mentor de Yi ;
-- l'épée d'Urong fonctionne comme un ancrage spirituel / seuil vers une mémoire du Wuju ;
-- le Royaume Spirituel devient perceptible ;
+- les PJ commencent le chapitre au **niveau 2** ;
+- **Jun accompagne l'expédition** avec Yi, Cassian et les PJ ;
+- la tension entre Jun et Cassian est développée pendant le voyage ;
+- la nuit précédant le départ, une vision commune montre une **statue sans visage** promettant la fin de toute souffrance ;
+- le chapitre utilise les **Points de Confiance Wuju (PCW)**, de 0 à 5 ;
+- le groupe commence normalement avec **1 PCW**, 2 s'il a particulièrement honoré les enseignements du chapitre I, 0 s'il les a méprisés ;
+- le voyage mène aux **Chutes de Brume**, ancien sanctuaire Wuju ;
+- plusieurs cairns ont été déplacés par un observateur inconnu, indice que le chemin n'est plus secret ;
+- aucune embuscade du Clan des Ombres n'a lieu au chapitre II : Kayn doit rester invisible ;
+- le Bassin du Silence présente les trois postures : **Voir sans saisir**, **Frapper sans colère**, **Partir sans posséder** ;
+- l'épée de **Maître Urong**, ancien maître de Yi, fonctionne comme un ancrage spirituel et seuil vers le Royaume Spirituel ;
+- dans le Royaume Spirituel, Urong questionne les PJ plutôt que de leur expliquer le lore ;
+- chaque PJ ayant traversé sincèrement l'épreuve reçoit **un enseignement Wuju mineur** ;
+- les esprits s'écartent de Cassian et révèlent que quelque chose l'a déjà touché ;
+- Jun voit une image de ses parents et Urong lui demande ce qu'elle accepterait de donner pour les retrouver ;
+- sous la chute se trouvent des ruines scellées par les gestes **silence → souffle → relâchement** et l'inscription **« Retenir n'est pas sauver. »** ;
+- un **Gardien de jade** protège les ruines, mais peut être apaisé sans être détruit ;
 - les PJ découvrent les **Seigneurs des Darkin**, deux lames courbes jumelles liées à **Xolaani** ;
-- Xolaani doit rester surtout une présence, une voix ou une promesse, pas une exposition complète de lore ;
-- le chapitre II **ne contient plus le combat final contre Kayn** ;
-- le chapitre se termine au retour au temple ;
-- la dernière ambiance doit annoncer l'attaque imminente : nuit, silence, lanternes qui s'éteignent ou ombre franchissant le mur.
+- Xolaani apparaît d'abord comme une voix promettant de faire cesser la souffrance ;
+- toucher une lame ne provoque pas encore une possession complète, mais crée une difficulté à la relâcher ;
+- les cairns déplacés convainquent Yi que le sanctuaire est compromis ;
+- la trajectoire principale est donc de **ramener les lames au temple pour la nuit** ;
+- les PJ peuvent néanmoins s'y opposer : le chapitre III reste jouable si les lames restent aux Chutes ou sont confiées aux esprits ;
+- le chapitre II ne contient **aucun combat contre Kayn** ;
+- il se termine au retour au temple, quelques heures avant l'assaut ;
+- la dernière scène est un silence anormal dans la forêt, sans révéler encore l'assaillant.
 
 ---
 
 # Chapitre III — L'Assaut du Temple
 
-Le chapitre III constitue le final du Prologue.
+Le chapitre III constitue le final du Prologue et se joue avec des **PJ de niveau 3**.
 
 Éléments établis :
 
 - l'assaut se déroule de nuit au temple de Maître Yi ;
 - **Kayn** et le **Clan des Ombres** attaquent ;
 - **Rhaast** est présent à travers la faux de Kayn ;
-- la véritable cible de l'assaut est liée aux Seigneurs des Darkin ;
-- **Maître Yi affronte Kayn** pendant une partie importante du combat ;
-- les PJ défendent le temple, les disciples et les reliques ;
-- les PJ doivent avoir leur propre affrontement mécanique contre les agents / lieutenant du Clan des Ombres ;
-- Kayn rejoint ensuite directement la confrontation pour la phase finale ;
-- les PJ ne sont pas censés tuer Kayn ;
-- la confrontation peut se résoudre par survie, protection des reliques, échec partiel ou fuite de Kayn ;
-- Cassian révèle son pouvoir de magnétisme au cours de l'assaut, notamment par le rappel de ses sabres ;
-- Rhaast doit être joué comme une présence Darkin marquante, pas comme une créature ordinaire à affronter ;
-- le résultat peut être une victoire complète ou partielle : Kayn peut repartir sans les lames, avec une information, avec une partie de son objectif, ou avoir déclenché une conséquence plus grave ;
-- l'épilogue doit faire comprendre que ce conflit local n'était que le début.
+- la cible principale est constituée par les **Seigneurs des Darkin**, ou les informations permettant de les retrouver si elles ne sont pas au temple ;
+- la coutume du temple veut que les armes de guerre soient déposées au vestibule pendant le repos ;
+- les PJ ne sont pas forcés de déposer leurs armes s'ils refusent, mais Cassian dépose toujours ses sabres ;
+- **Maître Yi affronte Kayn** pendant les deux premières phases de l'assaut ;
+- les PJ ont plusieurs objectifs simultanés : récupérer leurs armes, réveiller le temple, protéger les disciples et empêcher le lieutenant d'atteindre le reliquaire ;
+- le boss mécanique principal avant Kayn est un **Transfuge noxien** ayant rejoint le Clan des Ombres ;
+- le temple est divisé en zones tactiques : cour, vestibule, dojo, cloître, sanctuaire intérieur et dortoirs ;
+- **Cassian révèle publiquement son magnétisme** en rappelant à lui les sabres de son père ;
+- Jun voit cette révélation et doit réévaluer sa certitude selon laquelle aucun Noxien n'est digne de confiance ;
+- Rhaast reconnaît la présence de Xolaani et les armes Darkin réagissent les unes aux autres ;
+- Xolaani peut tenter Jun pendant l'assaut en lui promettant qu'elle ne perdra plus personne ;
+- après la chute ou la fuite du Transfuge, Kayn rompt son duel avec Yi et rejoint directement les PJ ;
+- **la dernière phase est un véritable combat des PJ contre Kayn** ;
+- les PJ peuvent blesser, gêner et repousser Kayn, mais ne sont pas censés le tuer ;
+- ce combat final est un **combat d'objectif**, pas un duel d'usure : tenir jusqu'au retour de Yi, mettre les reliques hors d'atteinte, fermer les voies d'ombre ou rendre le coût de l'assaut trop élevé ;
+- les enseignements Wuju, les PCW, la cloche du temple et le décor doivent pouvoir influencer cette phase ;
+- Rhaast peut momentanément prendre l'ascendant, révélant que Kayn ne maîtrise pas complètement sa faux ;
+- Kayn peut finir repoussé, en retraite calculée, partiellement victorieux ou avec les lames ;
+- si les lames sont volées, la campagne continue et l'Acte I devient immédiatement une poursuite ;
+- l'épilogue se déroule à l'aube : blessés, dégâts, secret de Cassian révélé et décision sur le futur des lames ;
+- le Manuel I se termine lorsque Yi reconnaît que la menace ne restera pas cachée dans les montagnes.
 
 Dernière idée centrale du Prologue : **les Darkin recommencent à bouger et la Seconde Guerre Darkin commence réellement après ce manuel.**
 
@@ -129,12 +152,15 @@ Dernière idée centrale du Prologue : **les Darkin recommencent à bouger et la
 
 - disciple Wuju ;
 - méfiante envers Cassian à cause de Noxus ;
-- son évolution doit dépendre de ce qu'elle observe chez les PJ et Cassian.
+- accompagne les PJ aux Chutes ;
+- Xolaani peut exploiter la perte de ses parents et sa peur de perdre encore quelqu'un ;
+- son évolution dépend de ce qu'elle observe chez les PJ et Cassian.
 
 ## Cassian
 
 - Noxien allié ;
 - apparaît brièvement à la fin du chapitre I ;
+- accompagne l'expédition aux Chutes ;
 - possède un pouvoir secret de magnétisme du métal ;
 - ses sabres jumeaux peuvent revenir à lui ;
 - son pouvoir est révélé publiquement pendant l'assaut du temple ;
@@ -147,20 +173,24 @@ Dernière idée centrale du Prologue : **les Darkin recommencent à bouger et la
 - chef de l'assaut final ;
 - utilise Rhaast ;
 - dangereux au point que Yi doit l'affronter directement ;
-- ne doit pas être traité comme un boss que des PJ bas niveau peuvent simplement tuer.
+- affronte réellement les PJ dans la dernière phase du chapitre III ;
+- ne doit pas être traité comme un boss que les PJ doivent tuer pour gagner.
 
 ## Rhaast
 
 - Darkin lié à la faux de Kayn ;
 - présence ancienne et provocatrice ;
-- intervient par la voix, des réactions spirituelles et des tentations.
+- intervient par la voix, des réactions spirituelles et des tentations ;
+- reconnaît Xolaani pendant l'assaut ;
+- son influence révèle que Kayn ne le contrôle pas totalement.
 
 ## Xolaani
 
 - menace cachée du Prologue ;
 - liée aux Seigneurs des Darkin ;
 - doit apparaître progressivement ;
-- ses premières manifestations prennent la forme de voix, visions, promesses de paix, de fin de souffrance ou de contrôle.
+- ses premières manifestations prennent la forme de voix, visions, promesses de paix, de fin de souffrance ou de contrôle ;
+- sa méthode centrale consiste à présenter la suppression du libre arbitre comme une forme de protection.
 
 ---
 
@@ -173,7 +203,7 @@ Dernière idée centrale du Prologue : **les Darkin recommencent à bouger et la
 - techniques Wuju mineures ;
 - objets de Doran ;
 - Maître Urong et son épée ;
-- royaume spirituel aux Chutes ;
+- Royaume Spirituel aux Chutes ;
 - Cassian, l'Enfant du Fer ;
 - Kayn et Rhaast ;
 - lieutenant / agents du Clan des Ombres ;
