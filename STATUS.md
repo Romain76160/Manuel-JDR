@@ -49,9 +49,12 @@ Décision importante : la première épreuve est choisie par les PJ, la seconde 
 
 # Chapitre II — Les Chutes de Brume
 
-**Statut : narration verrouillée.**
+**Statut : narration verrouillée + module Homebrewery créé.**
 
-Fichier : `manuel/prologue/02-chutes-de-brume.md`
+Fichiers :
+
+- `manuel/prologue/02-chutes-de-brume.md`
+- `homebrewery/chapters/02-chutes-de-brume.md`
 
 Progression : niveau 2 → niveau 3.
 
@@ -83,9 +86,12 @@ Décision importante : **aucun combat avec Kayn dans ce chapitre**.
 
 # Chapitre III — L'Assaut du Temple
 
-**Statut : première version narrative complète.**
+**Statut : première version narrative complète + module Homebrewery créé.**
 
-Fichier : `manuel/prologue/03-assaut-du-temple.md`
+Fichiers :
+
+- `manuel/prologue/03-assaut-du-temple.md`
+- `homebrewery/chapters/03-assaut-du-temple.md`
 
 Niveau : 3.
 
@@ -157,14 +163,22 @@ Kayn commence la phase finale à **52 PV** après son duel avec Yi et se retire 
 
 # Homebrewery
 
-Fichiers :
+Fichiers principaux :
 
 - `homebrewery/prologue.md`
 - `homebrewery/style.css`
+- `homebrewery/README.md`
 
-Le chapitre I possède déjà une intégration avancée dans Homebrewery.
+Modules déjà créés :
 
-Les chapitres II et III doivent encore être intégrés complètement à partir des fichiers narratifs verrouillés.
+- `homebrewery/chapters/02-chutes-de-brume.md`
+- `homebrewery/chapters/03-assaut-du-temple.md`
+
+Le chapitre I possède déjà une intégration avancée dans `homebrewery/prologue.md`.
+
+Les chapitres II et III sont désormais mis en forme séparément afin de pouvoir être édités sans casser le reste du manuscrit. Le CSS commun distingue les blocs Wuju, Darkin, rencontres, conseils MJ et lectures aux joueurs.
+
+Étape restante : assembler les modules dans `prologue.md` et créer la version Homebrewery des annexes.
 
 ---
 
@@ -181,8 +195,8 @@ Le dépôt GitHub est la **source de vérité** du projet.
 
 # Prochaines priorités recommandées
 
-1. Synchroniser intégralement les chapitres II et III dans Homebrewery.
-2. Finaliser les profils techniques après un contrôle d'équilibrage.
+1. Créer `homebrewery/annexes.md`.
+2. Assembler les modules Homebrewery dans `prologue.md`.
 3. Construire le plan tactique du temple.
 4. Intégrer la carte existante des Chutes de Brume.
 5. Définir les objets de Doran et récompenses de fin de Prologue.
