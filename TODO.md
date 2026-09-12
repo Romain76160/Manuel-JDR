@@ -8,6 +8,7 @@
 - [x] Reconstruire et verrouiller la version narrative du chapitre I.
 - [ ] Intégrer complètement le chapitre I dans le manuscrit Homebrewery.
 - [x] Définir la transition exacte entre le chapitre I et le chapitre II.
+- [x] Reconstruire une première version complète du chapitre II à partir de l'ancien PDF.
 
 ## Chapitre I — Les Épreuves du Wuju
 
@@ -44,17 +45,33 @@ Version narrative verrouillée dans `manuel/prologue/01-epreuves-du-wuju.md`.
 
 ## Chapitre II — Les Chutes de Brume
 
-- [ ] Relire l'ancien `main.pdf` et extraire le contenu utile.
-- [ ] Supprimer du chapitre II tout le final contre Kayn.
-- [ ] Réorganiser le chapitre comme une aventure continue.
-- [ ] Réécrire Cassian et Jun dans la nouvelle structure.
-- [ ] Réécrire la route vers les Chutes.
-- [ ] Réécrire Urong et l'épée.
-- [ ] Réécrire le Royaume Spirituel.
-- [ ] Réécrire la découverte des Seigneurs des Darkin.
-- [ ] Conserver Xolaani mystérieuse.
-- [ ] Écrire le retour au temple.
-- [ ] Terminer sur l'annonce silencieuse de l'assaut.
+Première version restructurée dans `manuel/prologue/02-chutes-de-brume.md`.
+
+### Première passe terminée
+
+- [x] Relire l'ancien `main.pdf` et extraire le contenu utile.
+- [x] Supprimer du chapitre II tout le final contre Kayn.
+- [x] Réorganiser le chapitre comme une aventure continue.
+- [x] Réécrire Cassian et Jun dans la nouvelle structure.
+- [x] Réécrire la route vers les Chutes.
+- [x] Réécrire Urong et l'épée.
+- [x] Réécrire le Royaume Spirituel.
+- [x] Réécrire la découverte des Seigneurs des Darkin.
+- [x] Conserver Xolaani mystérieuse.
+- [x] Écrire le retour au temple.
+- [x] Terminer sur l'annonce silencieuse de l'assaut.
+
+### À verrouiller / développer
+
+- [ ] Décider définitivement si Jun accompagne l'expédition.
+- [ ] Décider si les lames sont normalement ramenées au temple ou si les trois choix restent équivalents.
+- [ ] Fixer le nombre initial de PCW selon le résultat du chapitre I.
+- [ ] Équilibrer le Gardien de jade pour des PJ niveau 2.
+- [ ] Définir précisément les récompenses d'Urong.
+- [ ] Écrire les murmures personnalisés de Xolaani.
+- [ ] Préparer la carte de référence des Chutes.
+- [ ] Ajouter les renvois vers les annexes.
+- [ ] Intégrer complètement le chapitre II dans Homebrewery.
 
 ## Chapitre III — L'Assaut du Temple
 
