@@ -36,16 +36,27 @@ Le chapitre I constitue l'entrée dans la campagne.
 - arrivée des PJ en Ionia ;
 - passage par la **Baie des Pins** ;
 - arrivée au **Monastère Wuju** ;
-- rencontre avec **Maître Yi** ;
+- rencontre avec **Jun** puis **Maître Yi** ;
 - les PJ doivent gagner la confiance du Wuju ;
 - Maître Yi juge surtout leur rapport à la puissance, pas leur capacité brute à combattre ;
-- plusieurs épreuves sont proposées ;
-- anciennes épreuves conservées comme base :
+- le chapitre commence au **niveau 1** et se termine au **niveau 2** ;
+- trois épreuves existent :
   - **L'Esprit Rancunier** ;
   - **L'Escorte du Manuscrit** ;
   - **Le Sanctuaire sous la Falaise** ;
-- une scène de reliquaire / conclusion Wuju termine le chapitre ;
-- le chapitre doit poser les premiers présages sans expliquer encore toute la menace Darkin.
+- les PJ jouent exactement **deux épreuves sur trois** ;
+- la première épreuve est choisie librement par les PJ ;
+- la seconde est suggérée par Yi selon ce qu'il a observé, mais elle n'est pas imposée ;
+- la troisième épreuve est prise en charge hors champ par Jun ou d'autres disciples ;
+- **L'Esprit Rancunier** est lié à une pierre commémorative des morts de l'invasion noxienne déplacée par ignorance ;
+- **L'Escorte du Manuscrit** confronte les PJ à un choix concret entre la sécurité d'un ancien texte Wuju et l'aide à des voyageurs en danger ;
+- **Le Sanctuaire sous la Falaise** contient un **Gardien de jade mineur**, réagit au comportement des PJ et sert de premier écho aux Chutes de Brume ;
+- le premier enseignement accordé par Yi au Reliquaire est **Souffle intérieur** ;
+- le chapitre comporte un premier présage lié à Xolaani, mais son nom ne doit jamais être donné aux joueurs ;
+- **Cassian apparaît à la fin du chapitre I** ;
+- son pouvoir de magnétisme reste secret à ce stade ;
+- la tension entre Jun et Cassian est posée dès son arrivée ;
+- le chapitre se termine par l'invitation de Yi à poursuivre l'apprentissage aux **Chutes de Brume**.
 
 Le chapitre I doit donner l'impression d'être avant tout une aventure initiatique en Ionia.
 
@@ -123,6 +134,7 @@ Dernière idée centrale du Prologue : **les Darkin recommencent à bouger et la
 ## Cassian
 
 - Noxien allié ;
+- apparaît brièvement à la fin du chapitre I ;
 - possède un pouvoir secret de magnétisme du métal ;
 - ses sabres jumeaux peuvent revenir à lui ;
 - son pouvoir est révélé publiquement pendant l'assaut du temple ;
