@@ -1,64 +1,63 @@
 # Chapitre I — Les Épreuves du Wuju
 
-> **Statut : première version de travail.**
+> **Statut : version narrative verrouillée — passe d’équilibrage à venir.**
 >
-> Ce fichier contient la base narrative du chapitre I. Il doit pouvoir être lu comme un véritable chapitre de manuel de campagne, et non comme un simple document de conception. Les profils techniques, DD définitifs, récompenses chiffrées et cartes seront équilibrés dans une passe ultérieure.
+> Niveau conseillé : **1**, passage au **niveau 2** à la fin du chapitre.  
+> Format conseillé : **1 longue séance ou 2 séances**.  
+> Groupe conseillé : **3 à 5 PJ**.
 
 ---
 
 # Ouverture du chapitre
 
-> *« La puissance ne révèle pas qui tu es lorsque tu frappes. Elle le révèle lorsque tu pourrais frapper et que tu choisis de ne pas le faire. »*
->
+> *« La puissance ne révèle pas qui tu es lorsque tu frappes. Elle le révèle lorsque tu pourrais frapper et que tu choisis de ne pas le faire. »*  
 > — Maître Yi
 
-Les personnages atteignent Ionia avec encore peu de raisons de penser que leur présence sur l'île aura une importance particulière.
+Les personnages arrivent en Ionia sans encore comprendre que leur présence dans les montagnes Wuju les placera bientôt au bord d’un conflit ancien.
 
-À ce stade de la campagne, le monde doit leur sembler plus vaste qu'eux. Ionia ne les attend pas. Le Wuju ne les attend pas. Maître Yi n'a aucune raison de leur faire confiance.
+Le chapitre I doit fonctionner comme une aventure complète. Les PJ découvrent Ionia, rencontrent Maître Yi, gagnent progressivement la confiance du monastère et sont confrontés à des problèmes qui ne peuvent pas tous être résolus par la force.
 
-Le premier chapitre est donc une histoire d'entrée.
+La menace Darkin n’est pas encore nommée. Elle n’apparaît qu’en marge : une sensation déplacée, un symbole qui n’appartient pas au Wuju, une promesse entendue trop brièvement pour être comprise.
 
-Les PJ découvrent une terre où les esprits, les souvenirs et la nature semblent répondre aux intentions. Ils rencontrent un ordre presque disparu, puis un maître qui ne cherche ni des soldats ni des admirateurs. Pour approcher les secrets du Wuju, ils doivent d'abord prouver qu'ils savent agir sans réduire chaque problème à un combat.
+Le chapitre pose une question simple que Yi répétera sous différentes formes :
 
-Le chapitre doit donner l'impression d'une aventure initiatique complète, avec sa propre montée dramatique et sa propre résolution. La menace Darkin n'apparaît qu'en marge : une impression, un symbole mal compris, une sensation de présence qui n'a pas encore de nom.
+> **Que fais-tu de ta puissance lorsque personne n’est là pour t’empêcher de l’utiliser ?**
 
 ---
 
 # Synopsis pour le Maître du Jeu
 
-Les personnages arrivent par la **Baie des Pins**, sur une côte ionienne éloignée des grandes villes. Leur route les conduit vers un ancien monastère où survit l'enseignement du Wuju.
+Les PJ débarquent dans la **Baie des Pins**, sur une côte ionienne éloignée des grandes cités. Leur comportement lors de cette première arrivée donne immédiatement le ton : ici, les coutumes, les esprits et les lieux répondent aux intentions.
 
-Le voyage sert à introduire Ionia : une terre magnifique, profondément marquée par la guerre et par le Royaume Spirituel. Les premiers habitants rencontrés ne sont pas hostiles, mais ils observent les étrangers avant de les accepter.
+Le groupe gagne ensuite les hauteurs et atteint le **Monastère Wuju**. **Jun** les reçoit avec méfiance avant de les conduire à **Maître Yi**. Le maître ne leur enseigne aucune technique. Il leur demande d’abord pourquoi ils souhaitent apprendre.
 
-Au monastère, les PJ rencontrent **Maître Yi**, ainsi que **Jun** et les autres disciples présents. Yi ne leur propose pas immédiatement un enseignement. Il leur demande d'abord pourquoi ils sont venus, puis les confronte à une idée simple : le Wuju n'est pas une récompense offerte à ceux qui savent déjà se battre.
+Yi leur présente ensuite trois problèmes réels auxquels les communautés voisines sont confrontées :
 
-Pour déterminer s'ils peuvent rester, Yi leur propose plusieurs épreuves. Trois pistes existent dans cette version :
+- **L’Esprit Rancunier** — comprendre une colère avant qu’elle ne devienne destructrice ;
+- **L’Escorte du Manuscrit** — choisir entre préserver un héritage et protéger les vivants ;
+- **Le Sanctuaire sous la Falaise** — apprendre la différence entre découvrir, recevoir et prendre.
 
-- **L'Esprit Rancunier**, centrée sur la colère, la mémoire et l'apaisement ;
-- **L'Escorte du Manuscrit**, centrée sur la responsabilité, la confiance et le choix entre mission et vies humaines ;
-- **Le Sanctuaire sous la Falaise**, centrée sur l'exploration, le respect d'un lieu sacré et la tentation de prendre ce qui ne nous appartient pas.
+Les PJ en accomplissent **deux**. Ils choisissent librement la première. Pour la seconde, Yi leur suggère l’épreuve qui répond le mieux à ce qu’il a observé chez eux. S’ils insistent pour en choisir une autre et donnent une raison cohérente, il accepte.
 
-Les PJ ne sont pas censés accomplir les trois. Le principe de travail actuel est qu'ils en accomplissent **deux**, choisies librement ou attribuées par Yi selon ce qu'il a observé chez eux. Ce point devra être verrouillé définitivement après test.
+Au retour, Yi ne demande pas seulement s’ils ont réussi. Il veut savoir **comment** ils ont agi et ce qu’ils pensent avoir compris.
 
-Au retour, Yi ne récompense pas seulement la réussite. Il interroge les méthodes utilisées. Un groupe qui a échoué mais compris quelque chose peut être mieux accueilli qu'un groupe ayant tout résolu par la force.
+S’il estime qu’ils sont capables d’apprendre, il les autorise à entrer dans le **Reliquaire Wuju**. Là, les PJ reçoivent leur premier enseignement symbolique et un étrange phénomène se produit : une présence étrangère semble répondre à l’un d’eux.
 
-Le chapitre se termine dans le **Reliquaire Wuju**, où les PJ sont autorisés à approcher un héritage normalement fermé aux étrangers. Là, ils reçoivent une première reconnaissance symbolique et perçoivent un présage incompréhensible : quelque chose, quelque part, semble répondre à leur présence.
-
-La dernière scène doit ouvrir naturellement sur le chapitre II sans encore prononcer le nom de Xolaani ni expliquer les Darkin.
+Le chapitre se termine lorsque Yi les invite à poursuivre leur apprentissage aux **Chutes de Brume**. Juste avant le départ, un Noxien nommé **Cassian** arrive au monastère sous la protection d’une ancienne promesse faite par Yi. La réaction de Jun annonce immédiatement que sa présence ne sera pas simple.
 
 ---
 
 # Objectifs du chapitre
 
-À la fin de cette aventure, le MJ doit avoir obtenu quatre résultats.
+À la fin du chapitre, quatre choses doivent être établies.
 
-**Les joueurs doivent comprendre Ionia comme un lieu vivant.** La nature et les esprits ne sont pas simplement du décor.
+**Ionia est vivante.** La nature et les esprits ne sont pas seulement du décor.
 
-**Les PJ doivent avoir une relation avec Maître Yi.** Ils n'ont pas besoin de devenir ses élèves au sens strict, mais il doit désormais les considérer comme dignes d'être observés et guidés.
+**Yi connaît désormais les PJ.** Il ne leur fait pas encore entièrement confiance, mais il considère qu’ils peuvent apprendre.
 
-**Le Wuju doit avoir une identité propre.** Ce n'est pas une école de techniques d'épée. C'est une philosophie de maîtrise, de rapport à la puissance et d'harmonie avec le monde vivant.
+**Le Wuju possède une philosophie propre.** Il ne se réduit pas à un style d’épée ou à une source de puissance.
 
-**Un premier malaise doit être posé.** Quelque chose de plus ancien existe derrière les événements du Prologue, mais le chapitre I ne doit pas encore fournir d'explication satisfaisante.
+**Quelque chose d’ancien existe derrière le décor.** Le MJ doit créer un malaise, pas donner une explication.
 
 ---
 
@@ -66,21 +65,19 @@ La dernière scène doit ouvrir naturellement sur le chapitre II sans encore pro
 
 ## Arrivée en Ionia
 
-La Baie des Pins est le premier contact des personnages avec Ionia.
+La Baie des Pins est le premier contact du groupe avec Ionia. Le lieu doit d’abord être beau, puis légèrement étrange.
 
-Le lieu doit être beau avant d'être étrange.
+Une côte claire s’ouvre entre deux falaises couvertes de pins et d’arbres aux feuillages colorés. Des racines traversent les rochers jusque dans l’eau. Les maisons du petit village ont été construites à distance de la plage, comme si les habitants avaient volontairement laissé la rive aux marées et aux esprits.
 
-Une côte claire s'ouvre entre deux falaises couvertes de conifères et d'arbres aux feuillages colorés. De longues racines descendent jusque dans la pierre. Des maisons basses sont construites à distance de la mer, comme si les habitants avaient volontairement laissé la plage aux esprits et aux marées.
-
-Des rubans de tissu pendent à certaines branches. De petites pierres plates sont empilées près du chemin. Aucun panneau n'explique leur sens.
+Des rubans pendent à certaines branches. De petits cairns de pierres bordent le chemin. Rien ne les explique.
 
 ### À lire aux joueurs
 
 > Après des jours de voyage, la côte apparaît enfin entre deux nappes de brume.
 >
-> Ionia ne ressemble pas à une terre qui aurait été construite. Elle donne plutôt l'impression qu'on a appris à vivre autour de ce qui était déjà là.
+> Ionia ne ressemble pas à une terre que l’on aurait construite. Elle donne plutôt l’impression qu’on a appris à vivre autour de ce qui était déjà là.
 >
-> Des pins immenses s'accrochent aux falaises. Leurs racines traversent la roche avant de disparaître dans une terre couverte de mousse. Plus loin, quelques toits de bois apparaissent entre les arbres.
+> Des pins immenses s’accrochent aux falaises. Leurs racines traversent la roche avant de disparaître dans une terre couverte de mousse. Plus loin, quelques toits de bois apparaissent entre les arbres.
 >
 > Le quai est modeste. Aucun garde ne vient vous accueillir.
 >
@@ -88,83 +85,49 @@ Des rubans de tissu pendent à certaines branches. De petites pierres plates son
 
 ## Une arrivée observée
 
-Les habitants ne doivent pas traiter immédiatement les PJ comme des héros ou comme des ennemis.
+Les habitants ne sont ni hostiles ni particulièrement accueillants. Les guerres ont appris aux communautés isolées à observer les étrangers avant de leur ouvrir leur porte.
 
-Ils ont connu les conséquences des guerres, des mercenaires, des voyageurs et des armées étrangères. Leur premier réflexe est donc d'observer.
+Le MJ doit retenir les premiers gestes des PJ : saluent-ils, demandent-ils avant de toucher, observent-ils les rites locaux, se moquent-ils de ce qu’ils ne comprennent pas ? Aucun de ces choix ne doit déclencher une punition immédiate. Ils permettront simplement à Yi et à Jun de se faire une première idée du groupe.
 
-Un personnage qui respecte les lieux, pose des questions ou attend avant de toucher aux objets rituels est rapidement mieux accueilli.
+## Le premier signe spirituel
 
-Un personnage qui arrache un ruban, renverse un cairn ou traite les coutumes locales avec mépris provoque une réaction froide mais mesurée. Le but n'est pas de punir, mais de montrer immédiatement que le comportement des PJ compte.
+Près de la sortie du village se trouve un petit autel de pierre. Quand un PJ passe devant, choisissez un détail discret : une clochette tinte sans vent, une flamme se redresse, un animal cesse soudain de fuir.
 
-## Premier indice spirituel
-
-À proximité de la baie se trouve un petit autel de pierre consacré à un esprit local sans importance majeure pour la campagne.
-
-Le détail intéressant n'est pas l'autel lui-même, mais sa réaction.
-
-Lorsqu'un PJ passe devant, une flamme presque éteinte peut se redresser sans vent. Un petit animal peut cesser de fuir. Une clochette suspendue peut tinter alors que rien ne la touche.
-
-Le MJ ne doit donner aucune explication.
-
-Si les joueurs enquêtent, les habitants se contentent de réponses simples :
+Si les personnages interrogent les habitants, une vieille femme répond seulement :
 
 > « Les esprits regardent aussi les nouveaux venus. »
 
-## Trouver la route du monastère
+## La route du monastère
 
-Le monastère Wuju n'est pas indiqué sur les cartes ordinaires.
+Le monastère Wuju n’est pas indiqué sur les cartes ordinaires. Les villageois connaissent son existence, mais peu l’ont visité.
 
-Les habitants connaissent son existence, mais peu y sont allés. Certains parlent seulement d'un vieux sanctuaire dans la montagne. D'autres disent qu'un homme aux lunettes étranges descend parfois acheter du thé ou du riz.
+Si les PJ ont respecté les lieux, une ancienne leur indique le sentier et ajoute :
 
-Une ancienne femme du village peut finalement indiquer le chemin aux personnages si leur comportement ne l'a pas convaincue de les éviter.
-
-Elle leur donne un conseil simple :
-
-> « Ne cherchez pas le temple. Suivez le sentier jusqu'au moment où vous penserez vous être trompés. Continuez encore. »
-
-Cette phrase doit annoncer la logique du Wuju : l'accès ne dépend pas uniquement de la géographie.
+> « Ne cherchez pas le temple. Suivez le chemin jusqu’au moment où vous penserez vous être trompés. Continuez encore. »
 
 ---
 
 # 2. La route des hauteurs
 
-Le trajet jusqu'au monastère ne doit pas être long en temps de jeu, mais il doit modifier l'ambiance.
+Le trajet doit être court en temps de jeu, mais suffisant pour faire disparaître le bruit de la mer et installer une atmosphère plus contemplative.
 
-Le bruit de la mer disparaît.
-
-Les sentiers deviennent étroits. Des terrasses abandonnées apparaissent entre les arbres. Plusieurs portent encore des traces anciennes de l'invasion noxienne : pierre noircie, métal rouillé, murs reconstruits autour de cicatrices plus anciennes.
-
-Le MJ peut utiliser cette marche pour demander aux joueurs ce que leurs personnages pensent d'Ionia ou pourquoi ils cherchent réellement Maître Yi.
+Les personnages croisent des terrasses abandonnées et plusieurs cicatrices de l’invasion noxienne : pierre noircie, vieux métal, murs reconstruits autour de fondations brûlées.
 
 ## Le cairn brisé
 
-Sur le chemin, les PJ trouvent un petit cairn effondré au milieu du sentier.
+Un petit cairn s’est effondré au milieu du sentier.
 
-Ce n'est pas une énigme. C'est un test discret de comportement.
+Ce n’est pas une énigme et rien n’oblige les PJ à intervenir. S’ils prennent le temps de le reconstruire, notez-le. S’ils l’ignorent, rien ne se passe. S’ils le détruisent volontairement ou emportent ses pierres malgré leur fonction évidente, notez-le également.
 
-S'ils le reconstruisent ou prennent le temps de comprendre ce qu'il représente, notez-le.
+Plus tard, Yi peut faire référence à leur comportement alors qu’il n’était pas présent.
 
-S'ils l'ignorent, rien ne se passe.
-
-S'ils utilisent volontairement les pierres pour autre chose ou détruisent le reste, notez-le aussi.
-
-Plus tard, Yi peut faire référence à des choses qu'il n'était pourtant pas présent pour voir.
-
-Il n'est pas nécessaire d'expliquer comment.
-
-## Premier aperçu du monastère
-
-Le temple ne doit pas apparaître comme une forteresse gigantesque.
-
-Il est discret.
-
-Construit contre la montagne, entouré d'arbres et de terrasses, il ressemble davantage à un lieu qui a survécu en refusant d'attirer l'attention.
+## Le monastère
 
 ### À lire aux joueurs
 
 > Le sentier se termine sans prévenir.
 >
-> Devant vous, il n'y a d'abord qu'un mur de pierre claire couvert de mousse et une porte de bois sombre.
+> Devant vous, il n’y a d’abord qu’un mur de pierre claire couvert de mousse et une porte de bois sombre.
 >
 > Puis le vent tourne.
 >
@@ -172,7 +135,7 @@ Construit contre la montagne, entouré d'arbres et de terrasses, il ressemble da
 >
 > Aucun garde ne vous arrête.
 >
-> Une jeune femme se tient pourtant de l'autre côté de la cour. Elle vous regardait déjà avant même que vous franchissiez la porte.
+> Une jeune femme se tient pourtant de l’autre côté de la cour. Elle vous regardait déjà avant même que vous franchissiez la porte.
 
 ---
 
@@ -180,333 +143,165 @@ Construit contre la montagne, entouré d'arbres et de terrasses, il ressemble da
 
 ## Jun
 
-La première personne importante rencontrée au monastère est **Jun**.
+Jun est disciplinée, directe et protectrice envers le lieu. Elle ne cherche pas à provoquer les PJ, mais veut savoir ce qu’ils viennent chercher.
 
-Elle ne doit pas être agressive. Elle est disciplinée, directe et protectrice envers le lieu.
-
-Son premier objectif est de comprendre ce que veulent les PJ.
-
-Elle peut leur demander :
-
-- qui leur a parlé du monastère ;
-- pourquoi ils cherchent Maître Yi ;
-- ce qu'ils pensent apprendre ici ;
-- s'ils sont venus pour « devenir plus forts ».
-
-Cette dernière réponse compte.
-
-Si un personnage répond simplement qu'il veut de la puissance, Jun ne l'expulse pas. Elle lui répond :
+Elle demande notamment ce qu’ils espèrent apprendre. Si l’un d’eux répond simplement qu’il veut devenir plus puissant, elle répond :
 
 > « Alors vous avez probablement marché trop loin. »
 
+Cette remarque ne ferme aucune porte. Elle permet simplement au MJ de poser immédiatement le thème du chapitre.
+
 ## Première rencontre avec Yi
 
-Yi ne fait pas une entrée spectaculaire.
-
-Il peut être assis sous un arbre, réparer un fourreau, préparer du thé ou observer un disciple travailler une posture simple.
-
-Le but est de casser immédiatement l'image du grand maître attendant ses futurs héros.
+Yi ne fait aucune entrée spectaculaire. Il est assis sous un arbre, une tasse près de lui et une lame encore dans son fourreau.
 
 ### À lire aux joueurs
 
-> L'homme que Jun vous désigne ne ressemble pas à quelqu'un qui attendait votre arrivée.
+> L’homme que Jun vous désigne ne ressemble pas à quelqu’un qui attendait votre arrivée.
 >
-> Il est assis sur le bord d'une terrasse, une tasse entre les mains. À côté de lui repose une lame dans son fourreau.
+> Il est assis sur le bord d’une terrasse, une tasse entre les mains. À côté de lui repose une lame dans son fourreau.
 >
-> Il ne se lève pas.
->
-> Son regard passe sur chacun de vous avec une lenteur presque inconfortable.
->
-> Puis il regarde vos armes.
->
-> Enfin, il revient à vos visages.
+> Son regard passe sur chacun de vous, puis sur vos armes, avant de revenir à vos visages.
 >
 > « Vous avez fait beaucoup de chemin », dit-il.
 >
 > Un silence.
 >
-> « J'espère que vous savez pourquoi. »
+> « J’espère que vous savez pourquoi. »
 
-## La question de Yi
+## Pourquoi voulez-vous apprendre ?
 
-Yi ne demande pas aux PJ de raconter leur biographie complète.
-
-Il leur pose une question :
+Yi pose une seule question à chacun :
 
 > **« Pourquoi voulez-vous apprendre ? »**
 
-Les réponses ne déterminent pas qui est « bon » ou « mauvais ».
+Il ne cherche pas la « bonne » réponse.
 
-Elles permettent au MJ de choisir les thèmes sur lesquels Yi reviendra plus tard.
+Un PJ qui parle de protection sera interrogé sur la différence entre protéger et contrôler. Un PJ qui cherche la force sera interrogé sur ce qu’il fera lorsqu’il sera assez fort. Un PJ qui parle de vengeance sera invité à se demander à qui appartient réellement une lame guidée par la colère. « Je ne sais pas » est une réponse acceptable.
 
-Quelques exemples :
+Yi refuse ensuite de montrer la moindre technique.
 
-- **Pour protéger quelqu'un.** Yi demandera jusqu'où le personnage est prêt à aller et s'il sait protéger sans contrôler.
-- **Pour devenir plus fort.** Yi questionnera ce que le personnage fera lorsque la force ne suffira pas.
-- **Pour se venger.** Yi ne condamnera pas immédiatement, mais demandera à qui appartient réellement une lame guidée par la vengeance.
-- **Par curiosité.** Yi considérera cette réponse plus honnête qu'une fausse noblesse.
-- **Je ne sais pas.** Yi peut apprécier cette réponse, parce qu'elle laisse encore une place à l'apprentissage.
-
-## Pas d'enseignement immédiat
-
-Yi refuse de montrer une technique aux PJ lors de cette première rencontre.
-
-Il explique qu'il a déjà vu des guerriers capables d'apprendre un mouvement en une journée et de passer une vie entière sans en comprendre le sens.
-
-Il leur propose autre chose : aider le monastère et les communautés voisines.
-
-Pas comme mercenaires.
-
-Comme observateurs de leurs propres décisions.
+> « J’ai vu des guerriers apprendre un mouvement en un jour et passer une vie entière sans comprendre ce qu’ils faisaient. Vous commencerez ailleurs. »
 
 ---
 
-# 4. Interlude — Le thé au dojo
+# 4. Le thé au dojo
 
-> **Élément de travail hérité de l'ancien chapitre. À conserver si le rythme fonctionne.**
+Avant toute mission, Yi invite les PJ à partager le thé avec les disciples.
 
-Avant de choisir les épreuves, Yi invite les PJ à partager un thé avec les disciples.
+Cette scène doit rester. Elle humanise le monastère et offre aux joueurs une respiration avant les épreuves.
 
-Cette scène sert de respiration et permet de présenter le monastère comme un lieu habité, pas comme une salle d'attente entre deux quêtes.
+Ils peuvent observer l’entraînement, discuter avec Jun, poser des questions ou simplement écouter.
 
-Les joueurs peuvent parler avec Jun, observer les entraînements, poser des questions sur le Wuju ou simplement discuter entre eux.
+Yi parle peu. Il observe surtout qui écoute, qui interrompt, qui cherche immédiatement à défier les disciples, qui s’intéresse à l’histoire du lieu et qui comprend que l’entraînement n’est pas un spectacle.
 
-## Ce que Yi observe
+À la fin du thé, il présente trois problèmes qui doivent être réglés dans les environs.
 
-Yi n'interroge plus directement les PJ.
-
-Il regarde :
-
-- qui écoute les autres ;
-- qui cherche immédiatement à comparer sa force aux disciples ;
-- qui pose des questions sur l'histoire du lieu ;
-- qui traite les habitants comme des figurants ;
-- qui comprend que l'entraînement n'est pas un spectacle.
-
-Cette scène peut modifier légèrement la manière dont Yi propose ensuite les épreuves.
+Il ne les appelle jamais des épreuves.
 
 ---
 
-# 5. Les trois épreuves
+# 5. Le choix des épreuves
 
-Yi présente trois problèmes réels auxquels le monastère ou les habitants voisins sont confrontés.
+Les trois missions sont réelles. Des habitants attendent réellement de l’aide.
 
-Il ne les appelle pas forcément des « épreuves ».
+**Première mission.** Les PJ choisissent librement celle qui les attire.
 
-Cette nuance est importante.
+**Seconde mission.** À leur retour, Yi leur suggère celle qui répond le mieux à ce qu’il a observé lors de leur première mission. Il ne l’impose pas : un groupe qui souhaite suivre une autre piste peut le convaincre en expliquant son choix.
 
-Les PJ ne doivent pas avoir l'impression d'entrer dans trois salles conçues artificiellement pour les tester. Ils rendent réellement service à des gens. Le test vient de la façon dont ils choisissent d'agir.
+**Troisième mission.** Elle est prise en charge hors champ par Jun ou d’autres disciples. Elle peut revenir plus tard comme rumeur, conséquence ou accroche secondaire.
 
-## Règle de structure proposée
-
-La version de travail suivante est recommandée :
-
-- les PJ découvrent les trois possibilités ;
-- ils en choisissent **deux** ;
-- la troisième reste non jouée, ou peut être résolue hors champ par les disciples ;
-- Yi tient compte du choix lui-même autant que des résultats.
-
-Cette structure donne de la liberté tout en évitant que le chapitre devienne trop long.
+Cette structure évite l’effet « trois salles de test » et donne au choix lui-même une valeur narrative.
 
 ---
 
-# 6. Épreuve I — L'Esprit Rancunier
+# 6. L’Esprit Rancunier
 
 ## Situation
 
-Dans un hameau proche du monastère, un esprit autrefois protecteur est devenu hostile.
+À une demi-journée du monastère, le hameau de **Shanmen** subit depuis plusieurs nuits des manifestations violentes : portes arrachées, animaux paniqués, rêves identiques, traces de branches à l’intérieur des maisons.
 
-Les habitants parlent d'apparitions nocturnes, de portes qui claquent, d'animaux retrouvés loin de leurs enclos et de rêves identiques dans plusieurs familles.
+Les habitants accusent un esprit protecteur ancien devenu dangereux.
 
-Certains veulent que le monastère détruise l'esprit.
+## Ce qui s’est réellement passé
 
-Yi refuse de donner cette réponse avant que quelqu'un ait compris pourquoi il est en colère.
+Après un glissement de terrain, les habitants ont déplacé une pierre commémorative pour consolider un mur d’irrigation. Avec le temps, presque personne ne se souvenait plus que cette pierre portait les noms de villageois morts lors de l’invasion noxienne.
 
-## Ce qui se passe réellement
+L’esprit du lieu, une créature aux traits de cervidé couverte de mousse et de rameaux, était lié à ce souvenir. Le déplacement n’a pas seulement profané son sanctuaire : il a, à ses yeux, effacé les morts une seconde fois.
 
-L'esprit est lié à un lieu de mémoire profané ou oublié pendant les reconstructions qui ont suivi la guerre.
-
-Le détail exact pourra être fixé lors d'une passe de lore. Le principe à conserver est le suivant :
-
-**la rancune a une cause compréhensible, mais elle met désormais des innocents en danger.**
-
-Les PJ doivent donc choisir entre comprendre, contenir, apaiser ou détruire.
-
-Aucune de ces options ne doit être totalement gratuite.
-
-## Arrivée au hameau
+Sa colère est compréhensible. Ses actes mettent néanmoins les vivants en danger.
 
 ### À lire aux joueurs
 
 > À mesure que vous approchez, le sentier devient étrangement silencieux.
 >
-> Il n'y a pourtant rien d'abandonné ici. De la fumée monte des cheminées. Des outils sont posés devant les maisons. Du linge sèche sous un auvent.
+> Le hameau n’est pourtant pas abandonné. De la fumée monte des cheminées. Des outils sont posés devant les maisons. Du linge sèche sous un auvent.
 >
 > Mais personne ne reste dehors plus longtemps que nécessaire.
 >
 > Près du puits, une vieille clochette de bronze se met à vibrer.
 >
-> Il n'y a pas de vent.
+> Il n’y a pas de vent.
 
-## Enquêter
+## Comprendre la colère
 
-Les PJ peuvent découvrir plusieurs éléments :
+Les PJ peuvent découvrir que les manifestations ont commencé après les travaux, que les attaques suivent toujours le même ancien chemin jusqu’au lieu où se dressait la pierre, et que l’esprit effraie davantage qu’il ne tue.
 
-- les manifestations ont commencé après des travaux récents ;
-- une pierre ou un petit sanctuaire ancien a été déplacé ;
-- les habitants ne connaissaient plus exactement sa fonction ;
-- l'esprit n'attaque pas au hasard : ses manifestations suivent un motif ;
-- certaines victimes sont davantage effrayées que blessées.
+Le combat est possible, mais il ne doit pas être obligatoire.
 
-Le but est que des joueurs attentifs comprennent qu'un dialogue est possible avant que le combat commence.
+Remettre la pierre en place, recréer un lieu de mémoire ou convaincre le village d’inscrire à nouveau les noms peut apaiser l’esprit.
 
-## Rencontre avec l'esprit
+Si le groupe le détruit sans chercher à comprendre, Yi demandera au retour :
 
-L'esprit peut prendre une forme animale ou semi-humaine selon l'esthétique retenue plus tard.
+> « Était-il dangereux, ou était-il simplement plus facile à tuer qu’à écouter ? »
 
-Il est agressif, mais pas immédiatement meurtrier.
+### Question de l’épreuve
 
-S'il est attaqué, il se défend.
-
-S'il est écouté, ses manifestations deviennent progressivement compréhensibles.
-
-## Résolutions possibles
-
-### Apaiser
-
-Les PJ réparent le lieu, rendent ce qui a été déplacé ou organisent un geste de mémoire.
-
-C'est la résolution la plus proche de la philosophie Wuju, mais elle ne doit pas être automatique : les personnages doivent comprendre ce que l'esprit réclame.
-
-### Contenir
-
-Les PJ trouvent un compromis empêchant l'esprit de nuire sans résoudre complètement la cause.
-
-Yi considérera cette solution comme pragmatique, mais incomplète.
-
-### Détruire
-
-C'est possible.
-
-Si l'esprit représente désormais un danger immédiat et refuse toute autre solution, le combat peut être justifié.
-
-Mais Yi demandera ensuite si les PJ ont réellement essayé de comprendre ce qu'ils tuaient.
-
-La différence entre nécessité et impatience est le cœur de l'épreuve.
-
-## Ce que Yi veut apprendre
-
-Cette épreuve pose la question :
-
-> **Peut-on reconnaître la légitimité d'une colère sans lui permettre de tout détruire ?**
+> **Peut-on reconnaître la légitimité d’une colère sans lui permettre de tout détruire ?**
 
 ---
 
-# 7. Épreuve II — L'Escorte du Manuscrit
+# 7. L’Escorte du Manuscrit
 
 ## Situation
 
-Un ancien manuscrit doit être transporté entre le monastère et un érudit, un sanctuaire secondaire ou une communauté alliée.
+Le monastère doit faire parvenir un ancien recueil de poèmes et de formes Wuju à **Sae Rin**, une calligraphe âgée chargée d’en produire une copie avant que l’encre originale ne disparaisse.
 
-L'objet n'est pas nécessairement magique.
-
-Sa valeur vient de ce qu'il contient : mémoire, technique, poésie ou histoire que le Wuju refuse de laisser disparaître.
-
-La mission semble être la plus simple des trois.
-
-Elle ne l'est pas.
-
-## Le véritable enjeu
-
-Sur la route, les PJ rencontrent une situation qui les force à choisir entre la sécurité de leur mission et l'aide à des personnes en danger.
-
-Le manuscrit devient donc une responsabilité concrète :
-
-**protéger un héritage signifie-t-il ignorer ceux qui sont encore vivants ?**
-
-## Départ
-
-Yi ou Jun remet le manuscrit au groupe dans un emballage résistant aux intempéries.
-
-Une instruction est donnée :
+Jun remet le rouleau aux PJ dans un étui étanche.
 
 > « Il doit arriver intact. »
 
-Rien d'autre.
+Elle ne dit jamais « à tout prix ».
 
-Le MJ ne doit pas ajouter « à tout prix ».
+## L’incident
 
-Cette absence est volontaire.
+À mi-chemin, les PJ atteignent un pont de bois endommagé par les pluies. Sur l’autre rive, une famille de voyageurs tente d’évacuer un blessé tandis que plusieurs pillards opportunistes profitent de la confusion.
 
-## Incident de route
+Le passage le plus sûr pour le manuscrit consiste à attendre ou à contourner le ravin. Aider immédiatement les voyageurs expose l’étui à une chute, au vol ou aux intempéries.
 
-Le groupe peut découvrir, par exemple :
+Le MJ doit laisser les joueurs inventer leur solution : séparer le groupe, cacher le manuscrit, négocier, sécuriser le passage, confier l’étui à quelqu’un ou accepter un véritable risque.
 
-- un chariot renversé et des voyageurs attaqués ;
-- un pont endommagé au moment où une famille tente de le franchir ;
-- une petite communauté menacée par des pillards ;
-- un voyageur blessé dont le sauvetage impose un détour risqué.
+## Réussir ou échouer
 
-Le scénario exact pourra être fixé plus tard.
+Le manuscrit peut être endommagé sans que l’épreuve soit automatiquement perdue.
 
-Le point mécanique et moral est le même : intervenir augmente le risque que le manuscrit soit perdu, volé ou endommagé.
+Si les PJ ont risqué l’objet pour sauver des vies tout en faisant de leur mieux pour le protéger, Yi peut considérer qu’ils ont compris l’essentiel.
 
-## Plusieurs bonnes réponses
+À l’inverse, un manuscrit livré parfaitement après que le groupe a consciemment abandonné des innocents produit une discussion beaucoup plus difficile.
 
-Il n'y a pas une solution cachée que les joueurs doivent deviner.
+### Question de l’épreuve
 
-Ils peuvent :
-
-- partager le groupe ;
-- sécuriser le manuscrit avant d'intervenir ;
-- négocier ;
-- confier temporairement l'objet ;
-- sacrifier du temps ;
-- accepter un risque réel pour sauver quelqu'un.
-
-L'épreuve mesure la capacité à hiérarchiser des responsabilités, pas à réciter la philosophie du maître.
-
-## En cas de perte du manuscrit
-
-La perte du manuscrit ne doit pas automatiquement signifier l'échec du chapitre.
-
-Si les PJ ont fait un choix cohérent pour sauver des vies et ont réellement essayé de protéger l'objet, Yi peut considérer qu'ils ont compris quelque chose d'essentiel.
-
-À l'inverse, livrer parfaitement le manuscrit après avoir volontairement laissé mourir des innocents peut être considéré comme un échec moral.
-
-## Ce que Yi veut apprendre
-
-Cette épreuve pose la question :
-
-> **Que vaut un héritage si sa protection exige d'oublier les vivants ?**
+> **Que vaut un héritage si sa protection exige d’oublier les vivants ?**
 
 ---
 
-# 8. Épreuve III — Le Sanctuaire sous la Falaise
+# 8. Le Sanctuaire sous la Falaise
 
 ## Situation
 
-Un ancien sanctuaire se trouve dans une cavité accessible depuis le pied d'une falaise.
+À marée basse, un ancien passage apparaît au pied d’une falaise. Derrière lui se trouve un sanctuaire Wuju presque abandonné. Des offrandes ont récemment disparu et plusieurs disciples ont aperçu des lumières dans la cavité.
 
-Le lieu n'est presque plus utilisé.
-
-Des mouvements récents, des lumières ou la disparition d'offrandes ont poussé les disciples à demander une inspection.
-
-Cette épreuve est la plus proche d'une aventure d'exploration classique.
-
-## Fonction du sanctuaire
-
-Le lieu doit annoncer les **Chutes de Brume** sans les répéter.
-
-On y retrouve déjà :
-
-- architecture Wuju ancienne ;
-- réaction du lieu aux intentions ;
-- objets qui ne sont pas nécessairement destinés à être pris ;
-- petites manifestations du Royaume Spirituel ;
-- idée qu'un sanctuaire peut être à la fois un lieu d'apprentissage et une serrure.
-
-Mais aucun Darkin majeur n'y est présent.
+Yi demande simplement aux PJ d’aller voir ce qui s’y passe.
 
 ## Entrée
 
@@ -516,209 +311,147 @@ Mais aucun Darkin majeur n'y est présent.
 >
 > À marée basse, un passage étroit apparaît entre deux parois de pierre.
 >
-> Derrière, le bruit de la mer change.
->
-> Chaque vague résonne comme si elle frappait beaucoup plus loin sous la montagne.
+> Derrière, le bruit de la mer change. Chaque vague résonne comme si elle frappait beaucoup plus loin sous la montagne.
 >
 > Des marches ont été taillées dans la roche. Elles sont anciennes, irrégulières, couvertes de mousse.
 >
-> Sur la première, quelqu'un a gravé un seul symbole : une main ouverte.
+> Sur la première, quelqu’un a gravé un seul symbole : une main ouverte.
 
-## Explorer sans posséder
+## Ce que contient le sanctuaire
 
-Le sanctuaire contient plusieurs objets intéressants : armes anciennes, rouleaux abîmés, offrandes, fragments de jade, outils rituels.
+Le lieu abrite des armes anciennes, des outils rituels, des fragments de jade, quelques rouleaux détériorés et des offrandes modestes. Rien n’est gardé derrière une serrure.
 
-Certains peuvent sembler précieux.
+Le véritable test est précisément là : que font les PJ lorsqu’aucun propriétaire vivant n’est présent pour leur interdire de prendre ?
 
-Le MJ doit observer ce que font les PJ lorsqu'aucun propriétaire vivant n'est présent pour leur dire « non ».
+Prendre un objet n’est pas nécessairement un vol. Certains objets ont été déposés pour être utilisés. Les indices du lieu permettent de distinguer ce qui est offert, ce qui peut être emprunté et ce qui appartient aux morts.
 
-Prendre un objet n'est pas forcément interdit. Certains ont pu être laissés pour être utilisés.
+## Le Gardien de jade mineur
 
-Le véritable enjeu est de comprendre la différence entre **recevoir**, **emprunter** et **prendre**.
+Une statue de jade couverte de racines veille sur la salle profonde. Elle reste immobile tant que les PJ explorent avec respect.
 
-## Une présence résiduelle
+Elle s’éveille si quelqu’un détruit volontairement le sanctuaire, tente d’emporter une relique clairement funéraire ou refuse de rendre un objet après les avertissements du lieu.
 
-Le sanctuaire est surveillé par une manifestation spirituelle ou un gardien mineur.
+Le gardien ne cherche pas à tuer. Il bloque la sortie et tente de récupérer ce qui a été pris.
 
-Il ne se déclenche pas automatiquement contre les intrus.
+Le combat peut donc se terminer simplement lorsque les PJ comprennent ce qu’il demande.
 
-Il réagit aux comportements : destruction, vol, violence inutile, respect, restitution.
+## Premier présage
 
-C'est la première fois que les joueurs peuvent comprendre clairement qu'un lieu Wuju « juge » une intention.
+Dans la partie la plus profonde, un PJ perçoit quelque chose qui n’appartient pas au sanctuaire : une chaleur brève sous la pierre, deux formes courbes entrevues dans l’obscurité, puis l’image d’une silhouette sans visage au milieu d’une foule immobile.
 
-## Le premier présage
+Une sensation de soulagement accompagne la vision.
 
-Dans la partie la plus profonde du sanctuaire, un personnage peut percevoir quelque chose qui ne correspond pas au reste du lieu.
+Elle disparaît aussitôt.
 
-Pas une voix claire.
+### Question de l’épreuve
 
-Pas un nom.
-
-Seulement une impression :
-
-un rythme qui ressemble à une respiration trop lente ;
-
-une chaleur brève sous la pierre ;
-
-ou une image impossible d'une silhouette sans visage au milieu d'une foule immobile.
-
-Puis tout disparaît.
-
-Si les PJ interrogent Yi plus tard, il ne peut pas encore identifier ce phénomène avec certitude.
-
-## Ce que Yi veut apprendre
-
-Cette épreuve pose la question :
-
-> **Que fais-tu de ce que tu peux prendre lorsque personne n'est là pour t'en empêcher ?**
+> **Que fais-tu de ce que tu peux prendre lorsque personne n’est là pour t’en empêcher ?**
 
 ---
 
-# 9. Retour au monastère
+# 9. Le retour devant Yi
 
-Après deux épreuves, les PJ reviennent au temple.
+Après la deuxième mission, Yi reçoit le groupe dans la cour.
 
-Le retour doit être plus calme que le départ.
+Sa première question n’est pas : « Avez-vous réussi ? »
 
-Yi ne demande pas immédiatement : « avez-vous réussi ? »
+> **« Qu’avez-vous appris ? »**
 
-Il demande :
+Le MJ juge alors les décisions selon trois axes : **intention**, **maîtrise** et **responsabilité**.
 
-> « Qu'avez-vous appris ? »
+Yi peut accepter un groupe qui a échoué matériellement, du moment qu’il assume ses choix et montre qu’il est capable d’apprendre. À l’inverse, un groupe qui a accompli tous ses objectifs par violence ou indifférence ne reçoit pas automatiquement son approbation.
 
-Cette question doit permettre aux joueurs de raconter eux-mêmes les événements et de choisir ce qu'ils considèrent important.
-
-## Yi ne juge pas seulement les résultats
-
-Le MJ peut s'appuyer sur trois axes :
-
-### Intention
-
-Pourquoi les PJ ont-ils pris leurs décisions ?
-
-### Maîtrise
-
-Ont-ils été capables de changer de méthode quand la force n'était pas adaptée ?
-
-### Responsabilité
-
-Ont-ils accepté les conséquences de leurs choix ou cherché à les éviter ?
-
-Yi peut critiquer un groupe tout en l'acceptant.
-
-Il n'a pas besoin de trouver les PJ parfaits.
-
-Il doit seulement estimer qu'ils sont capables d'apprendre.
+Si le groupe a commis une faute importante, Yi ne ferme pas la campagne. Il demande une réparation concrète avant de les conduire au Reliquaire.
 
 ---
 
 # 10. Le Reliquaire Wuju
 
-## Fonction narrative
+Le Reliquaire n’est pas une salle au trésor. C’est une salle de mémoire.
 
-Le Reliquaire est la récompense du chapitre.
-
-Mais ce n'est pas une salle au trésor.
-
-C'est le moment où les PJ sont autorisés à entrer plus profondément dans l'histoire du Wuju.
-
-La scène prépare directement le chapitre II.
-
-## Le lieu
-
-Le Reliquaire se trouve dans une partie plus ancienne du monastère.
-
-Il contient peu d'objets visibles.
-
-Des fourreaux sans lame.
-
-Des rubans portant des noms.
-
-Des fragments d'armes brisées.
-
-Des poèmes gravés dans des plaques de bois ou de pierre.
-
-Des objets ordinaires ayant appartenu à des maîtres morts.
-
-Le Wuju conserve davantage des souvenirs que des trophées.
+On y trouve des fourreaux vides, des rubans portant des noms, des fragments d’armes brisées, des tasses, des outils et des poèmes. Le Wuju conserve les traces de ceux qui l’ont transmis, pas seulement leurs armes.
 
 ### À lire aux joueurs
 
 > Yi ouvre lui-même la porte.
 >
-> La pièce derrière n'est ni grande ni riche.
+> La pièce derrière n’est ni grande ni riche.
 >
-> Vous ne voyez pas de coffres, pas de statues couvertes d'or, pas d'armes exposées comme des trophées.
+> Vous ne voyez pas de coffres, pas de statues couvertes d’or, pas d’armes exposées comme des trophées.
 >
 > Seulement des objets soigneusement espacés sur des étagères sombres.
 >
-> Un fourreau vide.
+> Un fourreau vide. Une tasse fendue. Un morceau de garde enveloppé dans un tissu blanc.
 >
-> Une tasse fendue.
->
-> Un morceau de garde enveloppé dans un tissu blanc.
->
-> Des dizaines de rubans portent des noms écrits à l'encre.
+> Des dizaines de rubans portent des noms écrits à l’encre.
 >
 > Yi entre le dernier.
 >
 > « Voici ce que nous avons sauvé », dit-il.
 >
-> Puis son regard s'attarde sur les noms.
+> Son regard s’attarde sur les noms.
 >
-> « Et ce que nous n'avons pas pu sauver. »
+> « Et ce que nous n’avons pas pu sauver. »
 
-## Première reconnaissance
+## Premier enseignement Wuju
 
-Yi autorise les PJ à recevoir un premier enseignement, symbole ou technique Wuju mineure.
+Yi transmet au groupe **Souffle intérieur**, sous une forme encore simple.
 
-La récompense exacte sera liée plus tard au système de progression Wuju des annexes.
+En jeu, cette technique sera détaillée dans les annexes. Narrativement, elle consiste à reprendre le contrôle de sa respiration et de son attention lorsque la peur, la colère ou une influence extérieure menace de décider à la place du personnage.
 
-L'important est que cette récompense soit présentée comme une **confiance**, pas comme un loot.
+Ce n’est pas présenté comme un pouvoir spectaculaire. C’est une marque de confiance.
 
 ## Le présage
 
-Pendant la scène, un phénomène inhabituel se produit.
+Pendant la transmission, l’un des PJ ressent une présence étrangère.
 
-Une vibration traverse brièvement l'un des objets du reliquaire.
+Adaptez la forme à ce personnage : une fatigue qui disparaît soudain, la sensation qu’une douleur ancienne pourrait simplement être retirée, une voix sans mots promettant du silence, ou l’image de deux lames courbes dans une lumière rouge sombre.
 
-Une flamme se couche vers la montagne alors qu'il n'y a aucun courant d'air.
-
-Un PJ particulièrement sensible peut apercevoir une image fugitive :
-
-> une foule immobile ;
->
-> une forme sans visage ;
->
-> deux courbes sombres semblables à des lames ;
->
-> puis une sensation de soulagement presque agréable.
-
-Une pensée étrangère peut apparaître sans être formulée comme une phrase complète :
+Une pensée devient presque distincte :
 
 > **Tu pourrais déposer ce poids.**
 
-Puis la sensation disparaît.
+Puis tout disparaît.
 
-Il est trop tôt pour nommer Xolaani.
-
-Yi perçoit que quelque chose s'est produit, mais pas nécessairement son origine exacte.
-
-Son inquiétude doit être visible parce qu'elle contraste avec son calme habituel.
+Yi remarque la rupture dans l’atmosphère. Il ne sait pas encore la nommer, mais son inquiétude est visible.
 
 ---
 
-# 11. Épilogue — Une invitation
+# 11. Cassian
 
-Après le Reliquaire, Yi ne proclame pas les PJ « maîtres du Wuju ».
+Le lendemain matin, alors que les PJ pensent leur initiation terminée, un voyageur atteint le monastère.
 
-Il leur propose simplement de rester quelque temps.
+Cassian porte l’allure et l’équipement d’un homme qui a longtemps servi dans une armée. Son accent suffit à Jun pour reconnaître immédiatement son origine noxienne.
 
-Il existe, dit-il, un lieu où les anciens disciples apprenaient à écouter ce qui existe derrière le mouvement et la lame.
+Elle se tend avant même qu’il ait fini de saluer.
 
-Les **Chutes de Brume**.
+Yi, lui, ne paraît pas surpris.
 
-Yi n'en dit pas encore davantage.
+### À lire aux joueurs
+
+> Le bruit des pas s’arrête devant la porte de la cour.
+>
+> L’homme qui entre porte deux sabres à la ceinture et la poussière de plusieurs jours de route sur son manteau.
+>
+> Jun se fige.
+>
+> Son regard descend jusqu’aux armes, remonte vers le visage du nouvel arrivant, puis se durcit.
+>
+> « Noxien. »
+>
+> Maître Yi pose calmement sa tasse.
+>
+> « Cassian est mon invité. »
+
+Ne révélez pas encore son pouvoir de magnétisme. À ce stade, Cassian doit surtout être un allié difficile à situer : poli, militaire, observateur, et manifestement lié à Yi par une promesse antérieure.
+
+---
+
+# 12. Épilogue — Vers les Chutes de Brume
+
+Après l’arrivée de Cassian, Yi propose aux PJ de rester quelques jours.
+
+Il existe, dit-il, un lieu où les anciens disciples apprenaient à écouter ce qui existe derrière le mouvement et la lame : **les Chutes de Brume**.
 
 ### À lire aux joueurs
 
@@ -726,7 +459,7 @@ Yi n'en dit pas encore davantage.
 >
 > Pour la première fois depuis votre arrivée, personne ne vous regarde comme des étrangers.
 >
-> Les conversations reprennent dans la cour. Une théière circule. Quelqu'un rit derrière les cuisines.
+> Les conversations reprennent dans la cour. Une théière circule. Quelqu’un rit derrière les cuisines.
 >
 > Maître Yi reste quelques instants près du perron avant de vous rejoindre.
 >
@@ -734,49 +467,40 @@ Yi n'en dit pas encore davantage.
 >
 > Il laisse passer un silence.
 >
-> « C'est un bon début. »
+> « C’est un bon début. »
 >
 > Son regard se tourne vers les montagnes, là où la brume commence déjà à remplir les vallées.
 >
-> « Demain, si vous le souhaitez, je vous montrerai un endroit où mes maîtres m'ont appris à écouter. »
+> « Demain, je vous montrerai un endroit où mes maîtres m’ont appris à écouter. »
 
-La scène termine le chapitre.
+Le chapitre se termine ici.
 
-Le chapitre II commence avec les conséquences du séjour au monastère, les relations avec Jun et Cassian, puis le voyage vers les Chutes de Brume.
+Les personnages passent au **niveau 2**.
 
----
-
-# Notes de conception à verrouiller
-
-Ces points ne sont **pas encore du canon définitif** :
-
-1. Confirmer que les PJ accomplissent exactement **deux épreuves sur trois**.
-2. Définir précisément la raison initiale de leur venue en Ionia et au monastère.
-3. Fixer le contenu historique exact de **L'Esprit Rancunier**.
-4. Fixer le danger concret de **L'Escorte du Manuscrit**.
-5. Définir la carte et le gardien de **Le Sanctuaire sous la Falaise**.
-6. Décider si Cassian apparaît déjà physiquement dans le chapitre I ou seulement au début du chapitre II.
-7. Définir le premier enseignement Wuju gagné au Reliquaire.
-8. Définir comment le premier présage lié à Xolaani varie selon les PJ.
-9. Définir les niveaux exacts de début et de fin du chapitre.
-10. Créer l'illustration maîtresse du chapitre : **Monastère Wuju dans les montagnes ioniennes**.
+Le chapitre II débute avec leur séjour au monastère, les premières tensions ouvertes entre Jun et Cassian, puis le départ vers les Chutes de Brume.
 
 ---
 
-# Résumé rapide pour le MJ
+# Décisions verrouillées pour cette version
 
-**Départ :** arrivée à la Baie des Pins.
+- Les PJ commencent le chapitre au **niveau 1** et passent au **niveau 2** à la fin.
+- Ils jouent **deux épreuves sur trois**.
+- La première épreuve est choisie librement par les PJ.
+- La seconde est suggérée par Yi selon ce qu’il a observé, sans être imposée.
+- L’Esprit Rancunier est lié à une mémoire des morts de l’invasion noxienne déplacée par ignorance.
+- L’Escorte du Manuscrit oppose concrètement la sécurité du texte à l’aide de voyageurs en danger.
+- Le Sanctuaire possède un **Gardien de jade mineur** et sert de première annonce des Chutes de Brume.
+- Le premier enseignement gagné est **Souffle intérieur**.
+- **Cassian apparaît à la fin du chapitre I**, mais son pouvoir reste secret.
+- Le nom de **Xolaani** n’est jamais donné aux joueurs dans ce chapitre.
 
-**Découverte :** route vers le monastère, Jun, Maître Yi et philosophie du Wuju.
+---
 
-**Choix :** trois épreuves proposées, deux à accomplir.
+# Travail restant avant mise en page finale
 
-**Thèmes :** colère et apaisement ; héritage et responsabilité ; possession et maîtrise.
-
-**Retour :** Yi juge les décisions plus que les résultats.
-
-**Récompense :** accès au Reliquaire Wuju et premier enseignement.
-
-**Présage :** manifestation incomprise liée à la future menace Darkin.
-
-**Transition :** Yi invite les PJ à poursuivre leur apprentissage aux Chutes de Brume.
+- Équilibrer les DD et les profils de rencontres.
+- Écrire le profil du Gardien de jade mineur.
+- Définir les pillards / obstacles de l’Escorte du Manuscrit.
+- Définir une mécanique simple de confiance Wuju pour le chapitre I.
+- Choisir ou créer la carte de la Baie des Pins, du monastère et du Sanctuaire sous la Falaise.
+- Créer l’illustration d’ouverture du chapitre : **Monastère Wuju dans les montagnes ioniennes**.
