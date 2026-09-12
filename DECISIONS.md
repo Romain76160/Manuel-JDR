@@ -109,7 +109,9 @@ Les Chutes de Brume : cascade, bassin, ruines, épée d'Urong. Pas de Kayn sur l
 
 ### Chapitre III
 
-Temple Wuju de nuit, lanternes éteintes, Kayn avec Rhaast, Yi dans la cour.
+Le Temple Wuju doit être représenté **creusé à l'intérieur d'une montagne**, avec une architecture verticale et plusieurs niveaux reliés par escaliers et galeries.
+
+Kayn et Rhaast peuvent apparaître dans l'illustration d'ouverture du chapitre III, mais le temple reste un protagoniste visuel majeur.
 
 ---
 
@@ -119,7 +121,7 @@ Le rendu final du manuel sera préparé pour **Homebrewery V3**.
 
 Le contenu et le style doivent rester séparés autant que possible :
 
-- manuscrit Markdown dans `homebrewery/prologue.md` ;
+- manuscrit Markdown dans `homebrewery/prologue.md` et les modules de chapitre ;
 - CSS dans `homebrewery/style.css`.
 
 Le dépôt GitHub est la source de vérité. Homebrewery sert à la mise en page et à l'export.
@@ -152,3 +154,57 @@ Question récurrente du Prologue :
 > Que fait un personnage de sa puissance lorsqu'il est libre de l'utiliser ?
 
 Cette question doit relier les trois chapitres.
+
+---
+
+## 10. Le Temple Wuju est une montagne habitée
+
+Le Temple Wuju n'est plus conçu comme un monastère principalement extérieur entourant une grande cour.
+
+La version officielle est **un sanctuaire vertical creusé dans la montagne**.
+
+Organisation de référence :
+
+- **niveau 0 :** entrée / vestibule ;
+- **niveau -1 :** temple principal et dojo ;
+- **niveau -2 :** dortoirs et cloître ;
+- **niveau -3 :** reliquaire ;
+- **niveau -4 :** grottes des esprits.
+
+Ce choix sert directement le gameplay du chapitre III : les PJ commencent au milieu de la structure pendant que le Clan des Ombres attaque à la fois depuis le haut et depuis les grottes.
+
+La verticalité doit produire des choix tactiques, pas seulement une belle carte.
+
+---
+
+## 11. Le final de Kayn se joue dans les profondeurs
+
+Le duel Yi–Kayn occupe principalement le niveau -1 et les passages voisins.
+
+Le combat tactique contre le Transfuge descend vers le niveau -3.
+
+La confrontation finale entre les PJ et Kayn doit idéalement se dérouler **dans le reliquaire**, au plus près des Seigneurs des Darkin.
+
+Cela permet aux trois enjeux du Prologue de se rencontrer dans un même lieu :
+
+- le Wuju ;
+- Xolaani ;
+- Kayn/Rhaast.
+
+---
+
+## 12. Les objets de Doran sont des responsabilités, pas du butin
+
+Les objets de Doran sont remis après l'assaut par Yi.
+
+Ils ne récompensent pas le nombre d'ennemis vaincus. Ils récompensent la manière dont les PJ ont utilisé leur puissance.
+
+Trois objets de référence :
+
+- **Lame de Doran** — frapper avec maîtrise ;
+- **Bouclier de Doran** — protéger et tenir ;
+- **Anneau de Doran** — comprendre, soutenir et maîtriser la magie.
+
+Chaque PJ peut recevoir un objet à la fin du Prologue.
+
+Ces objets peuvent évoluer dans les futurs manuels, mais leur première version reste volontairement modérée pour des personnages de niveau 3.
