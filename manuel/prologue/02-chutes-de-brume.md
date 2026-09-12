@@ -1,6 +1,6 @@
 # Chapitre II — Les Chutes de Brume
 
-> **Statut : première version restructurée.**
+> **Statut : version narrative verrouillée.**
 >
 > Ce chapitre reprend la matière de l'ancien PDF *Les Chutes de Brume* en la transformant en aventure continue. L'assaut de Kayn est entièrement déplacé au chapitre III.
 
@@ -22,7 +22,7 @@ Les Chutes de Brume sont un ancien lieu d'entraînement, mais aussi un sanctuair
 
 Sous le sanctuaire se trouve pourtant autre chose : deux lames courbes jumelles, les **Seigneurs des Darkin**, liées à **Xolaani**.
 
-Le chapitre ne doit jamais donner l'impression que les personnages partent simplement chercher une arme. Ils viennent pour poursuivre leur initiation. La découverte des lames doit être une rupture.
+Le chapitre ne doit jamais donner l'impression que les personnages partent chercher une arme. Ils viennent pour poursuivre leur initiation. La découverte des lames doit être une rupture.
 
 ---
 
@@ -30,13 +30,13 @@ Le chapitre ne doit jamais donner l'impression que les personnages partent simpl
 
 Après les Épreuves du Wuju, les PJ sont désormais tolérés comme des hôtes du monastère. Cassian reste auprès d'eux, mais sa présence provoque une tension croissante avec Jun.
 
-Avant le départ pour les Chutes, Jun confronte le groupe au sujet du Noxien. Yi intervient et révèle qu'il a passé un accord avec Cassian : Cassian l'aidera à protéger les siens et, en échange, Yi lui enseignera le secret de la force du Wuju.
+Avant le départ pour les Chutes, Jun confronte le groupe au sujet du Noxien. Yi intervient et révèle qu'il a passé un accord avec Cassian : Cassian aidera à protéger les siens et, en échange, Yi lui enseignera le secret de la force du Wuju.
 
 Cette décision choque Jun, dont les parents ont été tués par des Noxiens.
 
 La nuit précédant le départ, les PJ partagent une vision : une procession silencieuse marche vers une statue sans visage qui promet la fin de toute souffrance.
 
-Le lendemain, Yi conduit les PJ, Jun et Cassian vers les **Chutes de Brume**.
+Le lendemain, **Yi conduit les PJ, Jun et Cassian** vers les Chutes de Brume. Jun accompagne l'expédition parce que Yi veut qu'elle voie par elle-même ce que valent ses certitudes et parce qu'elle connaît les usages du sanctuaire.
 
 Le sentier constitue la première partie de l'épreuve. Les personnages doivent apprendre à observer avant d'agir. Leur conduite est mesurée par les **Points de Confiance Wuju (PCW)**, une jauge collective qui influence les interactions spirituelles du chapitre.
 
@@ -54,11 +54,13 @@ Leur voix promet le soulagement.
 
 C'est la première manifestation claire de Xolaani.
 
-Le chapitre se termine lorsque les personnages décident quoi faire des lames et reviennent au temple de Yi.
+Les cairns déplacés prouvent alors que le sanctuaire n'est plus secret. Yi décide que les lames ne peuvent plus y rester. Sauf opposition forte des PJ, elles sont ramenées au temple sous garde.
+
+Le chapitre se termine au retour au monastère.
 
 La dernière scène ne montre pas Kayn.
 
-Elle montre seulement que, pendant leur absence, quelqu'un a appris leur route.
+Elle montre seulement que quelqu'un connaît désormais la route.
 
 ---
 
@@ -66,14 +68,15 @@ Elle montre seulement que, pendant leur absence, quelqu'un a appris leur route.
 
 À la fin du chapitre :
 
-- les PJ doivent comprendre que le Wuju protège aussi des choses dangereuses ;
-- la relation entre Jun et Cassian doit avoir évolué ;
-- les PJ doivent avoir rencontré Maître Urong ou sa mémoire spirituelle ;
-- les PJ doivent avoir compris que le Royaume Spirituel répond aux intentions ;
-- les Seigneurs des Darkin doivent être découverts ;
-- Xolaani doit être perçue comme une présence séduisante avant d'être comprise comme une menace ;
-- le groupe doit prendre une décision sur le sort des lames ;
-- le retour au temple doit créer une fausse impression de sécurité avant le chapitre III.
+- les PJ comprennent que le Wuju protège aussi des choses dangereuses ;
+- la relation entre Jun et Cassian a évolué ;
+- les PJ ont rencontré Maître Urong ou sa mémoire spirituelle ;
+- ils ont compris que le Royaume Spirituel répond aux intentions ;
+- les Seigneurs des Darkin ont été découverts ;
+- Xolaani a été perçue comme une présence séduisante avant d'être comprise comme une menace ;
+- le groupe a pris position sur le sort des lames ;
+- les lames sont normalement transportées au temple, ce qui prépare le chapitre III ;
+- le retour au temple crée une fausse impression de sécurité.
 
 ---
 
@@ -133,6 +136,18 @@ Il ne demande pas aux PJ de la corriger.
 
 Il leur demande seulement de ne pas confondre une blessure avec une vérité.
 
+## Pourquoi Jun vient aux Chutes
+
+Yi demande finalement à Jun d'accompagner le groupe.
+
+Il ne lui présente pas cela comme une punition.
+
+> « Tu connais le chemin. Et tu as encore des questions. Les Chutes répondent rarement à celles que l'on apporte, mais elles montrent souvent celles que l'on évitait. »
+
+Jun accepte sans enthousiasme.
+
+Cette décision permet à sa relation avec Cassian d'évoluer pendant l'expédition au lieu de rester un conflit abstrait au temple.
+
 ---
 
 # 2. La nuit de la statue sans visage
@@ -173,7 +188,7 @@ La promesse n'est pas « donne-moi ta puissance ».
 
 C'est : **tu n'auras plus jamais besoin de souffrir**.
 
-Si Cassian dort au temple, il entend au minimum la dernière phrase.
+Cassian entend au minimum la dernière phrase. Jun peut n'avoir vu qu'un fragment de la procession, ce qui la rend plus vulnérable à la promesse sans lui donner toutes les clés.
 
 ## Réaction de Yi
 
@@ -193,7 +208,10 @@ Les **PCW** représentent la manière dont les esprits du sanctuaire perçoivent
 
 La jauge est collective et va de **0 à 5**.
 
-Le groupe commence le chapitre avec **1 PCW** s'il a terminé le chapitre I en ayant gagné la confiance de Yi. Le MJ peut partir de 0 si le groupe a clairement abusé de cette confiance.
+Le groupe commence normalement avec **1 PCW** grâce à la confiance gagnée au chapitre I.
+
+- Si les PJ ont particulièrement respecté les enseignements du Wuju et les communautés rencontrées : **2 PCW**.
+- S'ils ont réussi leurs épreuves surtout par brutalité, mensonge ou mépris des avertissements : **0 PCW**.
 
 Chaque point réduit de 1 les difficultés liées aux interactions spirituelles importantes :
 
@@ -247,6 +265,10 @@ Les PJ peuvent les remettre en place, suivre les traces ou simplement mémoriser
 Ils ne doivent pas encore savoir qu'il s'agit d'un repérage réalisé pour préparer l'assaut du chapitre III.
 
 Un personnage attentif comprend seulement qu'**une autre personne est passée récemment et connaissait suffisamment les usages Wuju pour manipuler les balises sans se perdre**.
+
+Jun confirme que les cairns n'ont pas été déplacés par un disciple.
+
+Yi devient plus attentif, mais il refuse de transformer immédiatement l'expédition en chasse à l'intrus.
 
 ## Pas de combat ici
 
@@ -392,6 +414,26 @@ Cassian ne comprend pas davantage que les PJ.
 
 Mais il comprend que cette histoire le concerne personnellement.
 
+## Jun dans le Royaume Spirituel
+
+Jun voit pendant un instant une maison qu'elle ne reconnaît d'abord pas.
+
+Puis elle comprend qu'il s'agit de celle de son enfance.
+
+Des silhouettes l'attendent devant la porte.
+
+Ses parents.
+
+Urong ne commente pas la vision et ne lui dit pas qu'elle est fausse.
+
+Il lui demande seulement :
+
+> « Si quelqu'un pouvait te les rendre, qu'accepterais-tu de lui donner ? »
+
+Jun refuse de répondre.
+
+Cette question prépare directement la manière dont Xolaani pourra tenter de l'atteindre plus tard.
+
 ## Le Reflet sombre
 
 Le Reflet sombre est conservé comme épreuve facultative.
@@ -405,6 +447,14 @@ Urong résume :
 Le reflet peut être vaincu par le combat ou par la reconnaissance de ce qu'il incarne.
 
 Cette scène ne doit pas durer plus longtemps que nécessaire.
+
+## Récompense d'Urong
+
+Chaque PJ ayant traversé sincèrement l'épreuve reçoit **un enseignement Wuju mineur**.
+
+Le choix précis sera défini dans les annexes parmi les techniques du Prologue, mais la récompense doit être narrative avant d'être mécanique : une manière de respirer, de se déplacer, de regarder ou de conserver son calme.
+
+Urong ne « donne » pas un pouvoir. Il aide le personnage à comprendre quelque chose qu'il était déjà capable de faire.
 
 ---
 
@@ -516,33 +566,41 @@ La possession complète appartient à la suite de la campagne.
 
 # 10. Que faire des lames ?
 
-Cette décision doit appartenir aux joueurs.
+Le choix appartient aux joueurs, mais le scénario possède une trajectoire privilégiée.
 
-Plusieurs issues sont possibles.
+## Les ramener au temple — trajectoire principale
+
+Les cairns déplacés prouvent que quelqu'un a découvert le chemin.
+
+Yi juge donc que le sanctuaire n'est plus une cache sûre.
+
+> « Un secret qui a été trouvé une fois peut l'être deux fois. »
+
+Il propose de transporter les lames au temple pour la nuit, avant de décider d'un nouveau lieu de garde.
+
+C'est la trajectoire normale vers le chapitre III.
 
 ## Les laisser scellées
 
-Le choix le plus prudent.
+Les PJ peuvent s'opposer à Yi et demander que les lames restent sous la chute.
 
-Yi pourra néanmoins décider qu'elles ne sont plus en sécurité ici, puisque quelqu'un a déjà déplacé les cairns du sentier.
+Yi accepte d'entendre leurs arguments.
+
+Si elles restent aux Chutes, le chapitre III fonctionne quand même : le Clan des Ombres attaque le temple pour obtenir l'emplacement exact, capturer un témoin ou voler les informations permettant d'ouvrir le sceau.
 
 ## Les confier aux esprits
 
-Possible si les PJ ont une confiance Wuju élevée et ont obtenu l'accord d'Urong.
+Possible si le groupe possède au moins 4 PCW et a obtenu l'accord d'Urong.
 
-Le sanctuaire devient alors plus difficile à atteindre, mais le problème n'est pas résolu définitivement.
+Le sanctuaire se referme partiellement.
 
-## Les ramener au temple
-
-C'est la solution que Yi privilégiera s'il estime le sanctuaire compromis.
-
-Elle mène directement au chapitre III.
+Le chapitre III devient alors un assaut visant à arracher aux défenseurs le moyen de retrouver l'accès.
 
 ## Refuser de décider
 
-Yi peut prendre la responsabilité finale.
+Yi assume la responsabilité et choisit de les ramener au temple.
 
-Le choix devient alors un indice sur la relation entre les PJ et leur mentor.
+Ce choix renforce son rôle de mentor, mais permet aux PJ de lui demander plus tard pourquoi il a pris ce risque.
 
 ---
 
@@ -562,21 +620,31 @@ Les personnages doivent croire qu'ils ont traversé le danger principal.
 >
 > Lorsque le temple apparaît enfin au détour de la crête, ses lanternes sont déjà allumées.
 >
-> Jun attend sous le porche.
+> Le monastère semble exactement comme vous l'avez laissé.
 >
-> Son regard compte les silhouettes.
->
-> Puis il s'arrête sur ce que vous transportez.
->
-> Elle ne pose aucune question.
+> Après le silence des Chutes, même les bruits ordinaires paraissent rassurants.
 
 Yi écoute le récit du groupe sans interrompre.
 
-S'ils ont ramené les lames, il finit par dire :
+Si les lames sont revenues, il finit par dire :
 
 > « Elles resteront ici cette nuit. Demain, nous déciderons où le monde peut encore cacher une chose pareille. »
 
-Il prend lui-même la responsabilité de leur garde.
+Il prend lui-même la responsabilité de leur garde et les fait placer au fond du temple.
+
+## Jun et Cassian au retour
+
+Le voyage n'a pas réconcilié Jun avec Cassian.
+
+Mais elle ne parle plus de lui exactement comme avant.
+
+S'il l'a protégée, respectée ou laissée prendre ses propres décisions, elle cesse au moins de le réduire à son origine.
+
+Cassian, de son côté, comprend que la haine de Jun n'est pas un simple préjugé : elle vient d'une perte réelle.
+
+Aucun des deux ne s'excuse encore.
+
+Le chapitre III mettra cette évolution à l'épreuve.
 
 ## La dernière anomalie
 
@@ -638,21 +706,17 @@ Le chapitre III commence quelques heures plus tard.
 - DD de référence : 12 / 14 / 16 / 18 ;
 - Reflet sombre ;
 - Gardien de jade ;
-- techniques Wuju gagnées après la vision ;
-- possibilité d'un point supplémentaire dans l'Arbre Wuju ;
-- réactions spécifiques de Cassian à Xolaani ;
+- enseignements Wuju mineurs gagnés après la vision ;
+- réactions spécifiques de Cassian et Jun à Xolaani ;
 - cartes des Chutes et des ruines.
 
 ---
 
-# Points encore à verrouiller
+# Passe technique restante
 
-1. Décider définitivement si les lames sont normalement ramenées au temple ou si le scénario doit fonctionner à égalité avec les trois choix.
-2. Fixer précisément le rôle de Jun pendant l'expédition : accompagne-t-elle le groupe jusqu'aux Chutes ou reste-t-elle au temple ?
-3. Définir le nombre exact de PCW avec lequel le groupe commence selon le chapitre I.
-4. Équilibrer le Gardien de jade pour le niveau 2.
-5. Définir les récompenses de la vision d'Urong.
-6. Écrire les variantes personnalisées des murmures de Xolaani.
-7. Préparer la carte de référence des Chutes.
-8. Ajouter les renvois vers les annexes.
-9. Synchroniser cette version avec `homebrewery/prologue.md`.
+1. Équilibrer le Gardien de jade pour le niveau 2.
+2. Définir précisément les techniques Wuju mineures dans les annexes.
+3. Écrire des variantes personnalisées supplémentaires des murmures de Xolaani.
+4. Préparer la carte de référence des Chutes.
+5. Ajouter les renvois vers les annexes.
+6. Synchroniser la mise en page complète avec `homebrewery/prologue.md`.
