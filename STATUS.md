@@ -52,18 +52,44 @@ Décision importante : **aucun combat avec Kayn dans ce chapitre**.
 
 # Chapitre III — L'Assaut du Temple
 
-**Statut : narration complète + module Homebrewery complet.**
+**Statut : version montagne réécrite + module Homebrewery synchronisé.**
 
 Fichiers :
 
 - `manuel/prologue/03-assaut-du-temple.md`
 - `homebrewery/chapters/03-assaut-du-temple.md`
+- `lore/temple-wuju.md`
 
 Niveau : 3.
 
-Structure : dernière soirée calme → cloche coupée → Kayn/Rhaast → Yi contre Kayn → bataille du temple → récupération des armes → révélation de Cassian → Transfuge → tentation de Jun → confrontation directe des PJ contre Kayn → plusieurs issues → aube → début réel de la Seconde Guerre Darkin.
+## Architecture canonique du Temple Wuju
 
-Décision importante : le combat final permet réellement aux PJ d'affronter Kayn, mais la victoire repose sur **la protection des objectifs**, pas sur sa mort.
+Le temple est **creusé dans la montagne** et organisé verticalement :
+
+- niveau 0 : entrée / vestibule / râteliers d'armes ;
+- niveau -1 : temple principal / bassin / arbre Wuju / dojo / grande cloche ;
+- niveau -2 : dortoirs / cloître / bibliothèque ;
+- niveau -3 : reliquaire / chambre des esprits ;
+- niveau -4 : grottes des esprits et passage oublié vers l'extérieur.
+
+Cette architecture remplace l'ancienne version du temple en grande cour extérieure.
+
+## Logique de l'assaut
+
+Le Clan des Ombres attaque sur deux fronts :
+
+- par le haut, en prenant le vestibule et les armes ;
+- par le bas, via les grottes spirituelles vers le reliquaire.
+
+Kayn affronte Yi au niveau -1.
+
+Les PJ commencent au niveau -2 et doivent choisir entre **monter**, **rester** ou **descendre**.
+
+Le combat final contre Kayn se déroule idéalement au niveau -3, dans le reliquaire.
+
+Le combat final permet réellement aux PJ d'affronter Kayn, mais la victoire repose sur **la protection des objectifs**, pas sur sa mort.
+
+Kayn commence normalement cette phase à **52 PV** après son duel avec Yi et cherche à se retirer à **25 PV ou moins**. Le groupe peut aussi gagner par **3 succès d'objectif**.
 
 ---
 
@@ -100,8 +126,6 @@ Fichier : `manuel/prologue/bestiaire.md`
 
 Profils déjà posés : Éclaireur du Clan des Ombres, Lame d'ombre, Transfuge noxien, Gardien de jade, Reflet sombre, Cassian et Kayn.
 
-Kayn commence normalement la phase finale à **52 PV** après son duel avec Yi et cherche à se retirer à **25 PV ou moins**. Le groupe peut aussi gagner par **3 succès d'objectif**.
-
 ---
 
 # Homebrewery
@@ -110,20 +134,27 @@ Fichiers :
 
 - `homebrewery/prologue.md` — couverture, introduction et chapitre I ;
 - `homebrewery/chapters/02-chutes-de-brume.md` — chapitre II ;
-- `homebrewery/chapters/03-assaut-du-temple.md` — chapitre III ;
+- `homebrewery/chapters/03-assaut-du-temple.md` — chapitre III version montagne ;
 - `homebrewery/annexes.md` — annexes ;
 - `homebrewery/style.css` — style commun ;
 - `homebrewery/README.md` — ordre d'assemblage.
 
-Le CSS commun définit désormais des blocs distincts :
+Le manuel reste volontairement modulaire pendant l'écriture.
 
-- lecture / description ;
-- conseil MJ ;
-- Wuju / spirituel ;
-- Darkin / tentation ;
-- rencontre tactique.
+---
 
-Le manuel est volontairement maintenu en modules pendant l'écriture pour éviter qu'une modification d'un chapitre casse la mise en page des autres.
+# Références visuelles du Temple Wuju
+
+La direction visuelle validée est :
+
+- temple intégré dans une haute montagne ionienne ;
+- architecture intérieure éclairée aux lanternes ;
+- cascades et eau traversant plusieurs niveaux ;
+- arbres et jardins spirituels à l'intérieur ;
+- reliquaire plus profond et plus minéral ;
+- grottes des esprits aux teintes jade / turquoise.
+
+Les battle maps déjà générées servent de références pour le temple principal, les dortoirs et le reliquaire.
 
 ---
 
@@ -133,6 +164,7 @@ Toujours consulter avant toute modification importante :
 
 - `CANON.md`
 - `DECISIONS.md`
+- `lore/temple-wuju.md`
 
 Le dépôt GitHub est la **source de vérité** du projet.
 
@@ -140,10 +172,10 @@ Le dépôt GitHub est la **source de vérité** du projet.
 
 # Prochaines priorités recommandées
 
-1. Assembler les modules Homebrewery dans la version finale de `prologue.md`.
-2. Construire le **plan tactique du temple** pour le chapitre III.
-3. Intégrer la **carte existante des Chutes de Brume**.
-4. Définir précisément les objets de Doran et récompenses finales.
+1. Finaliser les battle maps séparées du Temple Wuju et leur version MJ/joueurs.
+2. Intégrer la carte existante des Chutes de Brume dans le manuel.
+3. Définir précisément les objets de Doran et récompenses finales.
+4. Assembler tous les modules Homebrewery dans la version finale de `prologue.md`.
 5. Créer les illustrations maîtresses : couverture, chapitre I, chapitre II et chapitre III.
 6. Effectuer une passe d'équilibrage sur les rencontres niveau 1–3.
 7. Faire une passe éditoriale complète et harmoniser les voix de Yi, Jun, Cassian, Kayn, Rhaast et Xolaani.
