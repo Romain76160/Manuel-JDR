@@ -1,0 +1,26 @@
+.page h1,
+.page h2,
+.page h3 {
+  color: #315f56;
+}
+
+.page h1 {
+  letter-spacing: 0.02em;
+}
+
+.page h2 {
+  border-bottom-color: #819d89;
+}
+
+.page .descriptive {
+  background-color: #e8eee9;
+}
+
+.page .note {
+  background-color: #eef0e5;
+}
+
+.page .footnote,
+.page .pageNumber {
+  color: #53645e;
+}
