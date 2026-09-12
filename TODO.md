@@ -6,9 +6,11 @@
 - [x] Rédiger une première version des pages d'introduction destinées au MJ.
 - [x] Écrire un synopsis général du Prologue, du chapitre I au chapitre III.
 - [x] Reconstruire et verrouiller la version narrative du chapitre I.
-- [ ] Intégrer complètement le chapitre I dans le manuscrit Homebrewery.
 - [x] Définir la transition exacte entre le chapitre I et le chapitre II.
-- [x] Reconstruire une première version complète du chapitre II à partir de l'ancien PDF.
+- [x] Reconstruire et verrouiller la version narrative du chapitre II.
+- [x] Écrire une première version narrative complète du chapitre III.
+- [ ] Synchroniser les trois chapitres complets dans `homebrewery/prologue.md`.
+- [ ] Commencer la passe technique : règles, profils, DD, cartes et renvois d'annexes.
 
 ## Chapitre I — Les Épreuves du Wuju
 
@@ -45,55 +47,86 @@ Version narrative verrouillée dans `manuel/prologue/01-epreuves-du-wuju.md`.
 
 ## Chapitre II — Les Chutes de Brume
 
-Première version restructurée dans `manuel/prologue/02-chutes-de-brume.md`.
+Version narrative verrouillée dans `manuel/prologue/02-chutes-de-brume.md`.
 
-### Première passe terminée
+### Contenu validé
 
-- [x] Relire l'ancien `main.pdf` et extraire le contenu utile.
-- [x] Supprimer du chapitre II tout le final contre Kayn.
-- [x] Réorganiser le chapitre comme une aventure continue.
-- [x] Réécrire Cassian et Jun dans la nouvelle structure.
-- [x] Réécrire la route vers les Chutes.
-- [x] Réécrire Urong et l'épée.
-- [x] Réécrire le Royaume Spirituel.
-- [x] Réécrire la découverte des Seigneurs des Darkin.
-- [x] Conserver Xolaani mystérieuse.
-- [x] Écrire le retour au temple.
-- [x] Terminer sur l'annonce silencieuse de l'assaut.
+- [x] Jun accompagne Yi, Cassian et les PJ aux Chutes.
+- [x] Vision de la statue sans visage avant le départ.
+- [x] PCW de 0 à 5, départ normal à 1 ; 2 si chapitre I exemplaire, 0 si confiance malmenée.
+- [x] Sentier des Brumes sans embuscade du Clan des Ombres.
+- [x] Cairns déplacés comme indice d'une surveillance inconnue.
+- [x] Bassin du Silence et trois postures Wuju.
+- [x] Épée de Maître Urong.
+- [x] Royaume Spirituel et questions d'Urong.
+- [x] Vision personnelle de Jun et réaction spécifique de Cassian.
+- [x] Chaque PJ reçoit un enseignement Wuju mineur après l'épreuve d'Urong.
+- [x] Ruines sous la chute et sceau silence / souffle / relâchement.
+- [x] Gardien de jade apaisable sans destruction.
+- [x] Découverte des Seigneurs des Darkin.
+- [x] Première manifestation claire mais mystérieuse de Xolaani.
+- [x] Trajectoire principale : les lames sont ramenées au temple car la cache est compromise.
+- [x] Variantes conservées si les PJ les laissent aux Chutes ou les confient aux esprits.
+- [x] Aucun combat contre Kayn au chapitre II.
+- [x] Retour calme au temple et silence anormal dans la forêt.
 
-### À verrouiller / développer
+### Passe technique restante
 
-- [ ] Décider définitivement si Jun accompagne l'expédition.
-- [ ] Décider si les lames sont normalement ramenées au temple ou si les trois choix restent équivalents.
-- [ ] Fixer le nombre initial de PCW selon le résultat du chapitre I.
 - [ ] Équilibrer le Gardien de jade pour des PJ niveau 2.
-- [ ] Définir précisément les récompenses d'Urong.
-- [ ] Écrire les murmures personnalisés de Xolaani.
+- [ ] Définir précisément les enseignements Wuju mineurs.
+- [ ] Écrire davantage de murmures personnalisés de Xolaani.
 - [ ] Préparer la carte de référence des Chutes.
 - [ ] Ajouter les renvois vers les annexes.
-- [ ] Intégrer complètement le chapitre II dans Homebrewery.
+- [ ] Mise en page Homebrewery complète.
 
 ## Chapitre III — L'Assaut du Temple
 
-- [ ] Écrire la soirée calme avant l'assaut.
-- [ ] Définir le plan du temple pour le combat.
-- [ ] Définir les objectifs du Clan des Ombres.
-- [ ] Définir le lieutenant / boss mécanique des PJ.
-- [ ] Mettre en scène Yi contre Kayn.
-- [ ] Écrire la révélation de Cassian.
-- [ ] Écrire les interventions de Rhaast.
-- [ ] Écrire la phase finale avec Kayn.
-- [ ] Prévoir plusieurs issues possibles.
-- [ ] Écrire l'épilogue du Prologue.
+Première version narrative complète dans `manuel/prologue/03-assaut-du-temple.md`.
+
+### Première passe terminée
+
+- [x] Soirée calme avant l'assaut.
+- [x] Coutume des armes au vestibule.
+- [x] Déclenchement : cloche coupée, lanternes éteintes, apparition de Kayn.
+- [x] Deux batailles parallèles : Yi contre Kayn / PJ contre le Clan des Ombres.
+- [x] Découpage tactique du temple en six zones.
+- [x] Première phase : récupération des armes.
+- [x] Révélation de Cassian par rappel magnétique de ses sabres.
+- [x] Lieutenant principal : Transfuge noxien du Clan des Ombres.
+- [x] Échos du duel Yi–Kayn pendant le combat.
+- [x] Rhaast reconnaît la présence de Xolaani.
+- [x] Tentation de Jun par Xolaani.
+- [x] Phase finale : véritable combat des PJ contre Kayn.
+- [x] Combat de Kayn basé sur des objectifs et non sur sa mise à 0 PV.
+- [x] Utilisation possible des enseignements Wuju, PCW, cloche et décor.
+- [x] Plusieurs sorties de Kayn : repoussé, retraite calculée, victoire partielle ou lames volées.
+- [x] Rhaast peut brièvement prendre le dessus sur Kayn.
+- [x] Épilogue à l'aube.
+- [x] Conséquences pour Cassian, Jun, les lames et l'Acte I.
+- [x] Fin du Prologue : début réel de la Seconde Guerre Darkin.
+
+### Passe technique restante
+
+- [ ] Produire le plan tactique final du temple.
+- [ ] Équilibrer le Transfuge et ses sbires pour des PJ niveau 3.
+- [ ] Créer le profil spécial de Kayn pour un combat d'objectif.
+- [ ] Définir les effets précis de la faveur Wuju pendant le final.
+- [ ] Définir les conséquences mécaniques d'un contact avec Xolaani.
+- [ ] Définir les récompenses de fin de Prologue.
+- [ ] Ajouter les renvois vers le bestiaire et les annexes.
+- [ ] Mise en page Homebrewery complète.
 
 ## Annexes
 
 - [ ] Arbre Wuju.
 - [ ] Techniques Wuju mineures.
+- [ ] Souffle intérieur.
 - [ ] Points de Confiance Wuju.
 - [ ] Objets de Doran.
-- [ ] Fiches PNJ.
-- [ ] Bestiaire.
+- [ ] Fiches PNJ : Yi, Jun, Cassian, Urong.
+- [ ] Bestiaire : Gardien mineur, Gardien des Chutes, Transfuge, éclaireurs.
+- [ ] Profil d'objectif de Kayn et règles de Rhaast.
+- [ ] Règles de murmures / marques de Xolaani.
 - [ ] Cartes.
 - [ ] Handouts joueurs.
 
