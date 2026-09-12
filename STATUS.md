@@ -21,35 +21,21 @@ Le Prologue contient exactement trois chapitres.
 
 # Chapitre I — Les Épreuves du Wuju
 
-**Statut : narration verrouillée.**
+**Statut : narration verrouillée + intégration Homebrewery avancée.**
 
-Fichier : `manuel/prologue/01-epreuves-du-wuju.md`
+Fichier narratif : `manuel/prologue/01-epreuves-du-wuju.md`
+
+Le chapitre I est actuellement intégré directement dans `homebrewery/prologue.md`.
 
 Progression : niveau 1 → niveau 2.
 
-Structure :
-
-- Baie des Pins ;
-- route vers le Monastère Wuju ;
-- Jun ;
-- Maître Yi ;
-- thé au dojo ;
-- trois épreuves proposées, deux jouées ;
-- Esprit Rancunier ;
-- Escorte du Manuscrit ;
-- Sanctuaire sous la Falaise ;
-- Reliquaire Wuju ;
-- apprentissage de Souffle intérieur ;
-- arrivée de Cassian ;
-- invitation vers les Chutes de Brume.
-
-Décision importante : la première épreuve est choisie par les PJ, la seconde est suggérée par Yi selon leur comportement.
+Structure : Baie des Pins → route vers le Monastère Wuju → Jun → Maître Yi → thé au dojo → deux épreuves sur trois → Reliquaire → Souffle intérieur → arrivée de Cassian → invitation vers les Chutes.
 
 ---
 
 # Chapitre II — Les Chutes de Brume
 
-**Statut : narration verrouillée + module Homebrewery créé.**
+**Statut : narration verrouillée + module Homebrewery complet.**
 
 Fichiers :
 
@@ -58,27 +44,7 @@ Fichiers :
 
 Progression : niveau 2 → niveau 3.
 
-Structure :
-
-- tension Jun / Cassian ;
-- vision de la statue sans visage ;
-- Yi, Jun, Cassian et les PJ partent ensemble ;
-- Points de Confiance Wuju ;
-- Sentier des Brumes ;
-- cairns déplacés, sans révéler le Clan des Ombres ;
-- Bassin du Silence ;
-- trois postures Wuju ;
-- épée de Maître Urong ;
-- Royaume Spirituel ;
-- visions de Jun et Cassian ;
-- enseignement Wuju mineur pour les PJ ;
-- ruines sous la chute ;
-- Gardien de jade ;
-- découverte des Seigneurs des Darkin ;
-- premiers murmures clairs de Xolaani ;
-- trajectoire principale : les lames sont ramenées au temple ;
-- retour calme au monastère ;
-- silence anormal dans la forêt.
+Structure : tension Jun/Cassian → statue sans visage → expédition avec Yi → PCW → Sentier des Brumes → Bassin du Silence → Urong → Royaume Spirituel → enseignements Wuju → ruines → Gardien de jade → Seigneurs des Darkin → Xolaani → retour au temple.
 
 Décision importante : **aucun combat avec Kayn dans ce chapitre**.
 
@@ -86,7 +52,7 @@ Décision importante : **aucun combat avec Kayn dans ce chapitre**.
 
 # Chapitre III — L'Assaut du Temple
 
-**Statut : première version narrative complète + module Homebrewery créé.**
+**Statut : narration complète + module Homebrewery complet.**
 
 Fichiers :
 
@@ -95,40 +61,26 @@ Fichiers :
 
 Niveau : 3.
 
-Structure :
+Structure : dernière soirée calme → cloche coupée → Kayn/Rhaast → Yi contre Kayn → bataille du temple → récupération des armes → révélation de Cassian → Transfuge → tentation de Jun → confrontation directe des PJ contre Kayn → plusieurs issues → aube → début réel de la Seconde Guerre Darkin.
 
-- dernière soirée calme ;
-- armes déposées au vestibule ;
-- cloche coupée et lanternes éteintes ;
-- apparition de Kayn et Rhaast ;
-- Yi engage Kayn ;
-- PJ défendent le temple ;
-- récupération des armes ;
-- révélation du magnétisme de Cassian ;
-- combat contre le Transfuge noxien ;
-- Rhaast reconnaît Xolaani ;
-- Jun est tentée par Xolaani ;
-- Kayn rompt son duel et rejoint les PJ ;
-- véritable combat final des PJ contre Kayn ;
-- Kayn n'est pas censé mourir ;
-- victoire par objectifs, dégâts ou retour de Yi ;
-- plusieurs issues possibles ;
-- épilogue à l'aube ;
-- début réel de la Seconde Guerre Darkin.
-
-Décision importante : le combat final **doit réellement permettre aux PJ d'affronter Kayn**, même si Yi l'a occupé pendant la majeure partie de l'assaut.
+Décision importante : le combat final permet réellement aux PJ d'affronter Kayn, mais la victoire repose sur **la protection des objectifs**, pas sur sa mort.
 
 ---
 
 # Règles / annexes
 
-## Annexes techniques
+## Source narrative
 
 Fichier : `manuel/prologue/annexes.md`
 
-Déjà posé :
+## Version Homebrewery
+
+Fichier : `homebrewery/annexes.md`
+
+Contenu posé :
 
 - PCW 0 à 5 ;
+- Brume protectrice ;
 - Souffle intérieur ;
 - Feuille sans vent ;
 - Lame posée ;
@@ -137,54 +89,47 @@ Déjà posé :
 - Pas dans la brume ;
 - progression niveau 1 → 2 → 3 ;
 - DD de référence ;
-- Gardien de jade mineur ;
-- Gardien des Chutes ;
-- règles de murmures de Xolaani ;
-- Brume protectrice ;
-- état final du Prologue.
+- Gardiens de jade ;
+- murmures et Marques de Xolaani ;
+- structure technique de l'assaut ;
+- états de fin du Prologue.
 
 ## Bestiaire
 
 Fichier : `manuel/prologue/bestiaire.md`
 
-Déjà posé :
+Profils déjà posés : Éclaireur du Clan des Ombres, Lame d'ombre, Transfuge noxien, Gardien de jade, Reflet sombre, Cassian et Kayn.
 
-- Éclaireur du Clan des Ombres ;
-- Lame d'ombre ;
-- Transfuge noxien ;
-- Gardien de jade ;
-- Reflet sombre ;
-- Cassian ;
-- Kayn.
-
-Kayn commence la phase finale à **52 PV** après son duel avec Yi et se retire normalement à **25 PV ou moins**. Le combat peut aussi être gagné par trois succès d'objectif.
+Kayn commence normalement la phase finale à **52 PV** après son duel avec Yi et cherche à se retirer à **25 PV ou moins**. Le groupe peut aussi gagner par **3 succès d'objectif**.
 
 ---
 
 # Homebrewery
 
-Fichiers principaux :
+Fichiers :
 
-- `homebrewery/prologue.md`
-- `homebrewery/style.css`
-- `homebrewery/README.md`
+- `homebrewery/prologue.md` — couverture, introduction et chapitre I ;
+- `homebrewery/chapters/02-chutes-de-brume.md` — chapitre II ;
+- `homebrewery/chapters/03-assaut-du-temple.md` — chapitre III ;
+- `homebrewery/annexes.md` — annexes ;
+- `homebrewery/style.css` — style commun ;
+- `homebrewery/README.md` — ordre d'assemblage.
 
-Modules déjà créés :
+Le CSS commun définit désormais des blocs distincts :
 
-- `homebrewery/chapters/02-chutes-de-brume.md`
-- `homebrewery/chapters/03-assaut-du-temple.md`
+- lecture / description ;
+- conseil MJ ;
+- Wuju / spirituel ;
+- Darkin / tentation ;
+- rencontre tactique.
 
-Le chapitre I possède déjà une intégration avancée dans `homebrewery/prologue.md`.
-
-Les chapitres II et III sont désormais mis en forme séparément afin de pouvoir être édités sans casser le reste du manuscrit. Le CSS commun distingue les blocs Wuju, Darkin, rencontres, conseils MJ et lectures aux joueurs.
-
-Étape restante : assembler les modules dans `prologue.md` et créer la version Homebrewery des annexes.
+Le manuel est volontairement maintenu en modules pendant l'écriture pour éviter qu'une modification d'un chapitre casse la mise en page des autres.
 
 ---
 
 # Canon
 
-Toujours consulter avant de modifier le scénario :
+Toujours consulter avant toute modification importante :
 
 - `CANON.md`
 - `DECISIONS.md`
@@ -195,10 +140,10 @@ Le dépôt GitHub est la **source de vérité** du projet.
 
 # Prochaines priorités recommandées
 
-1. Créer `homebrewery/annexes.md`.
-2. Assembler les modules Homebrewery dans `prologue.md`.
-3. Construire le plan tactique du temple.
-4. Intégrer la carte existante des Chutes de Brume.
-5. Définir les objets de Doran et récompenses de fin de Prologue.
-6. Créer les illustrations maîtresses : couverture, chapitres I, II et III.
-7. Faire une passe éditoriale complète pour supprimer les répétitions et harmoniser les voix de Yi, Jun, Cassian, Kayn, Rhaast et Xolaani.
+1. Assembler les modules Homebrewery dans la version finale de `prologue.md`.
+2. Construire le **plan tactique du temple** pour le chapitre III.
+3. Intégrer la **carte existante des Chutes de Brume**.
+4. Définir précisément les objets de Doran et récompenses finales.
+5. Créer les illustrations maîtresses : couverture, chapitre I, chapitre II et chapitre III.
+6. Effectuer une passe d'équilibrage sur les rencontres niveau 1–3.
+7. Faire une passe éditoriale complète et harmoniser les voix de Yi, Jun, Cassian, Kayn, Rhaast et Xolaani.
