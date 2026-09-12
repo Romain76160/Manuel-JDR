@@ -8,7 +8,7 @@ ___
 
 :
 
-### Règles rapides, techniques Wuju et références de table
+### Règles rapides, techniques Wuju, récompenses et références de table
 
 {{pageNumber,auto}}
 {{footnote ANNEXES | L'HÉRITAGE DU WUJU}}
@@ -56,9 +56,9 @@ Pour les interactions spirituelles explicitement concernées :
 
 ##### Brume protectrice — 4 à 5 PCW
 
-Une fois pendant l'assaut du temple, un PJ peut utiliser son action pour appeler les enseignements des Chutes.
+Une fois pendant l'assaut, un PJ utilise son action pour appeler les enseignements des Chutes.
 
-Jusqu'au début de son prochain tour, les déplacements d'ombre deviennent visibles et Kayn ne peut pas quitter immédiatement la zone par une disparition narrative.
+Jusqu'au début de son prochain tour, les déplacements d'ombre deviennent visibles. Kayn ne peut pas utiliser Marche d'ombre pour franchir un niveau entier du temple ou quitter la confrontation.
 
 }}
 
@@ -113,6 +113,8 @@ Une fois par repos court, si le personnage est partiellement masqué par brume, 
 | Fin du chapitre II | 3 |
 | Chapitre III | 3 |
 
+Le niveau 3 est acquis au retour des Chutes, avant le repos précédant l'assaut.
+
 ## Difficultés de référence
 
 | DD | Usage |
@@ -131,50 +133,35 @@ Les PCW réduisent uniquement les DD explicitement liés au Wuju ou aux esprits.
 
 \page
 
-# Gardien de jade mineur
+# Gardiens de jade
 
-*Créature artificielle spirituelle, taille M*
+## Gardien mineur — chapitre I
 
-**CA** 14  
-**PV** 24  
-**Vitesse** 7,5 m
+**CA** 14 — **PV** 24 — **Vitesse** 7,5 m
 
-### Frappe de jade
+**Frappe de jade :** +4 au toucher, **1d8 + 2 contondants**.
 
-**+4 au toucher**, portée 1,5 m.  
-Dégâts : **1d8 + 2 contondants**.
+Une fois par tour, Force DD 12 ou recul de 1,5 m.
 
-### Repoussement
+Il n'attaque pas une créature inconsciente, ne quitte pas le sanctuaire et cesse le combat lorsque ce qui a été pris est restitué.
 
-Une fois par tour sur une touche : Force DD 12 ou recul de 1,5 m.
+## Gardien des Chutes — chapitre II
 
-{{note
+**CA** 15 — **PV** 45 — **Vitesse** 9 m
 
-##### Gardien, pas bourreau
+**Coup de jade :** +5 au toucher, allonge 3 m, **1d10 + 3 contondants** et recul de 3 m pour une cible M ou inférieure.
 
-Il n'attaque pas une créature inconsciente, ne quitte pas le sanctuaire et cesse le combat dès que l'objet profané est restitué ou que le geste de la **main ouverte** est correctement accompli.
+**Onde de brume — recharge 6 :** cône de 4,5 m, Constitution DD 12. Échec : **2d8 froid** et vitesse réduite de moitié. Réussite : moitié des dégâts.
+
+{{wuju
+
+##### Apaiser le Gardien
+
+Reposer les lames ou accomplir correctement **silence → souffle → relâchement** met fin au combat.
+
+Discipline : **DD 13 − PCW**.
 
 }}
-
-# Gardien de jade des Chutes
-
-*Créature artificielle spirituelle, taille G*
-
-**CA** 15  
-**PV** 52  
-**Vitesse** 7,5 m
-
-### Double frappe
-
-Deux Frappes de jade : **+5 au toucher**, **1d8 + 3 contondants**.
-
-### Onde du sceau — recharge 5–6
-
-Rayon 3 m, Dextérité DD 13. Échec : **2d6 contondants** et à terre. Réussite : moitié des dégâts.
-
-### Apaisement
-
-Reposer les lames ou réussir dans l'ordre **silence, souffle, relâchement** met fin à la rencontre. Chaque étape : Discipline DD 14 − PCW.
 
 {{pageNumber,auto}}
 {{footnote ANNEXES | GARDIENS DE JADE}}
@@ -185,7 +172,7 @@ Reposer les lames ou réussir dans l'ordre **silence, souffle, relâchement** me
 
 Les premières manifestations de Xolaani sont narratives avant d'être mécaniques.
 
-Elle ne promet presque jamais le pouvoir. Elle promet de :
+Elle promet de :
 
 - retirer une douleur ;
 - rendre quelqu'un perdu ;
@@ -215,31 +202,87 @@ Elle n'impose pas automatiquement un malus permanent. Elle signifie que Xolaani 
 
 \page
 
-# Assaut du Temple — référence rapide
+# Assaut du Temple — référence verticale
 
-## Phase 1 — Vestibule
+Le Temple Wuju est creusé dans la montagne.
 
-Récupérer les armes, aider Cassian, sonner la cloche, empêcher les éclaireurs de fuir.
-
-## Phase 2 — Transfuge
-
-Empêcher le lieutenant d'atteindre le reliquaire ou d'obtenir les informations qu'il cherche.
-
-## Phase 3 — Kayn
-
-Tenir, protéger la relique et créer une ouverture jusqu'au retour de Yi ou au retrait de Kayn.
+| Niveau | Zone | Fonction pendant l'assaut |
+|---|---|---|
+| 0 | Entrée / Vestibule | armes, infiltration supérieure |
+| -1 | Temple principal | duel Yi–Kayn, dojo, bassin |
+| -2 | Dortoirs / Cloître | point de départ des PJ |
+| -3 | Reliquaire | Transfuge puis Kayn |
+| -4 | Grottes des esprits | infiltration inférieure |
 
 {{encounter
 
-##### Kayn — règle du final
+##### Premier choix des PJ
 
-Kayn commence normalement la phase finale à **52 PV** après son duel contre Yi.
+Les assaillants arrivent depuis le **niveau 0** et le **niveau -4**.
 
-À **25 PV ou moins**, il cherche à se retirer.
+Les PJ commencent au **niveau -2**.
 
-Le groupe peut également gagner la phase en obtenant **3 succès d'objectif**.
+Ils doivent donc choisir : **monter** récupérer leurs armes, **tenir** les dortoirs ou **descendre** protéger immédiatement le reliquaire.
 
 }}
+
+## Ajustement rapide
+
+**Gardien des Chutes :** 36 PV pour 3 PJ niveau 2 ; 45 PV pour 4 ; 50 PV pour 5.
+
+**Transfuge :** 48 PV + 1 éclaireur pour 3 PJ ; 58 PV + 1–2 éclaireurs pour 4 ; 58 PV + 2 éclaireurs ou 1 Lame d'ombre pour 5.
+
+**Kayn :** 52 PV au début de la phase finale, retraite à 25 PV. 1 action d'élite/round contre 3 PJ ; 2 contre 4–5 PJ. La phase peut aussi être gagnée par **3 succès d'objectif**.
+
+{{pageNumber,auto}}
+{{footnote ANNEXES | ASSAUT DU TEMPLE}}
+
+\page
+
+# Objets de Doran
+
+Après l'assaut, Yi peut confier **un objet de Doran par PJ** selon la posture qu'il a démontrée.
+
+## Lame de Doran
+
+Arme magique peu commune, harmonisation.
+
+**+1 aux dégâts**, sans bonus d'attaque.
+
+Sur un critique ou lorsque le porteur réduit une créature hostile à 0 PV, il peut récupérer **1d6 + bonus de maîtrise PV**. Utilisations : bonus de maîtrise par repos long.
+
+## Bouclier de Doran
+
+Bouclier magique peu commun, harmonisation.
+
+**+1 aux jets de Constitution pour maintenir la concentration.**
+
+En réaction : réduction de **1d8 + bonus de maîtrise dégâts**, utilisations égales au bonus de maîtrise par repos long.
+
+Si le porteur a utilisé l'action **Esquiver** depuis le début de son tour, la réduction devient **1d10 + bonus de maîtrise**.
+
+## Anneau de Doran
+
+Anneau magique peu commun, harmonisation.
+
+Charges = bonus de maîtrise, récupérées à l'aube.
+
+Une charge ajoute le bonus de maîtrise à un jet de dégâts ou de soins d'un sort de niveau 1 ou plus.
+
+Une fois par repos long, après un repos court : récupère un emplacement de niveau 1. Sans emplacement de sort, gagne **2 × bonus de maîtrise PV temporaires**.
+
+{{wuju
+
+##### Pourquoi Yi les offre
+
+> « Une arme n'est pas une récompense pour avoir gagné un combat. C'est une responsabilité que l'on confie à quelqu'un qui aurait pu choisir autrement. »
+
+}}
+
+{{pageNumber,auto}}
+{{footnote ANNEXES | OBJETS DE DORAN}}
+
+\page
 
 # État de fin du Prologue
 
