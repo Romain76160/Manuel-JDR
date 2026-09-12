@@ -3,27 +3,47 @@
 ## Priorité immédiate
 
 - [ ] Finaliser le titre du Manuel I : *L'Héritage du Wuju* est le titre de travail actuel.
-- [ ] Rédiger les pages d'introduction destinées au MJ.
-- [ ] Écrire un synopsis complet du Prologue, du chapitre I au chapitre III.
-- [ ] Reconstruire précisément le chapitre I à partir des anciennes idées.
-- [ ] Décider quelles épreuves du chapitre I sont obligatoires, optionnelles ou au choix.
-- [ ] Définir la transition exacte entre le chapitre I et le chapitre II.
+- [x] Rédiger une première version des pages d'introduction destinées au MJ.
+- [x] Écrire un synopsis général du Prologue, du chapitre I au chapitre III.
+- [x] Reconstruire une première version complète du chapitre I à partir des anciennes idées.
+- [ ] Valider les éléments encore ouverts du chapitre I.
+- [ ] Intégrer le chapitre I dans le manuscrit Homebrewery final.
+- [ ] Définir la transition exacte entre le chapitre I et le chapitre II après validation du chapitre I.
 
 ## Chapitre I — Les Épreuves du Wuju
 
-- [ ] Arrivée en Ionia.
-- [ ] Baie des Pins.
-- [ ] Route vers le monastère.
-- [ ] Première rencontre avec Maître Yi.
-- [ ] Présentation de Jun et des autres disciples.
-- [ ] Définir les règles du choix des épreuves.
-- [ ] Réécrire L'Esprit Rancunier.
-- [ ] Réécrire L'Escorte du Manuscrit.
-- [ ] Réécrire Le Sanctuaire sous la Falaise.
-- [ ] Écrire le retour au monastère.
-- [ ] Écrire le Reliquaire Wuju.
-- [ ] Poser le premier présage Darkin.
-- [ ] Écrire l'épilogue du chapitre.
+Première version rédigée dans `manuel/prologue/01-epreuves-du-wuju.md`.
+
+### Première passe terminée
+
+- [x] Arrivée en Ionia.
+- [x] Baie des Pins.
+- [x] Route vers le monastère.
+- [x] Première rencontre avec Maître Yi.
+- [x] Présentation de Jun.
+- [x] Proposition de règle pour le choix des épreuves.
+- [x] Première réécriture de L'Esprit Rancunier.
+- [x] Première réécriture de L'Escorte du Manuscrit.
+- [x] Première réécriture du Sanctuaire sous la Falaise.
+- [x] Retour au monastère.
+- [x] Première version du Reliquaire Wuju.
+- [x] Premier présage lié à la future menace Darkin.
+- [x] Épilogue et invitation vers les Chutes de Brume.
+
+### À valider / développer
+
+- [ ] Confirmer que les PJ accomplissent exactement deux épreuves sur trois.
+- [ ] Définir précisément la raison initiale de leur venue en Ionia et au monastère.
+- [ ] Fixer l'histoire exacte derrière l'Esprit Rancunier.
+- [ ] Fixer l'incident principal de l'Escorte du Manuscrit.
+- [ ] Concevoir la carte et le gardien du Sanctuaire sous la Falaise.
+- [ ] Décider si Cassian apparaît déjà dans le chapitre I.
+- [ ] Définir la première récompense / technique Wuju du Reliquaire.
+- [ ] Définir les variations du premier présage selon les PJ.
+- [ ] Fixer les niveaux exacts de début et de fin du chapitre.
+- [ ] Équilibrer DD, rencontres et récompenses.
+- [ ] Ajouter les renvois vers les annexes.
+- [ ] Créer / sélectionner l'illustration maîtresse du chapitre I.
 
 ## Chapitre II — Les Chutes de Brume
 
