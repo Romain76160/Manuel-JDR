@@ -32,7 +32,7 @@ Progression : niveau 1 → niveau 2.
 
 Contenu : Baie des Pins → Monastère Wuju → Jun → Yi → thé → deux épreuves sur trois → Reliquaire → Souffle intérieur → Cassian → Chutes.
 
-Les trois épreuves disposent désormais d'une base jouable :
+Les trois épreuves disposent d'une base jouable :
 
 - Esprit Rancunier apaisable, avec profil si combat ;
 - Escorte du Manuscrit avec pont, horloge d'effondrement et pillards ;
@@ -48,12 +48,15 @@ Fichiers :
 
 - `manuel/prologue/02-chutes-de-brume.md`
 - `homebrewery/chapters/02-chutes-de-brume.md`
+- `manuel/prologue/murmures-xolaani.md`
 
 Progression : niveau 2 → niveau 3.
 
 Éléments fixés : Jun et Cassian accompagnent Yi, statue sans visage, PCW, Sentier des Brumes, Bassin du Silence, Urong, Royaume Spirituel, Gardien, Seigneurs des Darkin, Xolaani, retour des lames au temple.
 
-Le Gardien des Chutes possède désormais une seule version officielle : **CA 15, 45 PV, Coup de jade 1d10+3, Onde de brume 2d8** et rite d'apaisement.
+Le Gardien des Chutes possède une seule version officielle : **CA 15, 45 PV, Coup de jade 1d10+3, Onde de brume 2d8** et rite d'apaisement.
+
+La banque `murmures-xolaani.md` contient des tentations adaptées à la peur de perdre quelqu'un, la culpabilité, le deuil, la colère, le besoin de reconnaissance, la faiblesse, la solitude, le contrôle, ainsi que des variantes spécifiques pour Jun et Cassian.
 
 Aucun combat avec Kayn n'a lieu dans ce chapitre.
 
@@ -120,7 +123,7 @@ Déjà fixé :
 
 Fichier : `manuel/prologue/recompenses.md`
 
-Les objets de Doran sont désormais définis :
+Les objets de Doran sont définis :
 
 - **Lame de Doran** — +1 dégâts, récupération limitée de PV ;
 - **Bouclier de Doran** — réduction de dégâts et bonus de concentration ;
@@ -168,6 +171,26 @@ Les règles d'ajustement par taille de groupe figurent dans les annexes V1.
 
 ---
 
+# Handouts joueurs
+
+Dossier : `handouts/`
+
+Documents terminés :
+
+- `01-poeme-urong.md` ;
+- `02-trois-postures-wuju.md` ;
+- `03-aide-techniques-wuju.md` ;
+- `04-vision-statue-sans-visage.md` ;
+- `05-regles-du-temple-wuju.md` ;
+- `06-cartes-objets-doran.md` ;
+- `README.md` — ordre d'utilisation.
+
+Version imprimable Homebrewery : `homebrewery/handouts.md`.
+
+Les handouts sont volontairement sans informations secrètes du MJ.
+
+---
+
 # Cartes
 
 Fichier de référence : `assets/cartes/README.md`
@@ -193,10 +216,13 @@ Fichiers :
 - `homebrewery/chapters/02-chutes-de-brume.md` ;
 - `homebrewery/chapters/03-assaut-du-temple.md` ;
 - `homebrewery/annexes.md` ;
+- `homebrewery/handouts.md` ;
 - `homebrewery/style.css` ;
 - `homebrewery/README.md`.
 
-Le manuel reste volontairement modulaire pendant l'écriture.
+Assemblage prévu via `scripts/build_manuel.py`, qui génère `homebrewery/prologue-complet.md`.
+
+Le manuel reste modulaire pendant l'écriture afin d'éviter qu'une modification d'un chapitre casse les autres.
 
 ---
 
@@ -214,11 +240,10 @@ Le dépôt GitHub est la **source de vérité** du projet.
 
 # Prochaines priorités
 
-1. Assembler tous les modules Homebrewery dans le manuscrit final.
-2. Ajouter les renvois annexes/bestiaire dans les trois chapitres.
-3. Exporter les cartes définitives MJ et joueurs.
-4. Intégrer la carte des Chutes de Brume.
-5. Créer les quatre illustrations maîtresses : couverture + chapitres I, II, III.
-6. Créer les handouts joueurs.
-7. Faire une passe éditoriale complète.
-8. Exporter un premier PDF de test et le relire page par page.
+1. Ajouter les renvois annexes/bestiaire dans les trois chapitres.
+2. Exporter les cartes définitives MJ et joueurs.
+3. Intégrer la carte des Chutes de Brume.
+4. Créer les quatre illustrations maîtresses : couverture + chapitres I, II, III.
+5. Assembler le manuscrit final via le script de build et contrôler les sauts de page.
+6. Faire une passe éditoriale complète.
+7. Exporter un premier PDF de test et le relire page par page.
