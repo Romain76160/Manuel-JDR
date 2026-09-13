@@ -13,7 +13,9 @@
 - [x] Poser les récompenses de Doran.
 - [x] Poser l'arbre de progression Wuju.
 - [x] Poser les fiches PNJ principales.
-- [ ] Assembler les modules dans une version finale unique `homebrewery/prologue.md`.
+- [x] Créer les handouts joueurs principaux.
+- [x] Préparer une version Homebrewery imprimable des handouts.
+- [ ] Assembler les modules dans une version finale unique `homebrewery/prologue-complet.md`.
 
 ## Chapitre I — Les Épreuves du Wuju
 
@@ -32,11 +34,12 @@
 - [x] Arrivée de Cassian.
 - [x] Transition vers les Chutes.
 - [x] Gardien de jade mineur.
+- [x] Esprit Rancunier jouable techniquement.
+- [x] Pont, horloge d'effondrement et pillards de l'Escorte du Manuscrit.
 - [x] Progression niveau 1 → 2.
 
 ### Restant
 
-- [ ] Écrire le profil exact des pillards / obstacles de l'Escorte du Manuscrit.
 - [ ] Ajouter les renvois vers les annexes.
 - [ ] Fixer les cartes réellement nécessaires au chapitre I.
 - [ ] Créer l'illustration maîtresse du chapitre I.
@@ -64,6 +67,7 @@
 - [x] Aucun combat contre Kayn.
 - [x] Retour calme et silence anormal.
 - [x] Module Homebrewery complet.
+- [x] Handouts du poème d'Urong, des trois postures et de la vision.
 
 ### Restant
 
@@ -94,6 +98,7 @@
 - [x] Épilogue à l'aube.
 - [x] Version Homebrewery synchronisée.
 - [x] Direction visuelle des niveaux du temple validée.
+- [x] Handout des usages du Temple Wuju.
 
 ### Restant
 
@@ -124,8 +129,8 @@
 - [x] Objets de Doran : Lame, Bouclier, Anneau.
 - [x] États de fin du Prologue.
 - [x] Fiches PNJ : Yi, Jun, Cassian, Urong, Kayn, Rhaast, Xolaani.
-- [ ] Définir les fiches techniques éventuelles de Yi et Jun si elles sont nécessaires en combat.
-- [ ] Créer les handouts joueurs.
+- [x] Handouts joueurs : vision, poème, postures, techniques, usages du temple, objets de Doran.
+- [ ] Définir les fiches techniques éventuelles de Yi et Jun uniquement si un test de jeu montre qu'elles sont nécessaires.
 
 ## Cartes
 
