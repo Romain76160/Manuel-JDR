@@ -316,3 +316,22 @@ Les emplacements Homebrewery sont maintenant réservés pour :
 Les liens image restent volontairement inactifs jusqu'à validation et ajout des fichiers définitifs, afin de ne pas casser le rendu Homebrewery.
 
 Le CSS `mapSlot / mapImage / mapCredit` est prêt.
+
+
+---
+
+# Concepts cartographiques récents
+
+Plusieurs concepts visuels ont été générés pour tester :
+
+- palette ;
+- style de légende ;
+- densité des plans ;
+- rendu des Chutes ;
+- présentation MJ / joueurs.
+
+**Ils ne sont pas encore des cartes finales.**
+
+Certains concepts représentent trop fortement le Temple comme un complexe extérieur ou inventent un niveau secret. Le fichier `assets/cartes/VALIDATION.md` fixe désormais les critères non négociables avant intégration.
+
+Prochaine production : fonds sans texte du Temple Wuju intérieur, en commençant par le **niveau -1 canonique**.
