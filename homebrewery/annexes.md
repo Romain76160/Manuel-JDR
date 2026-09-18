@@ -170,6 +170,10 @@ Discipline : **DD 13 − PCW**.
 
 # Xolaani — murmures et marques
 
+<img class="sectionArt" src="https://dd.b.pvp.net/latest/set6/en_us/img/cards/06SH004T2-full.png" alt="Xolaani — Legends of Runeterra">
+
+<div class="sectionArtCredit">Xolaani — Legends of Runeterra · Art : Kudos Productions · © Riot Games</div>
+
 Les premières manifestations de Xolaani sont narratives avant d'être mécaniques.
 
 Elle promet de :
