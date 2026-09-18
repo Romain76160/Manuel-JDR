@@ -153,7 +153,9 @@ ___
 
 — Maître Yi
 
-<!-- ILLUSTRATION PLEINE PAGE : Monastère Wuju dans les montagnes ioniennes. -->
+<img class="chapterHero" src="https://dd.b.pvp.net/latest/set6/en_us/img/cards/06IO008-full.png" alt="Master Yi — Legends of Runeterra">
+
+<div class="artCredit">Master Yi — Legends of Runeterra · Art : Kudos Productions · © Riot Games</div>
 
 {{pageNumber,auto}}
 {{footnote CHAPITRE I | LES ÉPREUVES DU WUJU}}
@@ -599,7 +601,9 @@ ___
 
 — Maître Yi
 
-<!-- ILLUSTRATION PLEINE PAGE : Les Chutes de Brume, cascade monumentale, bassin, ruines et épée d'Urong. Aucun Kayn. -->
+<img class="chapterHero" src="https://dd.b.pvp.net/latest/set6/en_us/img/cards/06IO011-full.png" alt="Jun, the Prodigy — Legends of Runeterra">
+
+<div class="artCredit">Jun, the Prodigy — Legends of Runeterra · Art : Kudos Productions · © Riot Games</div>
 
 {{pageNumber,auto}}
 {{footnote CHAPITRE II | LES CHUTES DE BRUME}}
@@ -1078,7 +1082,9 @@ ___
 
 — Rhaast
 
-<!-- ILLUSTRATION : coupe verticale du Temple Wuju creusé dans la montagne. -->
+<img class="chapterHero" src="https://dd.b.pvp.net/latest/set6/en_us/img/cards/06RU005-full.png" alt="Kayn — Legends of Runeterra">
+
+<div class="artCredit artCreditDark">Kayn — Legends of Runeterra · Art : Kudos Productions · © Riot Games</div>
 
 {{pageNumber,auto}}
 {{footnote CHAPITRE III | L'ASSAUT DU TEMPLE}}
@@ -1687,6 +1693,10 @@ Discipline : **DD 13 − PCW**.
 \page
 
 # Xolaani — murmures et marques
+
+<img class="sectionArt" src="https://dd.b.pvp.net/latest/set6/en_us/img/cards/06SH004T2-full.png" alt="Xolaani — Legends of Runeterra">
+
+<div class="sectionArtCredit">Xolaani — Legends of Runeterra · Art : Kudos Productions · © Riot Games</div>
 
 Les premières manifestations de Xolaani sont narratives avant d'être mécaniques.
 
