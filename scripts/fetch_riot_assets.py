@@ -35,7 +35,8 @@ ASSETS = {
     "utter-devastation.png": "06SI036-full.png",
     "kayn-lor.png": "06RU005-full.png",
     "rhaast.png": "06RU005T2-full.png",
-    "xolaani.png": "06SH004T2-full.png",
+    "xolaani-bloodletters-form.png": "06SH004T2-full.png",
+    "xolaani-the-bloodweaver.png": "06MT035-full.png",
     "darkin-bloodletters.png": "06SH004-full.png",
 }
 
