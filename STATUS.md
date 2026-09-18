@@ -297,3 +297,22 @@ La V1 Homebrewery utilise désormais directement Riot Data Dragon pour quatre il
 - Xolaani — `06SH004T2-full.png` — annexes Darkin.
 
 Les quatre arts sont crédités dans le manuscrit. Le rendu final dans Homebrewery doit encore être contrôlé visuellement lors de l'export PDF.
+
+
+---
+
+# Intégration des cartes — structure prête
+
+Référence : `assets/cartes/MANIFEST.md`.
+
+Les emplacements Homebrewery sont maintenant réservés pour :
+
+- carte du Sanctuaire des Chutes de Brume ;
+- vue générale du Temple Wuju ;
+- niveau -2 Dortoirs / Cloître ;
+- niveau -1 Temple principal ;
+- niveau -3 Reliquaire.
+
+Les liens image restent volontairement inactifs jusqu'à validation et ajout des fichiers définitifs, afin de ne pas casser le rendu Homebrewery.
+
+Le CSS `mapSlot / mapImage / mapCredit` est prêt.
