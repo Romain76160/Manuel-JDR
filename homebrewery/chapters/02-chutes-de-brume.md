@@ -51,6 +51,17 @@ Les cairns déplacés sur le sentier prouvent que le sanctuaire n'est plus secre
 
 }}
 
+{{note
+
+##### Références de table
+
+**PCW et Brume protectrice :** voir **Annexes — Points de Confiance Wuju**.  
+**Techniques d'Urong :** voir **Annexes — Enseignements Wuju**.  
+**Gardien des Chutes :** voir **Annexes — Gardiens de jade**.  
+**Murmures de Xolaani :** voir **Annexes — Xolaani** et la banque de murmures du dossier MJ.
+
+}}
+
 {{pageNumber,auto}}
 {{footnote CHAPITRE II | SYNOPSIS}}
 
