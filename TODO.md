@@ -15,7 +15,7 @@
 - [x] Poser les fiches PNJ principales.
 - [x] Créer les handouts joueurs principaux.
 - [x] Préparer une version Homebrewery imprimable des handouts.
-- [ ] Assembler les modules dans une version finale unique `homebrewery/prologue-complet.md`.
+- [x] Assembler les modules dans une version finale unique `homebrewery/prologue-complet.md`.
 
 ## Chapitre I — Les Épreuves du Wuju
 
@@ -40,7 +40,7 @@
 
 ### Restant
 
-- [ ] Ajouter les renvois vers les annexes.
+- [x] Ajouter les renvois vers les annexes.
 - [ ] Fixer les cartes réellement nécessaires au chapitre I.
 - [ ] Créer l'illustration maîtresse du chapitre I.
 - [ ] Faire la passe éditoriale finale Homebrewery.
@@ -73,7 +73,7 @@
 
 - [x] Ajouter davantage de murmures personnalisés de Xolaani selon les PJ.
 - [ ] Intégrer la carte `Sanctuaire caché sous la cascade` dans la mise en page.
-- [ ] Ajouter les renvois vers le bestiaire et les annexes.
+- [x] Ajouter les renvois vers le bestiaire et les annexes.
 - [ ] Faire la passe éditoriale finale.
 
 ## Chapitre III — L'Assaut du Temple
@@ -104,7 +104,7 @@
 
 - [ ] Produire/exporter les versions définitives MJ et joueurs des cartes.
 - [ ] Ajouter les cartes dans Homebrewery.
-- [ ] Ajouter les renvois explicites au bestiaire.
+- [x] Ajouter les renvois explicites au bestiaire.
 - [ ] Faire une passe de test réelle du rythme de l'assaut.
 - [ ] Créer l'illustration maîtresse du chapitre III.
 
@@ -148,9 +148,9 @@
 - [x] Plan d'intégration visuelle V1.
 - [x] Registre des sources d'images.
 - [x] Identifier Jun, Ting, Disciple de Doran, Wuju Style, Master Yi et Mistfall dans LoR.
-- [ ] Collecter les fichiers haute définition officiels retenus.
-- [ ] Finaliser les crédits artistes / sources.
-- [ ] Insérer les visuels officiels dans Homebrewery.
+- [x] Préparer les URLs Riot Data Dragon et le script de collecte HD.
+- [x] Finaliser les crédits artistes / sources pour les arts déjà intégrés.
+- [x] Insérer Yi, Jun, Kayn et Xolaani dans Homebrewery.
 - [ ] Finaliser la couverture originale.
 - [ ] Finaliser les cartes joueurs / MJ.
 
