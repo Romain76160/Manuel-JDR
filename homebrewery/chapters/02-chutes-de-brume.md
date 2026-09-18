@@ -12,7 +12,9 @@ ___
 
 — Maître Yi
 
-<!-- ILLUSTRATION PLEINE PAGE : Les Chutes de Brume, cascade monumentale, bassin, ruines et épée d'Urong. Aucun Kayn. -->
+<img class="chapterHero" src="https://dd.b.pvp.net/latest/set6/en_us/img/cards/06IO011-full.png" alt="Jun, the Prodigy — Legends of Runeterra">
+
+<div class="artCredit">Jun, the Prodigy — Legends of Runeterra · Art : Kudos Productions · © Riot Games</div>
 
 {{pageNumber,auto}}
 {{footnote CHAPITRE II | LES CHUTES DE BRUME}}
