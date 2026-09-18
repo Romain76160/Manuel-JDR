@@ -4,7 +4,8 @@ Ce dossier contient la version destinée à la mise en page finale dans Homebrew
 
 ## Fichiers
 
-- `prologue.md` : manuscrit principal actuellement utilisé pour l'introduction et le chapitre I.
+- `prologue.md` : source de la couverture, de l'introduction et du chapitre I.
+- `prologue-complet.md` : **V1 assemblée du manuel complet**, générée à partir des modules.
 - `chapters/02-chutes-de-brume.md` : chapitre II mis en page.
 - `chapters/03-assaut-du-temple.md` : chapitre III mis en page.
 - `style.css` : identité visuelle commune du manuel.
@@ -53,8 +54,16 @@ Les Chutes de Brume : cascade, bassin, ruines et épée d'Urong. Aucun Kayn.
 
 ### Chapitre III
 
-Temple Wuju de nuit, lanternes éteintes, Kayn et Rhaast sur les toits, Yi dans la cour.
+Temple Wuju creusé dans la montagne, de nuit. L'image doit suggérer l'infiltration dans les galeries et la descente vers le reliquaire ; Kayn/Rhaast peuvent apparaître dans le temple principal ou près d'un seuil rocheux, mais pas sur des toits extérieurs.
 
-## Étape suivante
+## Build
 
-Créer la version Homebrewery des annexes, puis assembler les modules dans `prologue.md` pour obtenir le manuscrit final prêt à coller dans Homebrewery.
+Le manuscrit complet est généré avec :
+
+```bash
+python3 scripts/build_manuel.py
+```
+
+Sortie : `homebrewery/prologue-complet.md`.
+
+La V1 assemblée existe déjà dans le dépôt. Les prochaines passes concernent surtout les renvois, images, sauts de page et corrections éditoriales.
