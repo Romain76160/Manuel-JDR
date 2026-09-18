@@ -12,7 +12,9 @@ ___
 
 — Rhaast
 
-<!-- ILLUSTRATION : coupe verticale du Temple Wuju creusé dans la montagne. -->
+<img class="chapterHero" src="https://dd.b.pvp.net/latest/set6/en_us/img/cards/06RU005-full.png" alt="Kayn — Legends of Runeterra">
+
+<div class="artCredit artCreditDark">Kayn — Legends of Runeterra · Art : Kudos Productions · © Riot Games</div>
 
 {{pageNumber,auto}}
 {{footnote CHAPITRE III | L'ASSAUT DU TEMPLE}}
