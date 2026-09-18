@@ -247,3 +247,18 @@ Le dépôt GitHub est la **source de vérité** du projet.
 5. Assembler le manuscrit final via le script de build et contrôler les sauts de page.
 6. Faire une passe éditoriale complète.
 7. Exporter un premier PDF de test et le relire page par page.
+
+
+---
+
+# V1 assemblée
+
+Fichier : `homebrewery/prologue-complet.md`
+
+Contrôles effectués :
+
+- une seule ouverture réelle du chapitre II ;
+- une seule ouverture réelle du chapitre III ;
+- une seule ouverture des annexes ;
+- aucun double `\\page` consécutif ;
+- environ 48 700 caractères de source Homebrewery avant insertion des images finales.
