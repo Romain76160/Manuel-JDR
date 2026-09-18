@@ -71,7 +71,7 @@
 
 ### Restant
 
-- [ ] Ajouter davantage de murmures personnalisés de Xolaani selon les PJ.
+- [x] Ajouter davantage de murmures personnalisés de Xolaani selon les PJ.
 - [ ] Intégrer la carte `Sanctuaire caché sous la cascade` dans la mise en page.
 - [ ] Ajouter les renvois vers le bestiaire et les annexes.
 - [ ] Faire la passe éditoriale finale.
@@ -155,7 +155,7 @@
 
 ## Passe finale
 
-- [ ] Assembler tous les modules Homebrewery.
+- [x] Assembler tous les modules Homebrewery.
 - [ ] Vérifier les sauts de page et colonnes.
 - [ ] Supprimer les répétitions entre chapitre et annexes.
 - [ ] Vérifier tous les DD et PV dans une seule passe.
