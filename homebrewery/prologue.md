@@ -32,6 +32,17 @@ League of Legends, Runeterra et leurs personnages appartiennent à Riot Games.
 
 Ce projet n'est ni approuvé ni sponsorisé par Riot Games.
 
+### Illustrations officielles utilisées
+
+Les ouvertures de chapitres utilisent des illustrations de **Legends of Runeterra** fournies via Riot Data Dragon :
+
+- **Master Yi** — Kudos Productions ;
+- **Jun, the Prodigy** — Kudos Productions ;
+- **Kayn** — Kudos Productions ;
+- **Xolaani** — Kudos Productions, utilisée dans les annexes.
+
+Les cartes tactiques, la couverture et les autres compositions originales du manuel restent des créations du projet.
+
 {{note
 
 ##### Attention aux joueurs
