@@ -192,6 +192,16 @@ Le MJ doit établir quatre choses :
 
 }}
 
+{{note
+
+##### Références de table
+
+**Souffle intérieur et enseignements Wuju :** voir **Annexes — Enseignements Wuju**.  
+**Gardien de jade mineur :** voir **Annexes — Gardiens de jade**.  
+**Esprit Rancunier et Escorte du Manuscrit :** voir `manuel/prologue/rencontres-chapitre-i.md` dans la version de travail du MJ.
+
+}}
+
 {{pageNumber,auto}}
 {{footnote CHAPITRE I | SYNOPSIS}}
 
