@@ -1,6 +1,6 @@
 # Manifest des cartes — Manuel I : L'Héritage du Wuju
 
-> Référence unique pour les cartes intégrées au manuel.
+> Référence unique pour les cartes intégrées au manuel.\n>\n> Toute carte finale doit aussi respecter `assets/cartes/VALIDATION.md`.
 
 ## Chapitre II — Les Chutes de Brume
 
