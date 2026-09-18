@@ -153,7 +153,9 @@ ___
 
 — Maître Yi
 
-<!-- ILLUSTRATION PLEINE PAGE : Monastère Wuju dans les montagnes ioniennes. -->
+<img class="chapterHero" src="https://dd.b.pvp.net/latest/set6/en_us/img/cards/06IO008-full.png" alt="Master Yi — Legends of Runeterra">
+
+<div class="artCredit">Master Yi — Legends of Runeterra · Art : Kudos Productions · © Riot Games</div>
 
 {{pageNumber,auto}}
 {{footnote CHAPITRE I | LES ÉPREUVES DU WUJU}}
