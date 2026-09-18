@@ -143,6 +143,17 @@
 - [ ] Versions sans informations MJ.
 - [ ] Carte régionale minimale du chapitre I si réellement utile.
 
+## Phase visuelle
+
+- [x] Plan d'intégration visuelle V1.
+- [x] Registre des sources d'images.
+- [x] Identifier Jun, Ting, Disciple de Doran, Wuju Style, Master Yi et Mistfall dans LoR.
+- [ ] Collecter les fichiers haute définition officiels retenus.
+- [ ] Finaliser les crédits artistes / sources.
+- [ ] Insérer les visuels officiels dans Homebrewery.
+- [ ] Finaliser la couverture originale.
+- [ ] Finaliser les cartes joueurs / MJ.
+
 ## Identité graphique
 
 - [x] Palette de base Wuju / Ionia définie dans le CSS.
