@@ -192,6 +192,16 @@ Le MJ doit établir quatre choses :
 
 }}
 
+{{note
+
+##### Références de table
+
+**Souffle intérieur et enseignements Wuju :** voir **Annexes — Enseignements Wuju**.  
+**Gardien de jade mineur :** voir **Annexes — Gardiens de jade**.  
+**Esprit Rancunier et Escorte du Manuscrit :** voir `manuel/prologue/rencontres-chapitre-i.md` dans la version de travail du MJ.
+
+}}
+
 {{pageNumber,auto}}
 {{footnote CHAPITRE I | SYNOPSIS}}
 
@@ -625,6 +635,17 @@ Les cairns déplacés sur le sentier prouvent que le sanctuaire n'est plus secre
 - révéler les Seigneurs des Darkin ;
 - faire entendre Xolaani sans encore tout expliquer ;
 - terminer sur une fausse impression de sécurité.
+
+}}
+
+{{note
+
+##### Références de table
+
+**PCW et Brume protectrice :** voir **Annexes — Points de Confiance Wuju**.  
+**Techniques d'Urong :** voir **Annexes — Enseignements Wuju**.  
+**Gardien des Chutes :** voir **Annexes — Gardiens de jade**.  
+**Murmures de Xolaani :** voir **Annexes — Xolaani** et la banque de murmures du dossier MJ.
 
 }}
 
