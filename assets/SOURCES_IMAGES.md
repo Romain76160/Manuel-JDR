@@ -12,7 +12,8 @@
 | `10-disciple-de-doran.jpg` | Disciple of Doran | Legends of Runeterra | 06IO001 | Polar Engine | LoR / Riot | Officiel Riot | Doran / artisanat | À collecter |
 | `11-ch3-kayn-officiel.jpg` | Kayn | Riot / League of Legends | Champion Kayn | Riot Games | Page champion Riot | Officiel Riot | Ouverture chapitre III | À collecter |
 | `16-rhaast-detail.jpg` | Rhaast | Riot / League of Legends | Kayn / Rhaast | Riot Games | Page champion Riot / art officiel | Officiel Riot | Encadré Darkin | À collecter |
-| `17-xolaani-officiel-lor.jpg` | Xolaani | Legends of Runeterra | à confirmer | à confirmer | LoR / Riot | Officiel Riot | Annexes / révélation | À collecter |
+| `17-xolaani-officiel-lor.jpg` | Xolaani (forme Bloodletters) | Legends of Runeterra | 06SH004T2 | Kudos Productions | LoR Data Dragon / Riot | Officiel Riot | Révélation / annexes | À collecter |
+| `17b-xolaani-bloodweaver.jpg` | Xolaani the Bloodweaver | Legends of Runeterra | 06MT035 | Aron Elekes | LoR Data Dragon / Riot | Officiel Riot | Annexes Darkin | À collecter |
 | `18-wuju-style.jpg` | Wuju Style | Legends of Runeterra | 06IO013 | Kudos Productions | LoR / Riot | Officiel Riot | Annexes Wuju | À collecter |
 | `08-carte-chutes-joueurs.jpg` | Chutes de Brume | Projet | — | — | Projet | Original | Carte joueurs | À finaliser |
 | `08b-carte-chutes-mj.jpg` | Chutes de Brume | Projet | — | — | Projet | Original | Carte MJ | À finaliser |
@@ -54,7 +55,8 @@ Illustrations prioritaires :
 | Utter Devastation | 06SI036 | `06SI036-full.png` |
 | Kayn | 06RU005 | `06RU005-full.png` |
 | Rhaast | 06RU005T2 | `06RU005T2-full.png` |
-| Xolaani | 06SH004T2 | `06SH004T2-full.png` |
+| Xolaani (forme issue des Bloodletters) | 06SH004T2 | `06SH004T2-full.png` |
+| Xolaani the Bloodweaver | 06MT035 | `06MT035-full.png` |
 | The Darkin Bloodletters | 06SH004 | `06SH004-full.png` |
 
 Le script `scripts/fetch_riot_assets.py` automatise cette récupération et essaie également le bundle `set6cde` en secours.
