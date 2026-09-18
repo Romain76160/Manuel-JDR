@@ -5,14 +5,14 @@
 | Fichier local | Sujet | Origine | Identifiant | Artiste | Source | Type | Usage | Statut |
 |---|---|---|---|---|---|---|---|---|
 | `01-couverture-heritage-du-wuju.jpg` | Temple Wuju / Ionia | Projet | — | — | — | Original | Couverture | À créer |
-| `03-ch1-maitre-yi-officiel.jpg` | Master Yi | Riot / League of Legends | Champion Master Yi | Riot Games | Page champion Riot | Officiel Riot | Ouverture chapitre I | À collecter |
-| `04-jun-officiel-lor.jpg` | Jun, the Prodigy | Legends of Runeterra | 06IO011 | Kudos Productions | LoR / Riot | Officiel Riot | Portrait / chapitre II | À collecter |
-| `06-ch2-jun-the-prodigy.jpg` | Jun, the Prodigy | Legends of Runeterra | 06IO011 | Kudos Productions | LoR / Riot | Officiel Riot | Ouverture chapitre II | À collecter |
+| `03-ch1-maitre-yi-officiel.jpg` | Master Yi | Legends of Runeterra | 06IO008 | Kudos Productions | Riot Data Dragon | Officiel Riot | Ouverture chapitre I | **Intégré via URL Riot** |
+| `04-jun-officiel-lor.jpg` | Jun, the Prodigy | Legends of Runeterra | 06IO011 | Kudos Productions | Riot Data Dragon | Officiel Riot | Portrait / chapitre II | Référence disponible |
+| `06-ch2-jun-the-prodigy.jpg` | Jun, the Prodigy | Legends of Runeterra | 06IO011 | Kudos Productions | Riot Data Dragon | Officiel Riot | Ouverture chapitre II | **Intégré via URL Riot** |
 | `09-ting-vastayan-disciple.jpg` | Ting / Vastayan Disciple | Legends of Runeterra | 06IO014 | Polar Engine | LoR / Riot | Officiel Riot | Disciple Wuju | À collecter |
 | `10-disciple-de-doran.jpg` | Disciple of Doran | Legends of Runeterra | 06IO001 | Polar Engine | LoR / Riot | Officiel Riot | Doran / artisanat | À collecter |
-| `11-ch3-kayn-officiel.jpg` | Kayn | Riot / League of Legends | Champion Kayn | Riot Games | Page champion Riot | Officiel Riot | Ouverture chapitre III | À collecter |
+| `11-ch3-kayn-officiel.jpg` | Kayn | Legends of Runeterra | 06RU005 | Kudos Productions | Riot Data Dragon | Officiel Riot | Ouverture chapitre III | **Intégré via URL Riot** |
 | `16-rhaast-detail.jpg` | Rhaast | Riot / League of Legends | Kayn / Rhaast | Riot Games | Page champion Riot / art officiel | Officiel Riot | Encadré Darkin | À collecter |
-| `17-xolaani-officiel-lor.jpg` | Xolaani (forme Bloodletters) | Legends of Runeterra | 06SH004T2 | Kudos Productions | LoR Data Dragon / Riot | Officiel Riot | Révélation / annexes | À collecter |
+| `17-xolaani-officiel-lor.jpg` | Xolaani (forme Bloodletters) | Legends of Runeterra | 06SH004T2 | Kudos Productions | Riot Data Dragon | Officiel Riot | Révélation / annexes | **Intégré via URL Riot** |
 | `17b-xolaani-bloodweaver.jpg` | Xolaani the Bloodweaver | Legends of Runeterra | 06MT035 | Aron Elekes | LoR Data Dragon / Riot | Officiel Riot | Annexes Darkin | À collecter |
 | `18-wuju-style.jpg` | Wuju Style | Legends of Runeterra | 06IO013 | Kudos Productions | LoR / Riot | Officiel Riot | Annexes Wuju | À collecter |
 | `08-carte-chutes-joueurs.jpg` | Chutes de Brume | Projet | — | — | Projet | Original | Carte joueurs | À finaliser |
