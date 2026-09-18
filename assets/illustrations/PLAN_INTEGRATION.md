@@ -28,7 +28,7 @@
 | A | Chapitre III | Dortoirs / cloître niveau -2 | Battle map | Création originale du projet | Point de départ des PJ et choix tactique initial | `14-temple-niveau-moins-2.jpg` |
 | A | Chapitre III | Reliquaire niveau -3 | Battle map | Création originale du projet | Combat final contre Kayn | `15-temple-niveau-moins-3.jpg` |
 | B | Chapitre III | Rhaast / faux darkin | Image moyenne | Riot officiel | Donner une identité visuelle à la deuxième volonté du combat | `16-rhaast-detail.jpg` |
-| A | Annexes Darkin | Xolaani | Image moyenne ou grande | LoR officiel | Révéler la menace qui dépasse Kayn | `17-xolaani-officiel-lor.jpg` |
+| A | Annexes Darkin | Xolaani (06SH004T2) ou Xolaani the Bloodweaver (06MT035) | Image moyenne ou grande | LoR officiel | Révéler la menace qui dépasse Kayn | `17-xolaani-officiel-lor.jpg` / `17b-xolaani-bloodweaver.jpg` |
 | B | Annexes Wuju | Wuju Style / technique Wuju | Petite illustration | LoR officiel | Habiller les règles Wuju sans surcharger | `18-wuju-style.jpg` |
 | B | Annexes récompenses | Objets / artisanat de Doran | Petites vignettes | LoR officiel / création originale | Donner une identité aux récompenses | `19-objets-doran.jpg` |
 | C | Crédits | Motif ionien discret | Petite vignette | Création originale | Décorer la page légale sans concurrencer le texte | `20-credit-motif-ionien.jpg` |
