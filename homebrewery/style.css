@@ -199,3 +199,43 @@
   text-align: right;
   color: #6b5a54;
 }
+
+
+/* =========================================================
+   CARTES ET PLANS
+   ========================================================= */
+
+.page .mapSlot {
+  margin: 8px 0 10px 0;
+  padding: 8px;
+  border: 1px solid rgba(49,95,86,.45);
+  background: rgba(232,238,233,.55);
+  break-inside: avoid;
+}
+
+.page .mapSlot h5 {
+  margin: 0 0 4px 0;
+  color: var(--wuju-jade);
+}
+
+.page .mapSlot p {
+  margin: 2px 0;
+  font-size: 8.5pt;
+}
+
+.page .mapImage {
+  display: block;
+  width: 100%;
+  max-height: 570px;
+  object-fit: contain;
+  margin: 4px auto;
+  border: 1px solid rgba(38,51,47,.35);
+  background: #182522;
+}
+
+.page .mapCredit {
+  font-size: 7pt;
+  line-height: 1.15;
+  text-align: right;
+  color: #62716b;
+}
