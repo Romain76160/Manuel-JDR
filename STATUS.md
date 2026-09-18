@@ -262,3 +262,24 @@ Contrôles effectués :
 - une seule ouverture des annexes ;
 - aucun double `\\page` consécutif ;
 - environ 48 700 caractères de source Homebrewery avant insertion des images finales.
+
+
+---
+
+# Phase visuelle — plan d'intégration
+
+Fichiers de référence :
+
+- `assets/illustrations/PLAN_INTEGRATION.md` — emplacement, priorité, format et rôle de chaque visuel ;
+- `assets/SOURCES_IMAGES.md` — registre des sources et crédits.
+
+Assets LoR déjà identifiés avec identifiants utiles :
+
+- Jun, the Prodigy — `06IO011` ;
+- Vastayan Disciple / Ting — `06IO014` ;
+- Disciple of Doran — `06IO001` ;
+- Wuju Style — `06IO013` ;
+- Master Yi — `06IO008` ;
+- Mistfall — `06IO030`.
+
+Ordre visuel retenu : Wuju / Yi → Jun et les disciples → mystère des Chutes → Kayn / Rhaast → Xolaani.
