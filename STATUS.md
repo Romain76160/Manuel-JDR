@@ -283,3 +283,17 @@ Assets LoR déjà identifiés avec identifiants utiles :
 - Mistfall — `06IO030`.
 
 Ordre visuel retenu : Wuju / Yi → Jun et les disciples → mystère des Chutes → Kayn / Rhaast → Xolaani.
+
+
+---
+
+# Arts officiels Riot intégrés
+
+La V1 Homebrewery utilise désormais directement Riot Data Dragon pour quatre illustrations :
+
+- Master Yi — `06IO008-full.png` — ouverture du chapitre I ;
+- Jun, the Prodigy — `06IO011-full.png` — ouverture du chapitre II ;
+- Kayn — `06RU005-full.png` — ouverture du chapitre III ;
+- Xolaani — `06SH004T2-full.png` — annexes Darkin.
+
+Les quatre arts sont crédités dans le manuscrit. Le rendu final dans Homebrewery doit encore être contrôlé visuellement lors de l'export PDF.
