@@ -25,3 +25,48 @@
 ## Règle
 
 Ne jamais supprimer la provenance d'un visuel une fois qu'il est intégré au manuel.
+
+
+---
+
+## Source Riot recommandée — LoR Data Dragon
+
+Riot fournit officiellement les illustrations complètes des cartes dans les bundles **Legends of Runeterra Data Dragon**.
+
+Documentation :
+`https://support-developer.riotgames.com/hc/en-us/articles/22698735834515-Legends-of-Runeterra`
+
+Format direct utilisé par le projet :
+
+`https://dd.b.pvp.net/latest/set6/en_us/img/cards/<CODE>-full.png`
+
+Illustrations prioritaires :
+
+| Sujet | Code LoR | Fichier complet Riot |
+|---|---|---|
+| Master Yi | 06IO008 | `06IO008-full.png` |
+| Jun, the Prodigy | 06IO011 | `06IO011-full.png` |
+| Ting / Vastayan Disciple | 06IO014 | `06IO014-full.png` |
+| Disciple of Doran | 06IO001 | `06IO001-full.png` |
+| Wuju Style | 06IO013 | `06IO013-full.png` |
+| Mistfall | 06IO030 | `06IO030-full.png` |
+| Momentous Choice | 06IO034 | `06IO034-full.png` |
+| Utter Devastation | 06SI036 | `06SI036-full.png` |
+| Kayn | 06RU005 | `06RU005-full.png` |
+| Rhaast | 06RU005T2 | `06RU005T2-full.png` |
+| Xolaani | 06SH004T2 | `06SH004T2-full.png` |
+| The Darkin Bloodletters | 06SH004 | `06SH004-full.png` |
+
+Le script `scripts/fetch_riot_assets.py` automatise cette récupération et essaie également le bundle `set6cde` en secours.
+
+### Dimensions
+
+D'après la documentation Riot :
+
+- illustrations de sorts : généralement **1024 × 1024** ;
+- illustrations d'unités : généralement **2048 × 1024** ;
+- les fichiers `*-full.png` ne contiennent ni texte ni cadre de carte.
+
+### Important
+
+Conserver les noms d'artistes dans ce registre lorsque l'information est connue, même si l'actif est récupéré directement depuis Riot.
