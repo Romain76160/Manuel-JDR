@@ -804,6 +804,20 @@ Ne révélez pas encore le Clan des Ombres. Le seul constat doit être : **quelq
 
 \page
 
+{{mapSlot
+
+##### Carte — Sanctuaire des Chutes de Brume
+
+<!-- MAP_SLOT_CHUTES
+Version joueurs : assets/cartes/chutes-de-brume-sanctuaire-joueurs.jpg
+Version MJ : assets/cartes/chutes-de-brume-sanctuaire-mj.jpg
+Activer l'image dans Homebrewery après validation du fichier final.
+-->
+
+Utilisez la carte à partir du moment où les PJ découvrent le bassin et les ruines. La version joueurs ne révèle ni la cache des lames ni la zone exacte du Gardien.
+
+}}
+
 # Le Bassin du Silence
 
 {{descriptive
@@ -1132,6 +1146,19 @@ Aucune direction ne permet de tout sauver à la fois.
 **Niveau -3 — Reliquaire** : Seigneurs des Darkin, chambre des esprits.  
 **Niveau -4 — Grottes des esprits** : voie d'infiltration du Clan.
 
+{{mapSlot
+
+##### Carte — Coupe générale du Temple Wuju
+
+<!-- MAP_SLOT_TEMPLE_GENERAL
+Joueurs : assets/cartes/temple-wuju-vue-generale-joueurs.jpg
+MJ : assets/cartes/temple-wuju-vue-generale-mj.jpg
+-->
+
+La version joueurs montre les cinq niveaux et leurs connexions connues. La version MJ ajoute les deux routes d'infiltration et les trajectoires adverses.
+
+}}
+
 {{pageNumber,auto}}
 {{footnote CHAPITRE III | LE TEMPLE DANS LA MONTAGNE}}
 
@@ -1201,6 +1228,11 @@ Le Clan des Ombres attaque **par le haut et par le bas**.
 
 # Le premier choix
 
+<!-- MAP_SLOT_NIVEAU_2
+Joueurs : assets/cartes/temple-wuju-niveau-2-joueurs.jpg
+MJ : assets/cartes/temple-wuju-niveau-2-mj.jpg
+-->
+
 ## Monter
 
 Les PJ cherchent à récupérer leur équipement, sonner la cloche ou rejoindre Yi.
@@ -1224,6 +1256,11 @@ Le but n'est pas de punir les joueurs, mais de donner un coût réel à leurs pr
 }}
 
 # Yi contre Kayn
+
+<!-- MAP_SLOT_NIVEAU_1
+Joueurs : assets/cartes/temple-wuju-niveau-1-joueurs.jpg
+MJ : assets/cartes/temple-wuju-niveau-1-mj.jpg
+-->
 
 Yi intercepte Kayn au niveau -1, près du bassin central.
 
@@ -1398,6 +1435,11 @@ Derrière lui, l'œil de Rhaast s'ouvre complètement.
 \page
 
 # Le combat final
+
+<!-- MAP_SLOT_NIVEAU_3
+Joueurs : assets/cartes/temple-wuju-niveau-3-joueurs.jpg
+MJ : assets/cartes/temple-wuju-niveau-3-mj.jpg
+-->
 
 Kayn commence cette phase déjà blessé par Yi.
 
