@@ -45,11 +45,11 @@ Aucune direction ne permet de tout sauver à la fois.
 
 ## Structure verticale
 
-**Niveau 0 — Entrée / vestibule** : râteliers, poste de garde.  
-**Niveau -1 — Temple principal** : bassin, arbre Wuju, dojo, grande cloche.  
-**Niveau -2 — Dortoirs / cloître** : point de départ des PJ, Jun et disciples.  
-**Niveau -3 — Reliquaire** : Seigneurs des Darkin, chambre des esprits.  
-**Niveau -4 — Grottes des esprits** : voie d'infiltration du Clan.
+**Niveau supérieur — Temple principal** : entrée, vestibule, râteliers, bassin, arbre Wuju, dojo, grande cloche.  
+**Niveau intermédiaire — Quartiers** : dortoirs, cloître, bibliothèque ; point de départ des PJ.  
+**Niveau inférieur — Reliquaire** : Seigneurs des Darkin, chambre des esprits, accès aux grottes.  
+
+Les **Grottes des esprits** sont une voie naturelle sous le reliquaire, pas un niveau supplémentaire.
 
 {{mapSlot
 
@@ -71,7 +71,7 @@ La version joueurs montre les cinq niveaux et leurs connexions connues. La versi
 
 # Le calme avant l'orage
 
-Le dernier repas se déroule au niveau -2. Les disciples parlent des Chutes. Jun reste distante. Cassian remonte déposer ses sabres au vestibule.
+Le dernier repas se déroule au niveau intermédiaire. Les disciples parlent des Chutes. Jun reste distante. Cassian remonte déposer ses sabres au vestibule.
 
 Yi annonce que les lames Darkin resteront au reliquaire jusqu'au lendemain.
 
@@ -86,9 +86,9 @@ Yi annonce que les lames Darkin resteront au reliquaire jusqu'au lendemain.
 
 ## La coutume des armes
 
-Les armes de guerre restent normalement au niveau 0. Les PJ peuvent refuser. Cassian respecte toujours la règle.
+Les armes de guerre restent normalement dans le vestibule du niveau supérieur. Les PJ peuvent refuser. Cassian respecte toujours la règle.
 
-Le dojo du niveau -1 contient des armes d'entraînement, ce qui garantit que les personnages ne restent jamais totalement impuissants.
+Le dojo du niveau supérieur contient des armes d'entraînement, ce qui garantit que les personnages ne restent jamais totalement impuissants.
 
 {{pageNumber,auto}}
 {{footnote CHAPITRE III | LE CALME AVANT L'ORAGE}}
@@ -122,9 +122,9 @@ Et presque au même instant, quelque chose frappe depuis les profondeurs.
 Le Clan des Ombres attaque **par le haut et par le bas**.
 
 - Une équipe prend le vestibule.
-- Kayn traverse les ombres jusqu'au niveau -1.
+- Kayn traverse les ombres jusqu'au niveau supérieur.
 - Le Transfuge remonte depuis les grottes vers le reliquaire.
-- Les PJ se réveillent au niveau -2, entre les deux fronts.
+- Les PJ se réveillent au niveau intermédiaire, entre les deux fronts.
 
 {{pageNumber,auto}}
 {{footnote CHAPITRE III | L'ATTAQUE}}
@@ -135,9 +135,9 @@ Le Clan des Ombres attaque **par le haut et par le bas**.
 
 {{mapSlot
 
-##### Carte — Niveau -2 : Dortoirs, cloître et bibliothèque
+##### Carte — Niveau intermédiaire : Quartiers des disciples
 
-<img class="mapImage" src="https://raw.githubusercontent.com/Romain76160/Manuel-JDR/main/assets/cartes/temple-wuju-niveau-2-joueurs.webp" alt="Temple Wuju — niveau -2, dortoirs et cloître">
+<img class="mapImage" src="https://raw.githubusercontent.com/Romain76160/Manuel-JDR/main/assets/cartes/temple-wuju-niveau-2-joueurs.webp" alt="Temple Wuju — niveau intermédiaire, quartiers des disciples">
 
 <div class="mapCredit">Carte originale du projet · version joueurs</div>
 
@@ -151,7 +151,7 @@ Les PJ cherchent à récupérer leur équipement, sonner la cloche ou rejoindre 
 
 ## Rester
 
-Jun organise les disciples et les blessés au niveau -2.
+Jun organise les disciples et les blessés au niveau intermédiaire.
 
 ## Descendre
 
@@ -171,9 +171,9 @@ Le but n'est pas de punir les joueurs, mais de donner un coût réel à leurs pr
 
 {{mapSlot
 
-##### Carte — Niveau -1 : Temple principal
+##### Carte — Niveau supérieur : Temple principal
 
-<img class="mapImage" src="https://raw.githubusercontent.com/Romain76160/Manuel-JDR/main/assets/cartes/temple-wuju-niveau-1-joueurs.jpg" alt="Temple Wuju — niveau -1, temple principal">
+<img class="mapImage" src="https://raw.githubusercontent.com/Romain76160/Manuel-JDR/main/assets/cartes/temple-wuju-niveau-1-joueurs.jpg" alt="Temple Wuju — niveau supérieur, temple principal">
 
 <div class="mapCredit">Carte originale du projet · version joueurs</div>
 
@@ -181,7 +181,7 @@ Le bassin, l'arbre Wuju, le dojo et la grande cloche constituent les principaux 
 
 }}
 
-Yi intercepte Kayn au niveau -1, près du bassin central.
+Yi intercepte Kayn au niveau supérieur, près du bassin central.
 
 > « Tu as déjà trouvé assez de choses qui ne t'appartiennent pas. »
 
@@ -192,7 +192,7 @@ Pendant les premières phases, les PJ peuvent aider Yi indirectement mais ne son
 
 \page
 
-# Le niveau 0 — Les armes
+# Le niveau supérieur — Les armes
 
 L'équipe supérieure contrôle le vestibule et disperse les râteliers.
 
@@ -231,11 +231,11 @@ Le pouvoir de Cassian est désormais public.
 
 # L'attaque des profondeurs
 
-Le **Transfuge noxien** et plusieurs agents sont entrés par une fissure du niveau -4.
+Le **Transfuge noxien** et plusieurs agents sont entrés par une fissure reliée aux grottes sous le reliquaire.
 
 Leur route :
 
-**grottes des esprits → escalier inférieur → reliquaire.**
+**grottes des esprits → accès inférieur → reliquaire.**
 
 Le Transfuge cherche d'abord :
 
@@ -295,7 +295,7 @@ Les PJ comprennent alors que les armes Darkin se reconnaissent entre elles.
 
 # Jun au bord du choix
 
-Jun commence auprès des disciples au niveau -2.
+Jun commence auprès des disciples au niveau intermédiaire.
 
 Une fois les dortoirs sécurisés, elle peut descendre vers le reliquaire.
 
@@ -322,7 +322,7 @@ Ne transformez pas automatiquement cette scène en corruption. L'intervention de
 
 Quand le Transfuge tombe, fuit ou atteint son objectif, Kayn cesse de perdre du temps avec Yi.
 
-Il utilise Marche d'ombre pour descendre directement au niveau -3.
+Il utilise Marche d'ombre pour descendre directement au niveau inférieur.
 
 Yi tente de le suivre, mais une vague d'ombre ou un effondrement ferme temporairement l'accès.
 
@@ -355,7 +355,7 @@ Derrière lui, l'œil de Rhaast s'ouvre complètement.
 
 # Le combat final
 
-<!-- MAP_SLOT_NIVEAU_3
+<!-- MAP_SLOT_NIVEAU_INFERIEUR
 Joueurs : assets/cartes/temple-wuju-niveau-3-joueurs.jpg
 MJ : assets/cartes/temple-wuju-niveau-3-mj.jpg
 -->
@@ -410,7 +410,7 @@ Cette faille peut valoir un succès d'objectif.
 
 # La retraite de Kayn
 
-**Repoussé** — Yi rejoint le niveau -3.  
+**Repoussé** — Yi rejoint le niveau inférieur.  
 **Retraite calculée** — les reliques sont hors d'atteinte.  
 **Victoire partielle** — Kayn emporte une information ou une relique secondaire.  
 **Lames volées** — l'Acte I devient une poursuite.
