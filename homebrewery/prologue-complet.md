@@ -1228,10 +1228,17 @@ Le Clan des Ombres attaque **par le haut et par le bas**.
 
 # Le premier choix
 
-<!-- MAP_SLOT_NIVEAU_2
-Joueurs : assets/cartes/temple-wuju-niveau-2-joueurs.jpg
-MJ : assets/cartes/temple-wuju-niveau-2-mj.jpg
--->
+{{mapSlot
+
+##### Carte — Niveau -2 : Dortoirs, cloître et bibliothèque
+
+<img class="mapImage" src="https://raw.githubusercontent.com/Romain76160/Manuel-JDR/main/assets/cartes/temple-wuju-niveau-2-joueurs.webp" alt="Temple Wuju — niveau -2, dortoirs et cloître">
+
+<div class="mapCredit">Carte originale du projet · version joueurs</div>
+
+Les PJ commencent l'assaut à ce niveau. Le cloître intérieur, les ailes de dortoirs et la bibliothèque donnent trois axes de déplacement immédiatement lisibles, tandis que les escaliers relient le temple principal et le reliquaire.
+
+}}
 
 ## Monter
 
