@@ -38,7 +38,7 @@
 - scènes : Yi contre Kayn, bassin, dojo, grande cloche
 
 ### Niveau -2 — Dortoirs / cloître
-- joueurs : `assets/cartes/temple-wuju-niveau-2-joueurs.jpg`
+- joueurs : `assets/cartes/temple-wuju-niveau-2-joueurs.webp` — **intégrée dans Homebrewery**
 - MJ : `assets/cartes/temple-wuju-niveau-2-mj.jpg`
 - scènes : réveil des PJ, évacuation des disciples, décision monter / tenir / descendre
 
