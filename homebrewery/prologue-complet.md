@@ -1148,14 +1148,13 @@ Les **Grottes des esprits** sont une voie naturelle sous le reliquaire, pas un n
 
 {{mapSlot
 
-##### Carte — Coupe générale du Temple Wuju
+##### Schéma — Structure verticale du Temple Wuju
 
-<!-- MAP_SLOT_TEMPLE_GENERAL
-Joueurs : assets/cartes/temple-wuju-vue-generale-joueurs.jpg
-MJ : assets/cartes/temple-wuju-vue-generale-mj.jpg
--->
+<img class="mapImage" src="https://raw.githubusercontent.com/Romain76160/Manuel-JDR/main/assets/cartes/temple-wuju-vue-generale-joueurs.svg" alt="Temple Wuju — structure verticale simplifiée">
 
-La version joueurs montre les cinq niveaux et leurs connexions connues. La version MJ ajoute les deux routes d'infiltration et les trajectoires adverses.
+<div class="mapCredit">Schéma original du projet · version joueurs</div>
+
+Le Temple ne compte que **trois niveaux jouables**. Les Grottes des esprits sont une connexion naturelle sous le Reliquaire, pas un étage supplémentaire.
 
 }}
 
