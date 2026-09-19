@@ -425,7 +425,7 @@ Fichier de travail généré : `temple-wuju-niveau-3-joueurs.jpg`.
 
 Aucune corruption Darkin ni information MJ n'est visible sur la version joueurs.
 
-L'upload binaire GitHub et l'insertion Homebrewery restent à effectuer avant l'export PDF.
+La carte est désormais présente dans GitHub et intégrée dans Homebrewery.
 
 
 ---
@@ -463,13 +463,22 @@ La version joueurs est intégrée dans le chapitre III et montre uniquement :
 
 Il ne reste plus à transférer dans GitHub que deux fonds raster :
 
-1. **Chutes de Brume**
-   - source Library : `file_00000000bc3881f4a830e321f543662f`
-   - titre : `Sanctuaire caché sous la cascade.png`
-   - copie web préparée : `chutes-de-brume-sanctuaire-joueurs.jpg`
+1. **Chutes de Brume** — `assets/cartes/chutes-de-brume-sanctuaire-joueurs.jpg`.
+2. **Niveau inférieur — Reliquaire** — `assets/cartes/temple-wuju-niveau-inferieur-joueurs.jpg`.
 
-2. **Niveau inférieur — Reliquaire**
-   - source conversation : `file_00000000ac2481f487c1018ed5bda6ae`
-   - copie web préparée : `temple-wuju-niveau-inferieur-joueurs.jpg`
+La cartographie **joueurs** du Prologue est complète. Les prochains travaux cartographiques concernent uniquement les surimpressions MJ.
 
-Aucune nouvelle génération n'est nécessaire pour ces deux cartes.
+
+---
+
+# Cartographie joueurs complète
+
+Les cinq visuels joueurs prévus pour la V1 sont désormais intégrés :
+
+- Chutes de Brume ;
+- vue générale simplifiée du Temple ;
+- niveau supérieur — Temple principal ;
+- niveau intermédiaire — Quartiers ;
+- niveau inférieur — Reliquaire.
+
+Il ne reste plus à créer que les **surimpressions MJ** utiles. Aucun nouveau fond de Temple n'est nécessaire.
