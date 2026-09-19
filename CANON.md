@@ -112,7 +112,7 @@ Le chapitre III constitue le final du Prologue et se joue avec des **PJ de nivea
 - **Maître Yi affronte Kayn** pendant les deux premières phases de l'assaut ;
 - les PJ ont plusieurs objectifs simultanés : récupérer leurs armes, réveiller le temple, protéger les disciples et empêcher le lieutenant d'atteindre le reliquaire ;
 - le boss mécanique principal avant Kayn est un **Transfuge noxien** ayant rejoint le Clan des Ombres ;
-- le temple est divisé en zones tactiques : cour, vestibule, dojo, cloître, sanctuaire intérieur et dortoirs ;
+- le Temple Wuju est organisé en **trois niveaux jouables** : niveau supérieur (entrée + temple principal), niveau intermédiaire (quartiers des disciples) et niveau inférieur (reliquaire) ; les **grottes des esprits** sont une voie naturelle reliée au niveau inférieur, pas un étage supplémentaire ;
 - **Cassian révèle publiquement son magnétisme** en rappelant à lui les sabres de son père ;
 - Jun voit cette révélation et doit réévaluer sa certitude selon laquelle aucun Noxien n'est digne de confiance ;
 - Rhaast reconnaît la présence de Xolaani et les armes Darkin réagissent les unes aux autres ;
