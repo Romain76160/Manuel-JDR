@@ -23,10 +23,10 @@
 | B | Chapitre II | Ting / Vastayan Disciple | Petit portrait | LoR officiel | Donner une identité aux autres disciples | `09-ting-vastayan-disciple.jpg` |
 | B | Chapitre II / Annexes | Disciple of Doran | Petit portrait | LoR officiel | Relier Wuju, artisanat et récompenses de Doran | `10-disciple-de-doran.jpg` |
 | A | Chapitre III | Kayn | Grande ouverture | Riot officiel | Marquer la bascule vers l'assaut et la guerre | `11-ch3-kayn-officiel.jpg` |
-| A | Chapitre III | Temple Wuju souterrain | Carte générale | Création originale du projet | Montrer les niveaux 0 à -4 et les choix monter / tenir / descendre | `12-temple-wuju-general-mj.jpg` / `12b-temple-wuju-general-joueurs.jpg` |
-| A | Chapitre III | Temple principal niveau -1 | Battle map | Création originale du projet | Yi contre Kayn, cloche, dojo, circulation | `13-temple-niveau-moins-1.jpg` |
-| A | Chapitre III | Dortoirs / cloître niveau -2 | Battle map | Création originale du projet | Point de départ des PJ et choix tactique initial | `14-temple-niveau-moins-2.jpg` |
-| A | Chapitre III | Reliquaire niveau -3 | Battle map | Création originale du projet | Combat final contre Kayn | `15-temple-niveau-moins-3.jpg` |
+| A | Chapitre III | Temple Wuju souterrain | Carte générale | Création originale du projet | Montrer les trois niveaux jouables et les choix monter / tenir / descendre | `12-temple-wuju-general-mj.jpg` / `12b-temple-wuju-general-joueurs.jpg` |
+| A | Chapitre III | Temple principal — niveau supérieur | Battle map | Création originale du projet | Yi contre Kayn, cloche, dojo, circulation | `13-temple-niveau-moins-1.jpg` |
+| A | Chapitre III | Quartiers — niveau intermédiaire | Battle map | Création originale du projet | Point de départ des PJ et choix tactique initial | `14-temple-niveau-moins-2.jpg` |
+| A | Chapitre III | Reliquaire — niveau inférieur | Battle map | Création originale du projet | Combat final contre Kayn | `15-temple-niveau-moins-3.jpg` |
 | B | Chapitre III | Rhaast / faux darkin | Image moyenne | Riot officiel | Donner une identité visuelle à la deuxième volonté du combat | `16-rhaast-detail.jpg` |
 | A | Annexes Darkin | Xolaani (06SH004T2) ou Xolaani the Bloodweaver (06MT035) | Image moyenne ou grande | LoR officiel | Révéler la menace qui dépasse Kayn | `17-xolaani-officiel-lor.jpg` / `17b-xolaani-bloodweaver.jpg` |
 | B | Annexes Wuju | Wuju Style / technique Wuju | Petite illustration | LoR officiel | Habiller les règles Wuju sans surcharger | `18-wuju-style.jpg` |
@@ -244,9 +244,9 @@ Finaliser les cartes :
 
 - Chutes ;
 - Temple général ;
-- niveau -1 ;
-- niveau -2 ;
-- niveau -3 ;
+- niveau supérieur ;
+- niveau intermédiaire ;
+- niveau inférieur ;
 - versions MJ / joueurs.
 
 ## Étape 3
