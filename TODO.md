@@ -157,7 +157,9 @@
   - [ ] Niveau -1 MJ.
   - [x] Niveau -2 joueurs intégré.
   - [ ] Niveau -2 MJ.
-  - [ ] Niveau -3 joueurs / MJ.
+  - [x] Niveau -3 joueurs validé visuellement.
+  - [ ] Niveau -3 : upload GitHub + intégration Homebrewery.
+  - [ ] Niveau -3 MJ.
   - [ ] Vue générale joueurs / MJ.
   - [ ] Chutes joueurs / MJ.
 
