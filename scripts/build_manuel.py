@@ -10,7 +10,7 @@ CHAPTER_3 = HOMEBREWERY / "chapters" / "03-assaut-du-temple.md"
 ANNEXES = HOMEBREWERY / "annexes.md"
 OUTPUT = HOMEBREWERY / "prologue-complet.md"
 
-CHAPTER_2_MARKER = "{{chapter\n\n# Chapitre II"
+BUILD_MARKER = "<!-- BUILD:END_PROLOGUE_BASE -->"
 
 
 def read(path: Path) -> str:
@@ -27,15 +27,14 @@ def remove_trailing_page_break(text: str) -> str:
 def main() -> None:
     base = read(SOURCE_BASE)
 
-    if CHAPTER_2_MARKER not in base:
+    if BUILD_MARKER not in base:
         raise RuntimeError(
-            "Le marqueur du chapitre II n'a pas été trouvé dans homebrewery/prologue.md."
+            "Le marqueur de fin de base n'a pas été trouvé dans homebrewery/prologue.md."
         )
 
-    # prologue.md contient actuellement la couverture, l'introduction et le chapitre I,
-    # suivis d'anciens placeholders pour les chapitres II et III. On ne conserve que
-    # tout ce qui précède le placeholder du chapitre II.
-    front_and_chapter_1 = base.split(CHAPTER_2_MARKER, 1)[0]
+    # prologue.md contient uniquement la couverture, l'introduction et le chapitre I.
+    # Le marqueur explicite ci-dessous sépare cette base des modules ajoutés au build.
+    front_and_chapter_1 = base.split(BUILD_MARKER, 1)[0]
     front_and_chapter_1 = remove_trailing_page_break(front_and_chapter_1)
 
     modules = [
