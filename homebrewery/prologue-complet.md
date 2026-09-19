@@ -808,11 +808,9 @@ Ne révélez pas encore le Clan des Ombres. Le seul constat doit être : **quelq
 
 ##### Carte — Sanctuaire des Chutes de Brume
 
-<!-- MAP_SLOT_CHUTES
-Version joueurs : assets/cartes/chutes-de-brume-sanctuaire-joueurs.jpg
-Version MJ : assets/cartes/chutes-de-brume-sanctuaire-mj.jpg
-Activer l'image dans Homebrewery après validation du fichier final.
--->
+<img class="mapImage" src="https://raw.githubusercontent.com/Romain76160/Manuel-JDR/main/assets/cartes/chutes-de-brume-sanctuaire-joueurs.jpg" alt="Chutes de Brume — sanctuaire sous la cascade">
+
+<div class="mapCredit">Carte originale du projet · version joueurs</div>
 
 Utilisez la carte à partir du moment où les PJ découvrent le bassin et les ruines. La version joueurs ne révèle ni la cache des lames ni la zone exacte du Gardien.
 
@@ -1449,10 +1447,17 @@ Derrière lui, l'œil de Rhaast s'ouvre complètement.
 
 # Le combat final
 
-<!-- MAP_SLOT_NIVEAU_INFERIEUR
-Joueurs : assets/cartes/temple-wuju-niveau-3-joueurs.jpg
-MJ : assets/cartes/temple-wuju-niveau-3-mj.jpg
--->
+{{mapSlot
+
+##### Carte — Niveau inférieur : Reliquaire
+
+<img class="mapImage" src="https://raw.githubusercontent.com/Romain76160/Manuel-JDR/main/assets/cartes/temple-wuju-niveau-inferieur-joueurs.jpg" alt="Temple Wuju — niveau inférieur, Reliquaire">
+
+<div class="mapCredit">Carte originale du projet · version joueurs</div>
+
+Le Reliquaire est le verrou final du Temple : accès depuis les Quartiers, chambre des esprits, couverts de pierre et ouverture vers les Grottes des esprits.
+
+}}
 
 Kayn commence cette phase déjà blessé par Yi.
 
