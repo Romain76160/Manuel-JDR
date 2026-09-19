@@ -74,7 +74,7 @@ Le chapitre fonctionne par priorités :
 
 1. protéger les disciples ;
 2. reprendre ou remplacer l'équipement ;
-3. empêcher les assaillants du niveau -4 d'atteindre le reliquaire ;
+3. empêcher les assaillants venus des grottes d'atteindre le reliquaire ;
 4. aider Yi sans chercher à prendre sa place ;
 5. résister aux influences de Rhaast et Xolaani ;
 6. tenir face à Kayn pendant la dernière phase.
