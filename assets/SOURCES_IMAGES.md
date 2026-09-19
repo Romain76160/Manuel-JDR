@@ -15,13 +15,13 @@
 | `17-xolaani-officiel-lor.jpg` | Xolaani (forme Bloodletters) | Legends of Runeterra | 06SH004T2 | Kudos Productions | Riot Data Dragon | Officiel Riot | Révélation / annexes | **Intégré via URL Riot** |
 | `17b-xolaani-bloodweaver.jpg` | Xolaani the Bloodweaver | Legends of Runeterra | 06MT035 | Aron Elekes | LoR Data Dragon / Riot | Officiel Riot | Annexes Darkin | À collecter |
 | `18-wuju-style.jpg` | Wuju Style | Legends of Runeterra | 06IO013 | Kudos Productions | LoR / Riot | Officiel Riot | Annexes Wuju | À collecter |
-| `08-carte-chutes-joueurs.jpg` | Chutes de Brume | Projet | — | — | Projet | Original | Carte joueurs | À finaliser |
+| `assets/cartes/chutes-de-brume-sanctuaire-joueurs.jpg` | Chutes de Brume | Projet | — | — | Projet | Original | Carte joueurs | **Intégrée** |
 | `08b-carte-chutes-mj.jpg` | Chutes de Brume | Projet | — | — | Projet | Original | Carte MJ | À finaliser |
 | `12-temple-wuju-general-mj.jpg` | Temple Wuju | Projet | — | — | Projet | Original | Carte générale MJ | À finaliser |
 | `12b-temple-wuju-general-joueurs.jpg` | Temple Wuju | Projet | — | — | Projet | Original | Carte générale joueurs | À finaliser |
 | `13-temple-niveau-moins-1.jpg` | Temple principal | Projet | — | — | Projet | Original | Battle map | À finaliser |
 | `14-temple-niveau-moins-2.jpg` | Dortoirs / cloître | Projet | — | — | Projet | Original | Battle map | À finaliser |
-| `15-temple-niveau-moins-3.jpg` | Reliquaire | Projet | — | — | Projet | Original | Battle map | À finaliser |
+| `assets/cartes/temple-wuju-niveau-inferieur-joueurs.jpg` | Reliquaire | Projet | — | — | Projet | Original | Battle map | **Intégrée** |
 
 ## Règle
 
@@ -78,3 +78,9 @@ Conserver les noms d'artistes dans ce registre lorsque l'information est connue,
 
 
 | `assets/cartes/temple-wuju-niveau-2-joueurs.webp` | Temple Wuju — niveau -2 | Projet Manuel-JDR | — | Génération originale du projet | Dépôt GitHub | Original | Carte joueurs chapitre III | **Intégrée** |
+
+
+| `assets/cartes/chutes-de-brume-sanctuaire-joueurs.jpg` | Chutes de Brume | Projet Manuel-JDR | — | Carte originale du projet | Dépôt GitHub | Original | Carte joueurs chapitre II | **Intégrée** |
+
+
+| `assets/cartes/temple-wuju-niveau-inferieur-joueurs.jpg` | Temple Wuju — Reliquaire | Projet Manuel-JDR | — | Génération originale du projet | Dépôt GitHub | Original | Carte joueurs chapitre III | **Intégrée** |
