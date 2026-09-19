@@ -33,7 +33,7 @@
   - accès au reliquaire.
 
 ### Niveau -1 — Temple principal
-- joueurs : `assets/cartes/temple-wuju-niveau-1-joueurs.jpg`
+- joueurs : `assets/cartes/temple-wuju-niveau-1-joueurs.jpg` — **intégrée dans Homebrewery**
 - MJ : `assets/cartes/temple-wuju-niveau-1-mj.jpg`
 - scènes : Yi contre Kayn, bassin, dojo, grande cloche
 
