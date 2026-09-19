@@ -160,7 +160,7 @@
   - [x] Niveau inférieur joueurs validé visuellement.
   - [ ] Niveau inférieur : upload GitHub + intégration Homebrewery.
   - [ ] Niveau inférieur MJ.
-  - [ ] Vue générale simplifiée joueurs / MJ.
+  - [x] Vue générale simplifiée joueurs / MJ en SVG.
   - [ ] Chutes joueurs / MJ.
 
 ## Identité graphique
