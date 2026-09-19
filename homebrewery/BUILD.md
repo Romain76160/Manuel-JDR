@@ -13,7 +13,7 @@ Le script assemble automatiquement :
 3. `homebrewery/chapters/03-assaut-du-temple.md` ;
 4. `homebrewery/annexes.md`.
 
-Les anciens placeholders des chapitres II et III présents à la fin de `prologue.md` sont ignorés.
+`prologue.md` se termine par le marqueur `<!-- BUILD:END_PROLOGUE_BASE -->`, utilisé pour séparer proprement la base des modules ajoutés au build.
 
 ## Commande
 
@@ -49,13 +49,14 @@ Cela évite d'avoir plusieurs versions contradictoires du manuel.
 
 Vérifier dans cet ordre :
 
-1. génération sans erreur ;
-2. aucun saut de page vide entre les modules ;
-3. ouvertures des trois chapitres sur une nouvelle page ;
-4. images correctement liées ;
-5. tableaux non coupés ;
-6. blocs `darkin`, `wuju`, `encounter`, `note` et `descriptive` correctement rendus ;
-7. sommaire et numéros de page ;
-8. crédits et notice fan ;
-9. export PDF ;
-10. relecture du PDF page par page.
+1. génération sans erreur avec `scripts/build_manuel.py` ;
+2. validation avec `scripts/validate_manuel.py` et `scripts/check_canon.py` ;
+3. aucun saut de page vide entre les modules ;
+4. ouvertures des trois chapitres sur une nouvelle page ;
+5. images correctement liées ;
+6. tableaux non coupés ;
+7. blocs `darkin`, `wuju`, `encounter`, `note` et `descriptive` correctement rendus ;
+8. sommaire et numéros de page ;
+9. crédits et notice fan ;
+10. export PDF ;
+11. relecture du PDF page par page.
