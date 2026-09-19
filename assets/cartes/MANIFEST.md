@@ -59,9 +59,9 @@ La zone est directement reliée au niveau inférieur et peut être jouée en th�
 
 1. carte des Chutes : après la découverte du sanctuaire ;
 2. vue générale du Temple : juste après « Structure verticale » ;
-3. niveau -2 : au début de « Le premier choix » ;
-4. niveau -1 : dans « Yi contre Kayn » ;
-5. niveau -3 : avant « Le combat final ».
+3. niveau intermédiaire : au début de « Le premier choix » ;
+4. niveau supérieur : dans « Yi contre Kayn » ;
+5. niveau inférieur : avant « Le combat final ».
 
 La version publique du manuel doit privilégier les cartes **joueurs**.
 Les cartes MJ peuvent être regroupées dans les annexes ou dans une édition MJ séparée.
