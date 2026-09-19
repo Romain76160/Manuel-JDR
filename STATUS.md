@@ -482,3 +482,19 @@ Les cinq visuels joueurs prévus pour la V1 sont désormais intégrés :
 - niveau inférieur — Reliquaire.
 
 Il ne reste plus à créer que les **surimpressions MJ** utiles. Aucun nouveau fond de Temple n'est nécessaire.
+
+
+---
+
+# Planche MJ Reliquaire + Chutes
+
+Asset ajouté :
+
+`assets/cartes/planche-mj-reliquaire-chutes.jpg`
+
+Cette planche annotée regroupe :
+
+- le Reliquaire Wuju ;
+- les Chutes de Brume.
+
+Elle sert de **référence MJ** et ne remplace pas les fonds joueurs déjà intégrés dans Homebrewery.
