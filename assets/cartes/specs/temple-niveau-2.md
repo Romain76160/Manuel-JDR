@@ -1,4 +1,4 @@
-# Carte finale — Temple Wuju, niveau -2
+# Carte finale — Temple Wuju, niveau intermédiaire
 
 > **Statut : spécification canonique de production.**
 >
@@ -6,7 +6,7 @@
 
 ## Fonction
 
-Le niveau -2 est le **quartier de vie des disciples** et le point de départ des PJ pendant l'assaut.
+Le **niveau intermédiaire** est le quartier de vie des disciples et le point de départ des PJ pendant l'assaut.
 
 Scènes principales :
 - réveil et alarme ;
@@ -16,9 +16,9 @@ Scènes principales :
 
 ## Architecture obligatoire
 
-Le niveau doit être clairement **creusé dans la montagne** et relié verticalement aux niveaux -1 et -3.
+Le niveau doit être clairement **creusé dans la montagne** et relié verticalement aux niveaux supérieur et inférieur.
 
-### 1. Escalier vers le niveau -1
+### 1. Escalier vers le niveau supérieur
 - en partie haute ;
 - large mais moins monumental que celui du temple principal ;
 - débouche dans le cloître.
@@ -48,7 +48,7 @@ Le niveau doit être clairement **creusé dans la montagne** et relié verticale
 - alcôves ou salles d'étude ;
 - infirmerie légère possible.
 
-### 6. Escalier vers le niveau -3
+### 6. Escalier vers le niveau inférieur
 - en partie basse ;
 - connexion claire vers le reliquaire.
 
@@ -91,4 +91,4 @@ Rejeter si :
 - le cloître devient une grande cour à ciel ouvert ;
 - une corruption rouge/Darkin apparaît ;
 - des annotations ou textes sont générés ;
-- l'escalier vers -3 n'est pas évident.
+- l'escalier vers le niveau inférieur n'est pas évident.
