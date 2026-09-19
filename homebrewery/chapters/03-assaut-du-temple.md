@@ -354,10 +354,17 @@ Derrière lui, l'œil de Rhaast s'ouvre complètement.
 
 # Le combat final
 
-<!-- MAP_SLOT_NIVEAU_INFERIEUR
-Joueurs : assets/cartes/temple-wuju-niveau-3-joueurs.jpg
-MJ : assets/cartes/temple-wuju-niveau-3-mj.jpg
--->
+{{mapSlot
+
+##### Carte — Niveau inférieur : Reliquaire
+
+<img class="mapImage" src="https://raw.githubusercontent.com/Romain76160/Manuel-JDR/main/assets/cartes/temple-wuju-niveau-inferieur-joueurs.jpg" alt="Temple Wuju — niveau inférieur, Reliquaire">
+
+<div class="mapCredit">Carte originale du projet · version joueurs</div>
+
+Le Reliquaire est le verrou final du Temple : accès depuis les Quartiers, chambre des esprits, couverts de pierre et ouverture vers les Grottes des esprits.
+
+}}
 
 Kayn commence cette phase déjà blessé par Yi.
 
