@@ -41,8 +41,8 @@
 ### Restant
 
 - [x] Ajouter les renvois vers les annexes.
-- [ ] Fixer les cartes réellement nécessaires au chapitre I.
-- [ ] Créer l'illustration maîtresse du chapitre I.
+- [x] Fixer les cartes du chapitre I : aucune battlemap obligatoire en V1 ; carte régionale facultative.
+- [x] Illustration maîtresse chapitre I : Master Yi officiel LoR intégré.
 - [ ] Faire la passe éditoriale finale Homebrewery.
 
 ## Chapitre II — Les Chutes de Brume
@@ -106,7 +106,7 @@
 - [ ] Ajouter les cartes dans Homebrewery.
 - [x] Ajouter les renvois explicites au bestiaire.
 - [ ] Faire une passe de test réelle du rythme de l'assaut.
-- [ ] Créer l'illustration maîtresse du chapitre III.
+- [x] Illustration maîtresse chapitre III : Kayn officiel LoR intégré.
 
 ## Annexes et règles
 
@@ -159,19 +159,19 @@
 - [x] Palette de base Wuju / Ionia définie dans le CSS.
 - [x] Styles distincts : lecture, note MJ, Wuju, Darkin, rencontre.
 - [ ] Couverture du Prologue.
-- [ ] Illustration maîtresse chapitre I.
-- [ ] Illustration maîtresse chapitre II.
-- [ ] Illustration maîtresse chapitre III.
-- [ ] Passe graphique finale sur le sommaire et les ouvertures de chapitre.
+- [x] Illustration maîtresse chapitre I — Master Yi.
+- [x] Illustration maîtresse chapitre II — Jun.
+- [x] Illustration maîtresse chapitre III — Kayn.
+- [ ] Passe graphique finale sur le sommaire et la couverture.
 
 ## Passe finale
 
 - [x] Assembler tous les modules Homebrewery.
 - [ ] Vérifier les sauts de page et colonnes.
 - [ ] Supprimer les répétitions entre chapitre et annexes.
-- [ ] Vérifier tous les DD et PV dans une seule passe.
+- [x] Vérifier les constantes principales DD/PV et ajouter `scripts/check_canon.py`.
 - [ ] Harmoniser les voix des PNJ.
-- [ ] Ajouter crédits / notice fan Riot définitive.
+- [x] Ajouter crédits / notice fan Riot définitive.
 - [ ] Exporter une première version PDF de test.
 - [ ] Relire le PDF page par page.
 
