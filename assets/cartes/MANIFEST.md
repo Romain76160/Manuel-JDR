@@ -18,12 +18,12 @@
 ## Chapitre III — Temple Wuju
 
 ### Vue générale joueurs
-- fichier : `assets/cartes/temple-wuju-vue-generale-joueurs.jpg`
+- fichier : `assets/cartes/temple-wuju-vue-generale-joueurs.svg` — **intégrée dans Homebrewery**
 - montre : **trois niveaux jouables** et la connexion vers les Grottes des esprits
 - masque : routes du Clan des Ombres, passage oublié, positions ennemies
 
 ### Vue générale MJ
-- fichier : `assets/cartes/temple-wuju-vue-generale-mj.jpg`
+- fichier : `assets/cartes/temple-wuju-vue-generale-mj.svg` — **créée**
 - ajoute :
   - infiltration par le niveau supérieur ;
   - infiltration par les grottes ;
