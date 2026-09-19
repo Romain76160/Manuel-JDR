@@ -360,3 +360,25 @@ Le script `scripts/check_canon.py` verrouille désormais ces constantes et l'arc
 Référence : `homebrewery/EDITORIAL_REVIEW.md`.
 
 La première passe éditoriale structurelle et mécanique est terminée. Les blocages restants avant PDF sont la couverture, les cartes finales et la vérification visuelle de la pagination.
+
+
+---
+
+# Carte finale intégrée — niveau -1
+
+Premier asset cartographique binaire ajouté au dépôt :
+
+`assets/cartes/temple-wuju-niveau-1-joueurs.jpg`
+
+Il est inséré directement dans `homebrewery/chapters/03-assaut-du-temple.md` via l'URL brute GitHub.
+
+Éléments représentés :
+
+- bassin spirituel central ;
+- arbre Wuju ;
+- dojo ;
+- grande cloche ;
+- escaliers haut / bas ;
+- architecture intérieure creusée dans la roche.
+
+Cette carte sert désormais de **fond de référence commun** pour la future version MJ du niveau -1.
