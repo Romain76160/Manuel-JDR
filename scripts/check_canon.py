@@ -34,15 +34,17 @@ def main() -> int:
 
     # Architecture canonique.
     require(lore, r"creusé dans une montagne", "Temple creusé dans la montagne", errors)
-    for level in ["niveau 0", "niveau -1", "niveau -2", "niveau -3", "niveau -4"]:
+    for level in ["niveau supérieur", "niveau intermédiaire", "niveau inférieur"]:
         require(lore, re.escape(level), f"architecture {level}", errors)
+    require(lore, r"Grottes des esprits", "connexion des Grottes des esprits", errors)
+    forbid(lore, r"niveau\s*-4|niveau\s*-3|niveau\s*-2|niveau\s*-1|niveau\s*0", "ancienne architecture numérotée 0 à -4", errors)
 
     # Chapitre III.
     require(c3, r"52 PV", "Kayn commence le final à 52 PV", errors)
     require(c3, r"25 PV", "Kayn se retire à 25 PV", errors)
     require(c3, r"3 succès d'objectif", "victoire par 3 objectifs", errors)
-    require(c3, r"niveau -2", "départ des PJ au niveau -2", errors)
-    require(c3, r"niveau -3", "final au reliquaire niveau -3", errors)
+    require(c3, r"niveau intermédiaire", "départ des PJ au niveau intermédiaire", errors)
+    require(c3, r"niveau inférieur", "final au reliquaire du niveau inférieur", errors)
 
     # Bestiaire Kayn.
     require(bestiaire, r"À \*\*39 PV ou moins\*\*", "seuil d'éveil de Rhaast à 39 PV", errors)
@@ -76,7 +78,7 @@ def main() -> int:
         return 1
 
     print("COHÉRENCE : OK")
-    print("- architecture verticale 0 à -4")
+    print("- architecture à trois niveaux : supérieur / intermédiaire / inférieur + grottes")
     print("- Kayn 52 -> 25 PV, Rhaast à 39 PV")
     print("- Gardien 45 PV / CA 15 / 1d10+3 / 2d8")
     print("- Xolaani DD 16-PCW")
