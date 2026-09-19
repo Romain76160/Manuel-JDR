@@ -38,7 +38,7 @@ Le CSS commun définit quatre familles principales :
 - `{{darkin ...}}` : tentation, murmure ou révélation Darkin ;
 - `{{encounter ...}}` : rencontre et information tactique.
 
-## Illustrations maîtresses prévues
+## Illustrations maîtresses
 
 ### Couverture
 
@@ -46,15 +46,15 @@ Ionia et le Wuju dominent l'image ; menace Darkin discrète.
 
 ### Chapitre I
 
-Monastère Wuju dans les montagnes ioniennes.
+**Master Yi** — art officiel Legends of Runeterra intégré via Riot Data Dragon.
 
 ### Chapitre II
 
-Les Chutes de Brume : cascade, bassin, ruines et épée d'Urong. Aucun Kayn.
+**Jun, the Prodigy** — art officiel Legends of Runeterra intégré. La carte des Chutes reste à insérer séparément.
 
 ### Chapitre III
 
-Temple Wuju creusé dans la montagne, de nuit. L'image doit suggérer l'infiltration dans les galeries et la descente vers le reliquaire ; Kayn/Rhaast peuvent apparaître dans le temple principal ou près d'un seuil rocheux, mais pas sur des toits extérieurs.
+**Kayn** — art officiel Legends of Runeterra intégré. Les cartes tactiques doivent, elles, conserver le Temple Wuju creusé dans la montagne et la structure verticale canonique.
 
 ## Build
 
@@ -66,4 +66,4 @@ python3 scripts/build_manuel.py
 
 Sortie : `homebrewery/prologue-complet.md`.
 
-La V1 assemblée existe déjà dans le dépôt. Les prochaines passes concernent surtout les renvois, images, sauts de page et corrections éditoriales.
+La V1 assemblée existe déjà dans le dépôt. Les prochaines passes concernent surtout les cartes finales, la couverture, les sauts de page, la densité des pages et le premier export PDF.
