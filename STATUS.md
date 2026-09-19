@@ -351,3 +351,12 @@ Vérification effectuée sur les constantes principales :
 - progression : niveau 1 -> 2 -> 3.
 
 Le script `scripts/check_canon.py` verrouille désormais ces constantes et l'architecture du Temple.
+
+
+---
+
+# Revue éditoriale V1
+
+Référence : `homebrewery/EDITORIAL_REVIEW.md`.
+
+La première passe éditoriale structurelle et mécanique est terminée. Les blocages restants avant PDF sont la couverture, les cartes finales et la vérification visuelle de la pagination.
