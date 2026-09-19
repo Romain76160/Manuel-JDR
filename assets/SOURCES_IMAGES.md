@@ -72,3 +72,6 @@ D'après la documentation Riot :
 ### Important
 
 Conserver les noms d'artistes dans ce registre lorsque l'information est connue, même si l'actif est récupéré directement depuis Riot.
+
+
+| `assets/cartes/temple-wuju-niveau-1-joueurs.jpg` | Temple Wuju — niveau -1 | Projet Manuel-JDR | — | Génération originale du projet | Dépôt GitHub | Original | Carte joueurs chapitre III | **Intégrée** |
