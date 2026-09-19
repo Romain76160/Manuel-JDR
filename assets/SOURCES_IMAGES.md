@@ -84,3 +84,6 @@ Conserver les noms d'artistes dans ce registre lorsque l'information est connue,
 
 
 | `assets/cartes/temple-wuju-niveau-inferieur-joueurs.jpg` | Temple Wuju — Reliquaire | Projet Manuel-JDR | — | Génération originale du projet | Dépôt GitHub | Original | Carte joueurs chapitre III | **Intégrée** |
+
+
+| `assets/cartes/planche-mj-reliquaire-chutes.jpg` | Reliquaire + Chutes de Brume | Projet Manuel-JDR | — | Génération originale du projet | Dépôt GitHub | Original | Aide de table MJ | **Intégrée au dépôt** |
