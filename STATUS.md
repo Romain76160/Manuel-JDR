@@ -441,3 +441,17 @@ Décision validée le 19 septembre 2026 :
 - les noms de fichiers `niveau-1/-2/-3` restent uniquement des identifiants techniques historiques.
 
 Objectif : accélérer l'assaut, réduire les déplacements inutiles et rendre le choix **monter / tenir / descendre** immédiatement compréhensible.
+
+
+---
+
+# Vue générale simplifiée — intégrée
+
+Deux schémas SVG déterministes remplacent l'ancienne coupe à cinq étages :
+
+- `assets/cartes/temple-wuju-vue-generale-joueurs.svg` ;
+- `assets/cartes/temple-wuju-vue-generale-mj.svg`.
+
+La version joueurs est intégrée dans le chapitre III et montre uniquement :
+
+**niveau supérieur → niveau intermédiaire → niveau inférieur → grottes comme connexion**.
