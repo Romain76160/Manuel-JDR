@@ -276,49 +276,60 @@ La marque n'impose aucun malus permanent automatique. Elle signifie que Xolaani 
 
 # H. Assaut du Temple — structure technique verticale
 
-Le Temple Wuju est creusé dans la montagne. Le chapitre III utilise cette verticalité comme mécanique de scénario.
+Le Temple Wuju est creusé dans la montagne. Le chapitre III utilise une structure simple de **trois niveaux jouables**.
 
-## Niveau 0 — Entrée / Vestibule
+## Niveau supérieur — Temple principal
 
-Contient l'entrée principale, les râteliers et les sabres de Cassian.
+Fusionne l'entrée, le vestibule et le cœur cérémoniel.
 
-**Objectifs possibles :** récupérer l'équipement, empêcher une fuite, couper la route aux assaillants venus du haut.
+Contient notamment :
 
-## Niveau -1 — Temple principal
+- râteliers d'armes et sabres de Cassian ;
+- bassin intérieur ;
+- arbre Wuju ;
+- dojo ;
+- grande cloche.
 
-Contient la salle centrale, le dojo et le bassin intérieur.
+**Fonction principale :** infiltration supérieure, récupération des armes et duel Yi–Kayn.
 
-**Fonction principale :** duel Yi–Kayn et zone de rupture entre les deux fronts.
-
-## Niveau -2 — Dortoirs / Cloître
+## Niveau intermédiaire — Quartiers
 
 Point de départ normal des PJ lorsque l'attaque commence.
 
-**Objectifs possibles :** réveiller les disciples, organiser l'évacuation, choisir de monter vers les armes ou de descendre vers le reliquaire.
+Contient :
 
-## Niveau -3 — Reliquaire
+- dortoirs ;
+- cloître ;
+- bibliothèque ;
+- salles communes et espaces de soin.
 
-Contient les Seigneurs des Darkin si les lames ont été ramenées.
+**Objectifs possibles :** réveiller les disciples, organiser l'évacuation, choisir de monter ou de descendre.
 
-**Fonction principale :** combat contre le Transfuge puis phase finale contre Kayn.
+## Niveau inférieur — Reliquaire
 
-## Niveau -4 — Grottes des esprits
+Contient les Seigneurs des Darkin si les lames ont été ramenées, ainsi que la chambre des esprits et l'accès aux grottes.
 
-Voie secondaire et spirituelle utilisée par une partie du Clan des Ombres.
+**Fonction principale :** combat contre le Transfuge, tentation de Jun et phase finale contre Kayn.
+
+## Grottes des esprits
+
+Les grottes sont une **connexion naturelle**, pas un niveau supplémentaire.
+
+Une partie du Clan des Ombres les utilise pour atteindre directement le niveau inférieur.
 
 **Objectifs possibles :** fermer l'accès, utiliser la Brume protectrice, couper la retraite du Transfuge.
 
 ## Principe de pression
 
-Les assaillants progressent **depuis le niveau 0 et le niveau -4 simultanément**.
+Les assaillants progressent **depuis le niveau supérieur et les grottes simultanément**.
 
-Les PJ commencent au milieu, au niveau -2.
+Les PJ commencent au **niveau intermédiaire**.
 
 Leur premier choix est donc structurel :
 
 - **monter** récupérer les armes et contrer l'infiltration supérieure ;
-- **tenir** les dortoirs et sauver les disciples ;
-- **descendre** protéger immédiatement le reliquaire.
+- **tenir** les Quartiers et sauver les disciples ;
+- **descendre** protéger immédiatement le Reliquaire.
 
 Aucune option ne couvre tout le temple.
 
