@@ -1,4 +1,4 @@
-# Carte finale — Temple Wuju, niveau -3
+# Carte finale — Temple Wuju, niveau inférieur
 
 > **Statut : spécification canonique de production.**
 >
@@ -6,7 +6,7 @@
 
 ## Fonction
 
-Le niveau -3 est le **Reliquaire Wuju**.
+Le **niveau inférieur** est le Reliquaire Wuju.
 
 Scènes principales :
 - arrivée du Transfuge ;
@@ -16,9 +16,9 @@ Scènes principales :
 
 ## Architecture obligatoire
 
-Le niveau est entièrement **creusé dans la montagne** et doit être plus solennel, ancien et resserré que les niveaux supérieurs.
+Le niveau est entièrement **creusé dans la montagne** et doit être plus solennel, ancien et resserré que les deux niveaux supérieurs.
 
-### 1. Escalier vers le niveau -2
+### 1. Escalier vers le niveau intermédiaire
 - en partie haute ;
 - accès principal ;
 - débouche sur une antichambre.
@@ -53,7 +53,7 @@ Le niveau est entièrement **creusé dans la montagne** et doit être plus solen
 - deux passages latéraux ;
 - espace suffisamment large pour un combat de boss niveau 3.
 
-### 7. Accès vers le niveau -4
+### 7. Accès vers les Grottes des esprits
 - en partie basse ;
 - escalier, tunnel ou ouverture rocheuse vers les Grottes des esprits ;
 - lisible mais plus naturel que les escaliers supérieurs.
