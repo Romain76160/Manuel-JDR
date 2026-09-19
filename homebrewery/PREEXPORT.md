@@ -7,11 +7,12 @@ Cette checklist est à suivre avant chaque export PDF de test.
 ```bash
 python3 scripts/build_manuel.py
 python3 scripts/validate_manuel.py
+python3 scripts/check_canon.py
 ```
 
 Le validateur doit terminer par :
 
-`Validation structurelle : OK`
+`Validation structurelle : OK` puis `COHÉRENCE : OK`
 
 ## 2. Vérification Homebrewery
 
