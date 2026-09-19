@@ -404,3 +404,25 @@ Intégré dans le chapitre III à la section **Le premier choix**.
 - architecture souterraine creusée dans la roche.
 
 Ce fond servira aussi à la future version MJ.
+
+
+---
+
+# Carte joueurs validée — niveau -3
+
+La battlemap du **Reliquaire Wuju** a été validée visuellement.
+
+Fichier de travail généré : `temple-wuju-niveau-3-joueurs.jpg`.
+
+Éléments retenus :
+
+- accès principal depuis le niveau -2 ;
+- grande salle centrale jouable ;
+- bassins et lumière spirituelle turquoise ;
+- galeries latérales et couverts ;
+- architecture entièrement creusée dans la montagne ;
+- accès inférieur exploitable comme liaison vers les grottes.
+
+Aucune corruption Darkin ni information MJ n'est visible sur la version joueurs.
+
+L'upload binaire GitHub et l'insertion Homebrewery restent à effectuer avant l'export PDF.
