@@ -382,3 +382,25 @@ Il est inséré directement dans `homebrewery/chapters/03-assaut-du-temple.md` v
 - architecture intérieure creusée dans la roche.
 
 Cette carte sert désormais de **fond de référence commun** pour la future version MJ du niveau -1.
+
+
+---
+
+# Carte finale intégrée — niveau -2
+
+Asset canonique :
+
+`assets/cartes/temple-wuju-niveau-2-joueurs.webp`
+
+Intégré dans le chapitre III à la section **Le premier choix**.
+
+Éléments visibles :
+
+- cloître intérieur ;
+- dortoirs des disciples ;
+- bibliothèque / archives ;
+- zones communes ;
+- escaliers vers -1 et -3 ;
+- architecture souterraine creusée dans la roche.
+
+Ce fond servira aussi à la future version MJ.
