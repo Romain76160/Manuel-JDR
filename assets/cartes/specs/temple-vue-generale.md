@@ -6,65 +6,59 @@
 
 ## Objectif
 
-Donner aux joueurs et au MJ une compréhension immédiate de la structure verticale du Temple Wuju pendant l'assaut.
+Donner une compréhension immédiate de la structure du Temple pendant l'assaut.
 
-La coupe doit montrer cinq niveaux superposés dans la montagne :
+La coupe doit montrer **trois niveaux jouables** superposés dans la montagne :
 
-- **Niveau 0** — entrée / vestibule / râteliers d'armes ;
-- **Niveau -1** — temple principal / bassin / dojo / grande cloche ;
-- **Niveau -2** — dortoirs / cloître / bibliothèque ;
-- **Niveau -3** — reliquaire / chambre des esprits ;
-- **Niveau -4** — grottes des esprits / passage oublié vers l'extérieur.
+- **niveau supérieur — Temple principal** ;
+- **niveau intermédiaire — Quartiers** ;
+- **niveau inférieur — Reliquaire**.
+
+Sous le Reliquaire, les **Grottes des esprits** apparaissent seulement comme une connexion naturelle vers l'extérieur.
 
 ## Composition
 
-- coupe latérale ou légèrement en perspective frontale ;
+- coupe latérale ou légèrement frontale ;
 - montagne occupant l'essentiel de l'image ;
 - architecture clairement creusée dans la roche ;
-- escalier / axe vertical reliant les cinq niveaux ;
-- eau descendant naturellement à travers certains niveaux ;
-- quelques ouvertures naturelles vers l'extérieur ;
-- niveau 0 proche de la façade ;
-- niveau -4 nettement plus naturel et cavernicole.
+- axe vertical simple reliant les trois niveaux ;
+- eau descendant naturellement à travers certains espaces ;
+- peu d'ouvertures extérieures ;
+- grottes visibles sous le niveau inférieur sans ressembler à un quatrième étage construit.
 
-## Lecture des niveaux
+## Lecture visuelle
 
-Même sans texte, chaque étage doit être identifiable visuellement :
-
-### Niveau 0
-- porte monumentale ;
-- vestibule ;
-- racks / râteliers d'armes ;
-- lumière extérieure la plus forte.
-
-### Niveau -1
+### Niveau supérieur
+- entrée monumentale ;
+- vestibule et râteliers ;
 - grand bassin turquoise ;
 - arbre Wuju ;
-- vaste salle principale ;
-- cloche visible ;
-- dojo attenant.
+- dojo ;
+- grande cloche.
 
-### Niveau -2
+### Niveau intermédiaire
 - chambres ;
-- petit cloître intérieur ;
+- cloître intérieur ;
 - bibliothèque ;
-- ambiance résidentielle.
+- espaces communs.
 
-### Niveau -3
-- reliquaire plus ancien ;
+### Niveau inférieur
+- reliquaire ancien ;
 - colonnes et alcôves mémorielles ;
+- chambre des esprits ;
 - lumière spirituelle jade ;
-- salle centrale plus solennelle.
+- accès aux grottes.
 
-### Niveau -4
-- grottes naturelles ;
-- rivière / eau souterraine ;
+### Grottes
+- cavités naturelles ;
+- eau souterraine ;
 - tunnel vers l'extérieur ;
-- architecture minimale.
+- architecture minimale ou absente.
 
 ## Version joueurs
 
-Ne doit montrer :
+Ne montre :
+
 - aucun ennemi ;
 - aucune route d'infiltration ;
 - aucune flèche ;
@@ -72,9 +66,8 @@ Ne doit montrer :
 - aucune relique Darkin identifiable ;
 - aucune corruption rouge.
 
-## Contraintes visuelles
+## Contraintes
 
-- aucune légende ;
 - aucun texte ;
 - aucun numéro ;
 - aucun faux kanji ;
@@ -82,18 +75,15 @@ Ne doit montrer :
 - aucun panneau secondaire ;
 - aucune carte miniature ;
 - aucun personnage ;
-- style fantasy ionien cohérent avec les battlemaps validées ;
-- pierre claire et roche sombre ;
-- jade / turquoise ;
-- lanternes chaudes ;
-- quelques jardins intérieurs.
+- style ionien cohérent avec les battlemaps validées.
 
 ## Rejet automatique
 
 Rejeter si :
-- le temple ressemble surtout à un monastère extérieur ;
-- les niveaux -1/-2/-3 sont inversés ;
-- il n'y a que quatre niveaux ;
-- un « cœur Darkin » ou une zone rouge apparaît ;
+
+- le Temple ressemble surtout à un monastère extérieur ;
+- plus de trois niveaux construits sont visibles ;
+- les grottes ressemblent à un étage architectural complet ;
+- un cœur Darkin ou une zone rouge apparaît ;
 - la coupe est entourée d'autres cartes ou légendes ;
 - du texte est généré.
