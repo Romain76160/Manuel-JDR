@@ -159,33 +159,36 @@ Cette question doit relier les trois chapitres.
 
 ## 10. Le Temple Wuju est une montagne habitée
 
-Le Temple Wuju n'est plus conçu comme un monastère principalement extérieur entourant une grande cour.
+Le Temple Wuju n'est pas un monastère principalement extérieur.
 
-La version officielle est **un sanctuaire vertical creusé dans la montagne**.
+La version officielle est **un sanctuaire creusé dans la montagne**, simplifié en **trois niveaux jouables** :
 
-Organisation de référence :
+- **niveau supérieur — Temple principal :** entrée, vestibule, râteliers d'armes, bassin, arbre Wuju, dojo et grande cloche ;
+- **niveau intermédiaire — Quartiers :** dortoirs, cloître intérieur, bibliothèque, soins et espaces communs ;
+- **niveau inférieur — Reliquaire :** reliquaire, chambre des esprits, alcôves mémorielles et accès aux grottes.
 
-- **niveau 0 :** entrée / vestibule ;
-- **niveau -1 :** temple principal et dojo ;
-- **niveau -2 :** dortoirs et cloître ;
-- **niveau -3 :** reliquaire ;
-- **niveau -4 :** grottes des esprits.
+Les **Grottes des esprits** restent un réseau naturel sous le reliquaire, avec un passage oublié vers l'extérieur. Elles ne constituent plus un quatrième ou cinquième niveau jouable.
 
-Ce choix sert directement le gameplay du chapitre III : les PJ commencent au milieu de la structure pendant que le Clan des Ombres attaque à la fois depuis le haut et depuis les grottes.
+Les PJ commencent au **niveau intermédiaire**. Le Clan des Ombres attaque simultanément :
 
-La verticalité doit produire des choix tactiques, pas seulement une belle carte.
+- par le **niveau supérieur** ;
+- par les **grottes**, qui débouchent directement sur le niveau inférieur.
+
+Le premier choix reste donc : **monter / tenir / descendre**.
+
+Cette simplification réduit les déplacements inutiles et permet de réutiliser les trois battlemaps déjà validées.
 
 ---
 
-## 11. Le final de Kayn se joue dans les profondeurs
+## 11. Le final de Kayn se joue au niveau inférieur
 
-Le duel Yi–Kayn occupe principalement le niveau -1 et les passages voisins.
+Le duel Yi–Kayn se déroule principalement au **niveau supérieur**, autour du bassin et du dojo.
 
-Le combat tactique contre le Transfuge descend vers le niveau -3.
+Le Transfuge progresse depuis les grottes vers le **niveau inférieur**.
 
-La confrontation finale entre les PJ et Kayn doit idéalement se dérouler **dans le reliquaire**, au plus près des Seigneurs des Darkin.
+La confrontation finale entre les PJ et Kayn se déroule idéalement **dans le reliquaire du niveau inférieur**, au plus près des Seigneurs des Darkin.
 
-Cela permet aux trois enjeux du Prologue de se rencontrer dans un même lieu :
+Cela réunit dans une même scène :
 
 - le Wuju ;
 - Xolaani ;
