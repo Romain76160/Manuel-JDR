@@ -79,3 +79,18 @@ Les cartes MJ peuvent être regroupées dans les annexes ou dans une édition MJ
 - **pointillé** : passage secret ou route conditionnelle — version MJ uniquement.
 
 Les cartes joueurs et MJ doivent conserver exactement la même géométrie afin de pouvoir être interchangées à la table.
+
+
+---
+
+## Planche MJ — Reliquaire + Chutes
+
+- fichier : `assets/cartes/planche-mj-reliquaire-chutes.jpg`
+- usage : référence rapide du MJ
+- contient :
+  - Reliquaire Wuju annoté ;
+  - Chutes de Brume annotées ;
+  - légendes et points de repère ;
+  - échelles et orientation.
+- **Ne remplace pas** les cartes joueurs intégrées dans les chapitres.
+- à utiliser en annexe MJ ou comme aide de table.
