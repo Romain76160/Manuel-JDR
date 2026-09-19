@@ -1,4 +1,4 @@
-# Carte finale — Temple Wuju, niveau -1
+# Carte finale — Temple Wuju, niveau supérieur
 
 > **Statut : spécification canonique de production.**
 >
@@ -6,13 +6,13 @@
 
 ## Fonction
 
-Le niveau -1 est le **Temple principal**.
+Le **niveau supérieur** est le Temple principal et comprend aussi l'entrée / vestibule.
 
 Scènes principales :
 - duel Yi / Kayn ;
 - traversée des PJ ;
 - défense du bassin ;
-- circulation entre le vestibule (niveau 0) et les dortoirs (niveau -2).
+- circulation entre le vestibule et le niveau intermédiaire.
 
 ## Architecture obligatoire
 
@@ -20,10 +20,10 @@ La carte représente un **grand espace intérieur creusé dans la montagne**.
 
 Elle doit contenir :
 
-1. **Escalier vers le niveau 0**
+1. **Entrée / vestibule**
    - situé en partie haute de la carte ;
    - large, monumental ;
-   - arrive depuis le vestibule.
+   - comprend les râteliers d'armes et l'accès extérieur.
 
 2. **Temple principal**
    - grande salle centrale de pierre ;
@@ -53,7 +53,7 @@ Elle doit contenir :
    - accessible sans passer à l'extérieur ;
    - peut être utilisée comme objectif pendant l'assaut.
 
-7. **Escalier vers le niveau -2**
+7. **Escalier vers le niveau intermédiaire**
    - partie basse de la carte ;
    - connexion claire vers les dortoirs.
 
