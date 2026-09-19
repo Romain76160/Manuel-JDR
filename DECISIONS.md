@@ -208,3 +208,16 @@ Trois objets de référence :
 Chaque PJ peut recevoir un objet à la fin du Prologue.
 
 Ces objets peuvent évoluer dans les futurs manuels, mais leur première version reste volontairement modérée pour des personnages de niveau 3.
+
+
+---
+
+## Cartographie V1 — décision de production
+
+- Les concepts générés durant l'exploration graphique ne sont **pas automatiquement canoniques**.
+- Une carte finale doit respecter `assets/cartes/VALIDATION.md`.
+- Le Temple Wuju reste majoritairement **à l'intérieur de la montagne**.
+- Aucun « Cœur oublié » ou niveau secret supplémentaire n'est canonique dans le Prologue.
+- Les cartes finales doivent idéalement être générées **sans texte**, puis annotées de manière déterministe.
+- Chapitre I : aucune battlemap n'est obligatoire pour la V1 ; une petite carte régionale reste facultative.
+- Les illustrations maîtresses des chapitres I, II et III sont respectivement **Master Yi, Jun et Kayn** via les arts officiels LoR déjà intégrés.
