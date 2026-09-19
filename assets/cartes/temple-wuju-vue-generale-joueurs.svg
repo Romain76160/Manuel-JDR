@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="900" viewBox="0 0 1200 900">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#17201d"/>
+      <stop offset="1" stop-color="#0d1412"/>
+    </linearGradient>
+    <linearGradient id="jade" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#dfece4"/>
+      <stop offset="1" stop-color="#b8d7c4"/>
+    </linearGradient>
+    <filter id="shadow"><feDropShadow dx="0" dy="6" stdDeviation="7" flood-opacity=".35"/></filter>
+  </defs>
+  <rect width="1200" height="900" fill="url(#bg)"/>
+  <path d="M70 75 Q600 5 1130 75 L1090 820 Q600 885 110 820 Z" fill="#26332f" stroke="#53665f" stroke-width="4"/>
+  <text x="600" y="58" text-anchor="middle" font-family="Georgia,serif" font-size="32" fill="#eaf1ed">Temple Wuju — structure verticale</text>
+
+  <g filter="url(#shadow)">
+    <rect x="190" y="115" width="820" height="190" rx="28" fill="url(#jade)" stroke="#79a98f" stroke-width="5"/>
+    <text x="230" y="160" font-family="Georgia,serif" font-size="30" font-weight="bold" fill="#21342b">Niveau supérieur — Temple principal</text>
+    <text x="230" y="202" font-family="Arial,sans-serif" font-size="22" fill="#304b3e">Entrée • Vestibule • Râteliers d'armes • Bassin • Arbre Wuju</text>
+    <text x="230" y="238" font-family="Arial,sans-serif" font-size="22" fill="#304b3e">Dojo • Grande cloche • Accès au niveau intermédiaire</text>
+    <circle cx="890" cy="208" r="48" fill="#78bca8" opacity=".78"/>
+    <path d="M865 230 Q890 160 915 230" fill="none" stroke="#416b5d" stroke-width="6"/>
+  </g>
+
+  <path d="M600 305 L600 358" stroke="#d8e5dd" stroke-width="12" stroke-linecap="round"/>
+  <path d="M580 343 L600 363 L620 343" fill="none" stroke="#d8e5dd" stroke-width="10"/>
+
+  <g filter="url(#shadow)">
+    <rect x="190" y="365" width="820" height="190" rx="28" fill="#d7e4dc" stroke="#789889" stroke-width="5"/>
+    <text x="230" y="410" font-family="Georgia,serif" font-size="30" font-weight="bold" fill="#263b32">Niveau intermédiaire — Quartiers</text>
+    <text x="230" y="452" font-family="Arial,sans-serif" font-size="22" fill="#385044">Dortoirs • Cloître intérieur • Bibliothèque • Soins</text>
+    <text x="230" y="488" font-family="Arial,sans-serif" font-size="22" fill="#385044">Salles communes • Point de départ des PJ</text>
+    <rect x="848" y="413" width="84" height="74" rx="12" fill="#9bc4ae"/>
+    <path d="M864 430 h52 M864 448 h52 M864 466 h52" stroke="#4d7160" stroke-width="6"/>
+  </g>
+
+  <path d="M600 555 L600 608" stroke="#d8e5dd" stroke-width="12" stroke-linecap="round"/>
+  <path d="M580 593 L600 613 L620 593" fill="none" stroke="#d8e5dd" stroke-width="10"/>
+
+  <g filter="url(#shadow)">
+    <rect x="190" y="615" width="820" height="170" rx="28" fill="#cbdad2" stroke="#698d7d" stroke-width="5"/>
+    <text x="230" y="660" font-family="Georgia,serif" font-size="30" font-weight="bold" fill="#23372f">Niveau inférieur — Reliquaire</text>
+    <text x="230" y="702" font-family="Arial,sans-serif" font-size="22" fill="#354b41">Reliquaire • Chambre des esprits • Alcôves mémorielles</text>
+    <text x="230" y="738" font-family="Arial,sans-serif" font-size="22" fill="#354b41">Accès naturel vers les Grottes des esprits</text>
+    <path d="M875 728 q38-65 76 0 q-38 35-76 0" fill="#77ad9c" opacity=".82"/>
+  </g>
+
+  <path d="M600 785 L600 824" stroke="#a8c8ba" stroke-width="10" stroke-linecap="round"/>
+  <path d="M430 827 Q515 787 600 827 Q685 787 770 827" fill="none" stroke="#7fa898" stroke-width="7"/>
+  <text x="600" y="866" text-anchor="middle" font-family="Georgia,serif" font-size="26" fill="#cfe0d7">Grottes des esprits — connexion naturelle vers l'extérieur</text>
+</svg>
