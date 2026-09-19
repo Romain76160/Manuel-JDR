@@ -240,13 +240,13 @@ Le dépôt GitHub est la **source de vérité** du projet.
 
 # Prochaines priorités
 
-1. Ajouter les renvois annexes/bestiaire dans les trois chapitres.
-2. Exporter les cartes définitives MJ et joueurs.
-3. Intégrer la carte des Chutes de Brume.
-4. Créer les quatre illustrations maîtresses : couverture + chapitres I, II, III.
-5. Assembler le manuscrit final via le script de build et contrôler les sauts de page.
-6. Faire une passe éditoriale complète.
-7. Exporter un premier PDF de test et le relire page par page.
+1. Finaliser les **fonds cartographiques canoniques** : Chutes + Temple niveaux -1, -2, -3 et vue générale.
+2. Produire les versions **joueurs / MJ** avec annotations contrôlées.
+3. Finaliser la **couverture originale**.
+4. Insérer les cartes finales dans les cinq emplacements Homebrewery préparés.
+5. Faire la passe éditoriale finale : répétitions, voix PNJ, colonnes et densité des pages.
+6. Exécuter `build_manuel.py`, `validate_manuel.py` et `check_canon.py`.
+7. Exporter le premier PDF de test puis le relire page par page.
 
 
 ---
@@ -335,3 +335,19 @@ Plusieurs concepts visuels ont été générés pour tester :
 Certains concepts représentent trop fortement le Temple comme un complexe extérieur ou inventent un niveau secret. Le fichier `assets/cartes/VALIDATION.md` fixe désormais les critères non négociables avant intégration.
 
 Prochaine production : fonds sans texte du Temple Wuju intérieur, en commençant par le **niveau -1 canonique**.
+
+
+---
+
+# Passe mécanique — septembre 2026
+
+Vérification effectuée sur les constantes principales :
+
+- Kayn : 52 PV au début du final, retrait à 25 PV, Rhaast s'éveille à 39 PV ;
+- Gardien des Chutes : CA 15, 45 PV, Coup de jade 1d10+3, Onde de brume 2d8 ;
+- Transfuge : 58 PV de base, 48 PV pour 3 PJ ;
+- Xolaani : Discipline DD 16 - PCW ;
+- rite du Gardien : Discipline DD 13 - PCW ;
+- progression : niveau 1 -> 2 -> 3.
+
+Le script `scripts/check_canon.py` verrouille désormais ces constantes et l'architecture du Temple.
