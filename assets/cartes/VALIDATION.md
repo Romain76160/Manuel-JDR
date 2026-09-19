@@ -28,41 +28,33 @@ Une terrasse extérieure, un balcon ou une entrée monumentale sont possibles, m
 
 # 2. Niveaux officiels
 
-## Niveau 0 — Entrée / Vestibule
+## Niveau supérieur — Temple principal
 
 Doit contenir :
 
 - entrée principale ;
-- vestibule ;
-- râteliers d'armes ;
-- poste de garde ;
-- accès descendant vers -1.
-
-## Niveau -1 — Temple principal
-
-Doit contenir :
-
-- grand bassin intérieur ;
+- vestibule et râteliers d'armes ;
+- bassin intérieur ;
 - arbre Wuju ;
 - dojo ;
 - grande cloche ;
-- circulations vers 0 et -2.
+- accès vers le niveau intermédiaire.
 
-Usage principal : duel Yi / Kayn.
+Usage principal : récupération des armes et duel Yi / Kayn.
 
-## Niveau -2 — Dortoirs / Cloître
+## Niveau intermédiaire — Quartiers
 
 Doit contenir :
 
 - dortoirs des disciples ;
 - cloître intérieur ;
 - bibliothèque / archives ;
-- zones de repos ;
-- accès vers -1 et -3.
+- zones de repos et de soin ;
+- accès vers les niveaux supérieur et inférieur.
 
 Usage principal : départ des PJ pendant l'assaut.
 
-## Niveau -3 — Reliquaire
+## Niveau inférieur — Reliquaire
 
 Doit contenir :
 
@@ -71,20 +63,19 @@ Doit contenir :
 - alcôves ;
 - colonnes / couvert ;
 - bassin ou conduits spirituels ;
-- accès vers -2 et -4.
+- accès vers les Grottes des esprits.
 
 Usage principal : Transfuge, Jun/Xolaani, combat final contre Kayn.
 
-## Niveau -4 — Grottes des esprits
+## Grottes des esprits
 
-Doit contenir :
+Les grottes ne sont pas un niveau supplémentaire. Elles servent de connexion naturelle sous le Reliquaire et comprennent :
 
-- grottes naturelles ;
 - eau souterraine ;
 - passage oublié vers l'extérieur ;
 - route d'infiltration du Clan des Ombres.
 
-Il n'existe **pas de “niveau secret / cœur oublié” officiel dans le Prologue**.
+Il n'existe **aucun quatrième niveau jouable, niveau secret ou “cœur oublié”** dans le Prologue.
 
 ---
 
