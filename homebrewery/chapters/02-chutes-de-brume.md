@@ -208,11 +208,9 @@ Ne révélez pas encore le Clan des Ombres. Le seul constat doit être : **quelq
 
 ##### Carte — Sanctuaire des Chutes de Brume
 
-<!-- MAP_SLOT_CHUTES
-Version joueurs : assets/cartes/chutes-de-brume-sanctuaire-joueurs.jpg
-Version MJ : assets/cartes/chutes-de-brume-sanctuaire-mj.jpg
-Activer l'image dans Homebrewery après validation du fichier final.
--->
+<img class="mapImage" src="https://raw.githubusercontent.com/Romain76160/Manuel-JDR/main/assets/cartes/chutes-de-brume-sanctuaire-joueurs.jpg" alt="Chutes de Brume — sanctuaire sous la cascade">
+
+<div class="mapCredit">Carte originale du projet · version joueurs</div>
 
 Utilisez la carte à partir du moment où les PJ découvrent le bassin et les ruines. La version joueurs ne révèle ni la cache des lames ni la zone exacte du Gardien.
 
