@@ -455,3 +455,21 @@ Deux schémas SVG déterministes remplacent l'ancienne coupe à cinq étages :
 La version joueurs est intégrée dans le chapitre III et montre uniquement :
 
 **niveau supérieur → niveau intermédiaire → niveau inférieur → grottes comme connexion**.
+
+
+---
+
+# Cartes raster restantes — sources verrouillées
+
+Il ne reste plus à transférer dans GitHub que deux fonds raster :
+
+1. **Chutes de Brume**
+   - source Library : `file_00000000bc3881f4a830e321f543662f`
+   - titre : `Sanctuaire caché sous la cascade.png`
+   - copie web préparée : `chutes-de-brume-sanctuaire-joueurs.jpg`
+
+2. **Niveau inférieur — Reliquaire**
+   - source conversation : `file_00000000ac2481f487c1018ed5bda6ae`
+   - copie web préparée : `temple-wuju-niveau-inferieur-joueurs.jpg`
+
+Aucune nouvelle génération n'est nécessaire pour ces deux cartes.
