@@ -1,48 +1,99 @@
 # Carte finale — Temple Wuju, vue générale verticale
 
-> **Objectif : une seule coupe verticale du Temple Wuju.**
+> **Statut : spécification canonique de production.**
 >
-> Pas de battlemap, pas de panneau secondaire, pas de poster composite.
+> Cette image est une **coupe verticale unique** du Temple Wuju. Ce n'est pas un poster, pas une planche multi-cartes et pas une battlemap.
 
-## Structure canonique
+## Objectif
 
-La montagne doit être montrée en coupe avec cinq niveaux clairement superposés :
+Donner aux joueurs et au MJ une compréhension immédiate de la structure verticale du Temple Wuju pendant l'assaut.
 
-- **Niveau 0** — Entrée / Vestibule / râteliers d'armes ;
-- **Niveau -1** — Temple principal / bassin / arbre Wuju / dojo / grande cloche ;
-- **Niveau -2** — Dortoirs / cloître / bibliothèque ;
-- **Niveau -3** — Reliquaire / chambre des esprits ;
-- **Niveau -4** — Grottes des esprits / passage oublié vers l'extérieur.
+La coupe doit montrer cinq niveaux superposés dans la montagne :
+
+- **Niveau 0** — entrée / vestibule / râteliers d'armes ;
+- **Niveau -1** — temple principal / bassin / dojo / grande cloche ;
+- **Niveau -2** — dortoirs / cloître / bibliothèque ;
+- **Niveau -3** — reliquaire / chambre des esprits ;
+- **Niveau -4** — grottes des esprits / passage oublié vers l'extérieur.
 
 ## Composition
 
-- montagne occupant la majorité de l'image ;
-- entrée extérieure très limitée au sommet / flanc ;
-- sanctuaire surtout visible **à l'intérieur de la roche** ;
-- axe vertical principal d'escaliers / galeries ;
-- eau descendant naturellement à travers plusieurs niveaux ;
-- niveau -4 plus naturel et cavernicole ;
-- aucune zone supplémentaire inventée.
+- coupe latérale ou légèrement en perspective frontale ;
+- montagne occupant l'essentiel de l'image ;
+- architecture clairement creusée dans la roche ;
+- escalier / axe vertical reliant les cinq niveaux ;
+- eau descendant naturellement à travers certains niveaux ;
+- quelques ouvertures naturelles vers l'extérieur ;
+- niveau 0 proche de la façade ;
+- niveau -4 nettement plus naturel et cavernicole.
+
+## Lecture des niveaux
+
+Même sans texte, chaque étage doit être identifiable visuellement :
+
+### Niveau 0
+- porte monumentale ;
+- vestibule ;
+- racks / râteliers d'armes ;
+- lumière extérieure la plus forte.
+
+### Niveau -1
+- grand bassin turquoise ;
+- arbre Wuju ;
+- vaste salle principale ;
+- cloche visible ;
+- dojo attenant.
+
+### Niveau -2
+- chambres ;
+- petit cloître intérieur ;
+- bibliothèque ;
+- ambiance résidentielle.
+
+### Niveau -3
+- reliquaire plus ancien ;
+- colonnes et alcôves mémorielles ;
+- lumière spirituelle jade ;
+- salle centrale plus solennelle.
+
+### Niveau -4
+- grottes naturelles ;
+- rivière / eau souterraine ;
+- tunnel vers l'extérieur ;
+- architecture minimale.
 
 ## Version joueurs
 
-Ne montrer :
+Ne doit montrer :
 - aucun ennemi ;
 - aucune route d'infiltration ;
-- aucun passage secret non découvert ;
-- aucune relique cachée ;
-- aucune corruption Darkin.
+- aucune flèche ;
+- aucun passage secret marqué ;
+- aucune relique Darkin identifiable ;
+- aucune corruption rouge.
 
-## Style
+## Contraintes visuelles
 
-- coupe architecturale fantasy, lisible ;
-- Ionia / Wuju ;
-- pierre claire, jade, bois sombre ;
+- aucune légende ;
+- aucun texte ;
+- aucun numéro ;
+- aucun faux kanji ;
+- aucun cadre de poster ;
+- aucun panneau secondaire ;
+- aucune carte miniature ;
+- aucun personnage ;
+- style fantasy ionien cohérent avec les battlemaps validées ;
+- pierre claire et roche sombre ;
+- jade / turquoise ;
 - lanternes chaudes ;
-- eau turquoise ;
-- végétation intérieure discrète ;
-- ambiance sacrée.
+- quelques jardins intérieurs.
 
-## Image générée
+## Rejet automatique
 
-Idéalement **sans texte intégré**. Les libellés Niveau 0 à -4 seront ajoutés séparément dans la mise en page.
+Rejeter si :
+- le temple ressemble surtout à un monastère extérieur ;
+- les niveaux -1/-2/-3 sont inversés ;
+- il n'y a que quatre niveaux ;
+- un « cœur Darkin » ou une zone rouge apparaît ;
+- la coupe est entourée d'autres cartes ou légendes ;
+- du texte est généré.
