@@ -72,7 +72,7 @@
 ### Restant
 
 - [x] Ajouter davantage de murmures personnalisés de Xolaani selon les PJ.
-- [ ] Intégrer la carte `Sanctuaire caché sous la cascade` dans la mise en page.
+- [ ] Transférer puis intégrer la carte `Sanctuaire caché sous la cascade` dans la mise en page. Source retrouvée et copie web préparée.
 - [x] Ajouter les renvois vers le bestiaire et les annexes.
 - [ ] Faire la passe éditoriale finale.
 
@@ -158,10 +158,10 @@
   - [x] Niveau intermédiaire joueurs intégré.
   - [ ] Niveau intermédiaire MJ.
   - [x] Niveau inférieur joueurs validé visuellement.
-  - [ ] Niveau inférieur : upload GitHub + intégration Homebrewery.
+  - [ ] Niveau inférieur : transfert binaire GitHub + intégration Homebrewery. Copie web préparée.
   - [ ] Niveau inférieur MJ.
   - [x] Vue générale simplifiée joueurs / MJ en SVG.
-  - [ ] Chutes joueurs / MJ.
+  - [ ] Chutes joueurs / MJ — source joueurs validée et copie web préparée.
 
 ## Identité graphique
 
