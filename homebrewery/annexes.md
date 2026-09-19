@@ -208,25 +208,25 @@ Elle n'impose pas automatiquement un malus permanent. Elle signifie que Xolaani 
 
 # Assaut du Temple — référence verticale
 
-Le Temple Wuju est creusé dans la montagne.
+Le Temple Wuju est creusé dans la montagne et utilise **trois niveaux jouables**.
 
 | Niveau | Zone | Fonction pendant l'assaut |
 |---|---|---|
-| 0 | Entrée / Vestibule | armes, infiltration supérieure |
-| -1 | Temple principal | duel Yi–Kayn, dojo, bassin |
-| -2 | Dortoirs / Cloître | point de départ des PJ |
-| -3 | Reliquaire | Transfuge puis Kayn |
-| -4 | Grottes des esprits | infiltration inférieure |
+| Supérieur | Temple principal | entrée, armes, duel Yi–Kayn |
+| Intermédiaire | Quartiers | point de départ des PJ, disciples |
+| Inférieur | Reliquaire | Transfuge, Jun/Xolaani, final contre Kayn |
+
+Les **Grottes des esprits** sont une connexion naturelle sous le reliquaire. Elles servent de voie d'infiltration inférieure mais ne constituent pas un niveau supplémentaire.
 
 {{encounter
 
 ##### Premier choix des PJ
 
-Les assaillants arrivent depuis le **niveau 0** et le **niveau -4**.
+Les assaillants arrivent depuis le **niveau supérieur** et depuis les **grottes** qui débouchent au niveau inférieur.
 
-Les PJ commencent au **niveau -2**.
+Les PJ commencent au **niveau intermédiaire**.
 
-Ils doivent donc choisir : **monter** récupérer leurs armes, **tenir** les dortoirs ou **descendre** protéger immédiatement le reliquaire.
+Ils doivent donc choisir : **monter** récupérer leurs armes et rejoindre Yi, **tenir** les Quartiers ou **descendre** protéger immédiatement le Reliquaire.
 
 }}
 
