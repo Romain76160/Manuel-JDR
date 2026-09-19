@@ -1257,10 +1257,17 @@ Le but n'est pas de punir les joueurs, mais de donner un coût réel à leurs pr
 
 # Yi contre Kayn
 
-<!-- MAP_SLOT_NIVEAU_1
-Joueurs : assets/cartes/temple-wuju-niveau-1-joueurs.jpg
-MJ : assets/cartes/temple-wuju-niveau-1-mj.jpg
--->
+{{mapSlot
+
+##### Carte — Niveau -1 : Temple principal
+
+<img class="mapImage" src="https://raw.githubusercontent.com/Romain76160/Manuel-JDR/main/assets/cartes/temple-wuju-niveau-1-joueurs.jpg" alt="Temple Wuju — niveau -1, temple principal">
+
+<div class="mapCredit">Carte originale du projet · version joueurs</div>
+
+Le bassin, l'arbre Wuju, le dojo et la grande cloche constituent les principaux repères tactiques. La version MJ utilisera exactement le même fond avec les informations d'assaut ajoutées en surimpression.
+
+}}
 
 Yi intercepte Kayn au niveau -1, près du bassin central.
 
