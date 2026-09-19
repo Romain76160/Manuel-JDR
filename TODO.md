@@ -81,10 +81,10 @@
 ### Terminé
 
 - [x] Temple Wuju creusé dans la montagne.
-- [x] Architecture verticale niveaux 0 à -4.
-- [x] PJ au niveau -2 au début de l'assaut.
+- [x] Architecture simplifiée à trois niveaux jouables + grottes comme connexion.
+- [x] PJ au niveau intermédiaire au début de l'assaut.
 - [x] Infiltration simultanée depuis le haut et les grottes.
-- [x] Yi contre Kayn au niveau -1.
+- [x] Yi contre Kayn au niveau supérieur.
 - [x] Choix monter / tenir / descendre.
 - [x] Récupération des armes.
 - [x] Révélation du magnétisme de Cassian.
@@ -135,9 +135,9 @@
 ## Cartes
 
 - [x] Architecture générale du Temple Wuju validée.
-- [x] Concept du niveau -1 Temple principal.
-- [x] Concept du niveau -2 Dortoirs / Cloître.
-- [x] Concept du niveau -3 Reliquaire.
+- [x] Carte du niveau supérieur — Temple principal.
+- [x] Carte du niveau intermédiaire — Quartiers.
+- [x] Carte du niveau inférieur — Reliquaire.
 - [x] Carte de référence existante des Chutes validée.
 - [ ] Export propre des cartes du temple avec nomenclature stable.
 - [ ] Versions sans informations MJ.
@@ -153,14 +153,14 @@
 - [x] Insérer Yi, Jun, Kayn et Xolaani dans Homebrewery.
 - [ ] Finaliser la couverture originale.
 - [ ] Finaliser les cartes joueurs / MJ.
-  - [x] Niveau -1 joueurs intégré dans Homebrewery.
-  - [ ] Niveau -1 MJ.
-  - [x] Niveau -2 joueurs intégré.
-  - [ ] Niveau -2 MJ.
-  - [x] Niveau -3 joueurs validé visuellement.
-  - [ ] Niveau -3 : upload GitHub + intégration Homebrewery.
-  - [ ] Niveau -3 MJ.
-  - [ ] Vue générale joueurs / MJ.
+  - [x] Niveau supérieur joueurs intégré dans Homebrewery.
+  - [ ] Niveau supérieur MJ.
+  - [x] Niveau intermédiaire joueurs intégré.
+  - [ ] Niveau intermédiaire MJ.
+  - [x] Niveau inférieur joueurs validé visuellement.
+  - [ ] Niveau inférieur : upload GitHub + intégration Homebrewery.
+  - [ ] Niveau inférieur MJ.
+  - [ ] Vue générale simplifiée joueurs / MJ.
   - [ ] Chutes joueurs / MJ.
 
 ## Identité graphique
