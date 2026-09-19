@@ -84,7 +84,7 @@ Elle montre seulement que quelqu'un connaît désormais la route.
 
 Le chapitre commence au monastère.
 
-Les PJ ont désormais une place dans la cour. Ils ne sont pas encore disciples au sens strict, mais les regards ont changé.
+Les PJ ont désormais une place dans la vie du temple. Ils ne sont pas encore disciples au sens strict, mais les regards ont changé.
 
 Les repas ne s'interrompent plus lorsqu'ils arrivent. Les plus jeunes disciples posent des questions. Jun, elle, reste plus difficile à lire.
 
