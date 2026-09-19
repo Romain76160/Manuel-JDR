@@ -291,7 +291,7 @@ Devant vous, il n'y a d'abord qu'un mur de pierre claire couvert de mousse et un
 
 Puis le vent tourne.
 
-Au-delà du mur apparaissent des toits superposés, une cour ouverte et plusieurs pavillons accrochés au flanc de la montagne. Des bandes de tissu blanc et vert bougent lentement entre les arbres.
+Au-delà du mur, une façade de pierre épouse le flanc de la montagne. Quelques pavillons et auvents encadrent l'entrée, mais les escaliers disparaissent rapidement sous la roche. Des bandes de tissu blanc et vert bougent lentement devant les galeries.
 
 Aucun garde ne vous arrête.
 
@@ -461,7 +461,7 @@ Une sensation de soulagement accompagne la vision.
 
 # Le retour devant Yi
 
-Après la deuxième mission, Yi reçoit le groupe dans la cour.
+Après la deuxième mission, Yi reçoit le groupe dans le cloître intérieur.
 
 Sa première question n'est pas : « Avez-vous réussi ? »
 
@@ -575,7 +575,7 @@ Le soir tombe sur le monastère.
 
 Pour la première fois depuis votre arrivée, personne ne vous regarde comme des étrangers.
 
-Les conversations reprennent dans la cour. Une théière circule. Quelqu'un rit derrière les cuisines.
+Les conversations reprennent dans le cloître intérieur. Une théière circule. Quelqu'un rit derrière les cuisines.
 
 Maître Yi reste quelques instants près du perron avant de vous rejoindre.
 
