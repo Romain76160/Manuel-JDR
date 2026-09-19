@@ -2,7 +2,7 @@
 
 > **Statut : version narrative révisée — temple creusé dans la montagne.**
 >
-> Cette version remplace l'ancienne disposition en cour ouverte. Le Temple Wuju est désormais un complexe vertical construit **dans la montagne**, organisé sur plusieurs niveaux reliés par des escaliers, puits, galeries et grottes spirituelles.
+> Cette version remplace l'ancienne disposition en cour ouverte. Le Temple Wuju est désormais un complexe vertical construit **dans la montagne**, organisé sur trois niveaux jouables reliés par des escaliers, galeries et grottes spirituelles.
 
 ---
 
@@ -18,7 +18,7 @@ Le Temple Wuju n'est pas un monastère posé au sommet d'une colline. Une petite
 
 Les PJ y ont appris, dormi et mangé.
 
-Cette nuit, chaque niveau devient un front.
+Cette nuit, chacun des trois niveaux devient un front.
 
 Kayn ne cherche pas à conquérir le temple. Il vient pour les **Seigneurs des Darkin**. Son plan consiste à immobiliser Maître Yi pendant que le Clan des Ombres frappe simultanément depuis les niveaux supérieurs et inférieurs.
 
@@ -30,11 +30,11 @@ Le terrain lui-même devient donc l'enjeu du chapitre : faut-il monter récupér
 
 Quelques heures après le retour des Chutes de Brume, le temple s'endort.
 
-Les PJ reposent au **niveau -2**, dans la zone des dortoirs et du cloître. Selon la coutume du sanctuaire, leurs armes principales ont été déposées au **niveau 0**, dans le vestibule d'entrée. Cassian a également laissé ses deux sabres à cet endroit.
+Les PJ reposent au **niveau intermédiaire**, dans les quartiers des disciples. Selon la coutume du sanctuaire, leurs armes principales ont été déposées au **niveau supérieur**, dans le vestibule d'entrée. Cassian a également laissé ses deux sabres à cet endroit.
 
-Les Seigneurs des Darkin, s'ils ont été ramenés, ont été placés au **niveau -3**, dans le reliquaire.
+Les Seigneurs des Darkin, s'ils ont été ramenés, ont été placés au **niveau inférieur**, dans le reliquaire.
 
-Sous celui-ci s'étendent les **grottes des esprits**, au niveau -4, reliées à d'anciens passages naturels de la montagne.
+Sous celui-ci s'étendent les **grottes des esprits**, reliées à d'anciens passages naturels de la montagne.
 
 Kayn exploite cette architecture.
 
@@ -43,9 +43,9 @@ Le Clan des Ombres attaque par deux axes :
 - **par le haut**, en prenant l'entrée et le vestibule ;
 - **par le bas**, grâce à une ancienne fissure menant aux grottes spirituelles.
 
-Kayn lui-même traverse les ombres jusqu'au **niveau -1, le temple principal**, où Yi l'intercepte.
+Kayn lui-même traverse les ombres jusqu'au **niveau supérieur, le temple principal**, où Yi l'intercepte.
 
-Les PJ se réveillent donc au milieu d'un assaut déjà lancé, avec le combat de Yi au-dessus d'eux, leurs armes encore plus haut et le reliquaire juste en dessous.
+Les PJ se réveillent donc au milieu d'un assaut déjà lancé, avec le combat de Yi au-dessus d'eux et le reliquaire juste en dessous.
 
 Leur première décision doit être immédiate.
 
@@ -58,7 +58,7 @@ Au cours de l'assaut :
 - le duel Yi–Kayn fait trembler les niveaux du temple ;
 - Kayn finit par rompre le duel et descend lui-même vers le reliquaire.
 
-La confrontation finale avec les PJ se déroule idéalement **au niveau -3**, entre le reliquaire et l'accès aux grottes.
+La confrontation finale avec les PJ se déroule idéalement **au niveau inférieur**, entre le reliquaire et l'accès aux grottes.
 
 ---
 
@@ -83,39 +83,25 @@ Le chapitre fonctionne par priorités :
 
 # Le Temple Wuju dans la montagne
 
-## Niveau 0 — Entrée et vestibule
+## Niveau supérieur — Temple principal
 
-C'est la seule partie du sanctuaire réellement proche de l'extérieur.
-
-Une entrée discrète s'ouvre derrière une terrasse naturelle et conduit à un vestibule de pierre.
+Le niveau supérieur fusionne l'entrée du sanctuaire et son cœur cérémoniel.
 
 On y trouve :
 
 - la porte principale ;
+- le vestibule et les râteliers d'armes ;
 - les statues des anciens maîtres ;
-- les râteliers d'armes ;
-- un petit poste de garde ;
-- l'escalier descendant au temple principal.
-
-Les armes de guerre sont déposées ici pendant les périodes de repos.
-
-## Niveau -1 — Temple principal
-
-Cœur cérémoniel du sanctuaire.
-
-Un grand bassin central entoure un arbre Wuju vivant sous la roche grâce à une ouverture naturelle et à l'eau de la montagne.
-
-Autour se trouvent :
-
-- la salle de méditation ;
+- le grand bassin central ;
+- l'arbre Wuju ;
 - le dojo ;
-- plusieurs jardins intérieurs ;
+- les jardins intérieurs ;
 - la grande cloche ;
-- les escaliers vers les niveaux 0 et -2.
+- l'escalier vers les quartiers.
 
 C'est ici que Yi intercepte Kayn.
 
-## Niveau -2 — Dortoirs et cloître
+## Niveau intermédiaire — Quartiers
 
 C'est le niveau le plus habité.
 
@@ -123,39 +109,37 @@ On y trouve :
 
 - les dortoirs ;
 - les chambres des invités ;
-- le cloître ;
-- une petite bibliothèque ;
-- des espaces de soin ;
+- le cloître intérieur ;
+- la bibliothèque ;
+- les espaces de soin ;
+- les salles communes ;
+- l'escalier vers le niveau supérieur ;
 - l'escalier vers le reliquaire.
 
 Les PJ commencent normalement ici.
 
-## Niveau -3 — Reliquaire
+## Niveau inférieur — Reliquaire
 
-Le niveau le plus protégé du temple.
+C'est le niveau le plus protégé du temple.
 
 Il contient :
 
 - la salle des reliques ;
 - les souvenirs du Wuju ;
 - les Seigneurs des Darkin s'ils sont présents ;
-- une chambre des esprits ;
-- un poste de garde intérieur ;
-- l'escalier vers les grottes.
+- la chambre des esprits ;
+- les alcôves mémorielles ;
+- l'accès aux grottes.
 
-C'est ici que convergent les deux attaques.
+C'est ici que convergent les deux fronts et que se joue le final.
 
-## Niveau -4 — Grottes des esprits
+## Grottes des esprits
 
-Anciennes cavités naturelles parcourues par l'eau et la magie spirituelle.
+Les grottes ne sont pas un étage supplémentaire.
 
-Elles sont plus anciennes que le temple lui-même.
+Ce sont des cavités naturelles sous le reliquaire, parcourues par l'eau et la magie spirituelle. Un passage presque oublié permet de rejoindre l'extérieur de la montagne.
 
-Un passage presque oublié permet de rejoindre l'extérieur de la montagne.
-
-Le Clan des Ombres l'a découvert en suivant les traces laissées autour des Chutes.
-
-C'est l'axe d'infiltration du Transfuge.
+Le Clan des Ombres l'utilise comme voie d'infiltration secondaire.
 
 ---
 
@@ -163,7 +147,7 @@ C'est l'axe d'infiltration du Transfuge.
 
 Laissez les joueurs profiter une dernière fois du temple.
 
-Le repas se déroule au niveau -2. Les disciples racontent les événements de la journée. Certains veulent entendre le récit des Chutes. Jun parle peu. Cassian nettoie ses sabres avant de remonter les déposer au vestibule.
+Le repas se déroule au niveau intermédiaire. Les disciples racontent les événements de la journée. Certains veulent entendre le récit des Chutes. Jun parle peu. Cassian nettoie ses sabres avant de monter les déposer au vestibule du niveau supérieur.
 
 Yi indique que les lames Darkin resteront au reliquaire jusqu'au lendemain.
 
@@ -189,7 +173,7 @@ Aucune décision définitive ne sera prise cette nuit.
 
 Le Wuju considère les lieux de repos comme des espaces désarmés.
 
-Les armes de guerre restent donc au niveau 0.
+Les armes de guerre restent donc au niveau supérieur, dans le vestibule.
 
 Les PJ peuvent refuser cette coutume. Ne les forcez pas.
 
@@ -201,7 +185,7 @@ Cela signifie que lorsque l'assaut commence, les PJ peuvent être :
 - partiellement armés ;
 - ou déjà équipés selon leurs décisions précédentes.
 
-Le dojo du niveau -1 contient des armes d'entraînement, ce qui permet toujours de combattre sans faire de la perte d'équipement une punition arbitraire.
+Le dojo du niveau supérieur contient des armes d'entraînement, ce qui permet toujours de combattre sans faire de la perte d'équipement une punition arbitraire.
 
 ---
 
@@ -235,13 +219,13 @@ Les assaillants sont déjà dans le temple.
 
 # 4. Le premier choix
 
-Les PJ commencent au niveau -2.
+Les PJ commencent au niveau intermédiaire.
 
 Trois directions sont possibles immédiatement.
 
 ## Monter
 
-Vers le niveau -1 puis le vestibule.
+Vers le niveau supérieur.
 
 Objectifs possibles :
 
@@ -252,13 +236,13 @@ Objectifs possibles :
 
 ## Rester
 
-Le niveau -2 contient les disciples les plus vulnérables.
+Le niveau intermédiaire contient les disciples les plus vulnérables.
 
 Jun organise leur évacuation et tente de verrouiller les couloirs.
 
 ## Descendre
 
-Des bruits de combat remontent déjà depuis le niveau -3.
+Des bruits de combat remontent déjà depuis le niveau inférieur.
 
 Le reliquaire est directement menacé par l'équipe venue des grottes.
 
@@ -270,7 +254,7 @@ Le chapitre doit faire sentir que les PJ défendent **un lieu entier**, pas une 
 
 # 5. Kayn entre dans le temple
 
-Au niveau -1, Yi rejoint le bassin central avant que Kayn n'atteigne l'escalier inférieur.
+Au niveau supérieur, Yi rejoint le bassin central avant que Kayn n'atteigne l'escalier inférieur.
 
 ### À lire aux joueurs si les PJ assistent à la scène
 
@@ -296,11 +280,11 @@ Au niveau -1, Yi rejoint le bassin central avant que Kayn n'atteigne l'escalier 
 
 Le duel commence.
 
-Yi bloque volontairement Kayn au niveau -1 pour l'empêcher de descendre.
+Yi bloque volontairement Kayn au niveau supérieur pour l'empêcher de descendre.
 
 ---
 
-# 6. L'attaque du niveau 0
+# 6. L'attaque du niveau supérieur
 
 Pendant ce temps, une équipe du Clan des Ombres contrôle l'entrée.
 
@@ -348,11 +332,11 @@ Le combat continue.
 
 Le Transfuge noxien et plusieurs agents du Clan entrent par les grottes spirituelles.
 
-Ils ont trouvé une fissure ancienne reliant l'extérieur au niveau -4.
+Ils ont trouvé une fissure ancienne reliant l'extérieur aux grottes sous le reliquaire.
 
 Leur itinéraire est simple :
 
-**grottes → escalier spirituel → niveau -3 → reliquaire.**
+**grottes → accès inférieur → reliquaire.**
 
 Cette équipe représente le véritable danger tactique pour les PJ.
 
@@ -372,11 +356,11 @@ Ses objectifs possibles sont :
 
 ---
 
-# 9. Le niveau -3 comme verrou
+# 9. Le niveau inférieur comme verrou
 
 Le reliquaire possède trois accès importants :
 
-- l'escalier venant du niveau -2 ;
+- l'escalier venant du niveau intermédiaire ;
 - l'escalier vers les grottes ;
 - un passage spirituel secondaire qui ne s'ouvre qu'aux personnes ayant suffisamment gagné la confiance du lieu.
 
@@ -390,7 +374,7 @@ Mais s'ils sont pris entre les agents venant du bas et ceux venant du haut, la s
 
 # 10. Échos du duel de Yi et Kayn
 
-Le duel au niveau -1 doit influencer les autres étages.
+Le duel au niveau supérieur doit influencer les deux autres niveaux.
 
 À chaque round important, utilisez un écho :
 
@@ -407,7 +391,7 @@ Les PJ doivent sentir que le duel se déroule au-dessus d'eux même lorsqu'ils n
 
 # 11. Rhaast reconnaît Xolaani
 
-Quand le Transfuge atteint le reliquaire ou lorsqu'une lame est touchée, Rhaast réagit depuis le niveau -1.
+Quand le Transfuge atteint le reliquaire ou lorsqu'une lame est touchée, Rhaast réagit depuis le niveau supérieur.
 
 Sa voix traverse le temple comme si la roche elle-même parlait.
 
@@ -425,13 +409,13 @@ Pour la première fois, les PJ comprennent que les armes Darkin **se reconnaisse
 
 # 12. Jun et la descente
 
-Jun commence normalement au niveau -2 avec les disciples.
+Jun commence normalement au niveau intermédiaire avec les disciples.
 
 Si les PJ sécurisent les dortoirs, elle les accompagne ensuite vers le reliquaire.
 
 Si la situation tourne mal, elle peut descendre seule pour protéger les plus jeunes ou fermer l'escalier.
 
-C'est près du niveau -3 que Xolaani la tente.
+C'est près du niveau inférieur que Xolaani la tente.
 
 > **« Tu ne perdras plus personne. Je peux te le promettre. »**
 
@@ -449,7 +433,7 @@ Le Transfuge constitue le boss tactique principal de la première moitié du fin
 
 Le combat fonctionne particulièrement bien dans :
 
-- l'escalier entre -2 et -3 ;
+- l'escalier entre les niveaux intermédiaire et inférieur ;
 - la chambre des esprits ;
 - le seuil du reliquaire.
 
@@ -465,7 +449,7 @@ Lorsque le Transfuge tombe, fuit ou atteint son objectif, Rhaast devient soudain
 
 Kayn comprend que Yi lui fait perdre trop de temps.
 
-Il utilise Marche d'ombre pour traverser la montagne et **descendre directement vers le niveau -3**.
+Il utilise Marche d'ombre pour traverser la montagne et **descendre directement vers le niveau inférieur**.
 
 Yi tente de suivre, mais une section de l'escalier s'effondre ou une vague d'ombre ferme temporairement le passage.
 
@@ -525,7 +509,7 @@ Le groupe gagne également s'il obtient trois succès significatifs, par exemple
 
 # 16. Le reliquaire comme terrain final
 
-Le niveau -3 doit permettre plusieurs tactiques.
+Le niveau inférieur doit permettre plusieurs tactiques.
 
 ## Le bassin spirituel
 
@@ -585,7 +569,7 @@ Kayn ne meurt pas pendant le Prologue.
 
 ## Repoussé
 
-Yi rejoint enfin le niveau -3 et Kayn comprend qu'il sera pris entre le maître et les PJ.
+Yi rejoint enfin le niveau inférieur et Kayn comprend qu'il sera pris entre le maître et les PJ.
 
 Il disparaît vers les grottes ou par une ombre ouverte dans la roche.
 
