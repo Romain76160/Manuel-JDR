@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="900" viewBox="0 0 1200 900">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#17201d"/><stop offset="1" stop-color="#0d1412"/></linearGradient>
+    <marker id="arrow" markerWidth="12" markerHeight="12" refX="10" refY="5" orient="auto"><path d="M0 0 L10 5 L0 10 Z" fill="#9c2e2e"/></marker>
+  </defs>
+  <rect width="1200" height="900" fill="url(#bg)"/>
+  <path d="M70 75 Q600 5 1130 75 L1090 820 Q600 885 110 820 Z" fill="#26332f" stroke="#53665f" stroke-width="4"/>
+  <text x="600" y="58" text-anchor="middle" font-family="Georgia,serif" font-size="32" fill="#eaf1ed">Temple Wuju — vue MJ</text>
+
+  <g>
+    <rect x="190" y="115" width="820" height="190" rx="28" fill="#dfece4" stroke="#79a98f" stroke-width="5"/>
+    <text x="230" y="160" font-family="Georgia,serif" font-size="30" font-weight="bold" fill="#21342b">Niveau supérieur — Temple principal</text>
+    <text x="230" y="202" font-family="Arial,sans-serif" font-size="21" fill="#304b3e">Entrée • armes • bassin • dojo • cloche</text>
+    <text x="230" y="242" font-family="Arial,sans-serif" font-size="21" fill="#304b3e">Yi intercepte Kayn ici.</text>
+  </g>
+
+  <g>
+    <rect x="190" y="365" width="820" height="190" rx="28" fill="#d7e4dc" stroke="#789889" stroke-width="5"/>
+    <text x="230" y="410" font-family="Georgia,serif" font-size="30" font-weight="bold" fill="#263b32">Niveau intermédiaire — Quartiers</text>
+    <text x="230" y="452" font-family="Arial,sans-serif" font-size="21" fill="#385044">Dortoirs • cloître • bibliothèque</text>
+    <text x="230" y="492" font-family="Arial,sans-serif" font-size="21" fill="#385044">Départ des PJ et organisation de Jun.</text>
+  </g>
+
+  <g>
+    <rect x="190" y="615" width="820" height="170" rx="28" fill="#cbdad2" stroke="#698d7d" stroke-width="5"/>
+    <text x="230" y="660" font-family="Georgia,serif" font-size="30" font-weight="bold" fill="#23372f">Niveau inférieur — Reliquaire</text>
+    <text x="230" y="702" font-family="Arial,sans-serif" font-size="21" fill="#354b41">Transfuge • Jun/Xolaani • combat final contre Kayn</text>
+    <text x="230" y="742" font-family="Arial,sans-serif" font-size="21" fill="#354b41">Accès direct aux Grottes des esprits.</text>
+  </g>
+
+  <path d="M115 130 C135 130 155 145 188 165" fill="none" stroke="#9c2e2e" stroke-width="12" marker-end="url(#arrow)"/>
+  <text x="110" y="110" font-family="Arial,sans-serif" font-size="20" fill="#f0b1a8">Infiltration haute</text>
+
+  <path d="M965 835 C925 815 920 790 910 765" fill="none" stroke="#9c2e2e" stroke-width="12" marker-end="url(#arrow)"/>
+  <text x="915" y="865" font-family="Arial,sans-serif" font-size="20" fill="#f0b1a8">Transfuge / Clan des Ombres</text>
+
+  <circle cx="840" cy="210" r="18" fill="#7d1f1f"/><text x="870" y="218" font-family="Arial,sans-serif" font-size="20" fill="#522">Kayn</text>
+  <circle cx="820" cy="460" r="18" fill="#2b5e83"/><text x="850" y="468" font-family="Arial,sans-serif" font-size="20" fill="#29485c">PJ</text>
+  <circle cx="830" cy="700" r="18" fill="#7d1f1f"/><text x="860" y="708" font-family="Arial,sans-serif" font-size="20" fill="#522">Objectif du Transfuge</text>
+
+  <path d="M600 305 L600 358 M600 555 L600 608 M600 785 L600 825" stroke="#d8e5dd" stroke-width="11" stroke-linecap="round"/>
+</svg>
