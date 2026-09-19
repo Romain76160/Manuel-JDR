@@ -8,101 +8,95 @@ Les fichiers image définitifs devront porter des noms stables afin que Homebrew
 
 # 1. Temple Wuju — vue générale
 
-**Statut : direction visuelle validée.**
+**Statut : architecture simplifiée validée.**
 
-Le Temple Wuju est désormais officiellement un **sanctuaire vertical creusé dans la montagne**.
+Le Temple Wuju est un **sanctuaire creusé dans la montagne** organisé en trois niveaux jouables :
 
-La vue générale doit montrer clairement :
+- **niveau supérieur — Temple principal** : entrée, vestibule, armes, bassin, arbre Wuju, dojo, grande cloche ;
+- **niveau intermédiaire — Quartiers** : dortoirs, cloître, bibliothèque, espaces communs ;
+- **niveau inférieur — Reliquaire** : reliquaire, chambre des esprits, alcôves mémorielles, accès aux grottes.
 
-- entrée dans le flanc de la montagne ;
-- niveau 0 — entrée / vestibule ;
-- niveau -1 — temple principal / dojo ;
-- niveau -2 — dortoirs / cloître ;
-- niveau -3 — reliquaire ;
-- niveau -4 — grottes des esprits.
+Les **Grottes des esprits** sont une connexion naturelle sous le reliquaire et ne constituent pas un niveau supplémentaire.
 
-Nom de fichier cible :
+Nom cible :
 
 `temple-wuju-vue-generale.jpg`
 
-Cette carte sert de **carte de référence MJ** pour le chapitre III.
-
 ---
 
-# 2. Temple principal — niveau -1
+# 2. Niveau supérieur — Temple principal
 
-**Statut : concept généré.**
+**Statut : carte joueurs validée et intégrée.**
 
 Battlemap centrée sur :
 
-- salle principale ;
-- bassin / arbre intérieur ;
+- entrée / vestibule ;
+- râteliers d'armes ;
+- bassin et arbre Wuju ;
 - dojo ;
-- jardins intérieurs ;
-- escaliers vers niveaux 0 et -2.
+- grande cloche ;
+- accès vers le niveau intermédiaire.
 
-Usage : duel Yi–Kayn, traversée des PJ, combat contre les infiltrés.
+Usage : récupération des armes, révélation de Cassian, duel Yi–Kayn.
 
-Nom cible :
+Fichier technique historique :
 
-`temple-wuju-niveau-1.jpg`
+`temple-wuju-niveau-1-joueurs.jpg`
 
 ---
 
-# 3. Dortoirs / Cloître — niveau -2
+# 3. Niveau intermédiaire — Quartiers
 
-**Statut : concept généré.**
+**Statut : carte joueurs validée et intégrée.**
 
 Battlemap centrée sur :
 
-- dortoirs des disciples ;
-- cloître ;
-- petit bassin central ;
-- archives secondaires ;
-- escaliers vers niveaux -1 et -3.
+- dortoirs ;
+- cloître intérieur ;
+- bibliothèque ;
+- espaces communs ;
+- escaliers vers les niveaux supérieur et inférieur.
 
 Usage : point de départ de l'assaut et évacuation des disciples.
 
-Nom cible :
+Fichier technique historique :
 
-`temple-wuju-niveau-2-dortoirs.jpg`
+`temple-wuju-niveau-2-joueurs.webp`
 
 ---
 
-# 4. Reliquaire — niveau -3
+# 4. Niveau inférieur — Reliquaire
 
-**Statut : concept généré.**
+**Statut : carte joueurs validée visuellement.**
 
 Battlemap centrée sur :
 
 - chambre centrale du reliquaire ;
 - alcôves latérales ;
 - bassins et conduits spirituels ;
-- entrée vers les grottes ;
+- accès aux grottes ;
 - espace suffisant pour la confrontation finale.
 
 Usage : combat contre le Transfuge puis combat final contre Kayn.
 
-Nom cible :
+Fichier technique historique :
 
-`temple-wuju-niveau-3-reliquaire.jpg`
+`temple-wuju-niveau-3-joueurs.jpg`
 
 ---
 
-# 5. Grottes des esprits — niveau -4
+# 5. Grottes des esprits
 
-**Statut : concept intégré à la carte générale, battlemap dédiée facultative.**
+**Statut : pas de battlemap dédiée obligatoire en V1.**
 
 Usage :
 
 - voie d'infiltration du Clan des Ombres ;
 - possibilité de retraite ;
 - interaction avec la Brume protectrice ;
-- raccourci spirituel éventuel.
+- prolongement naturel du niveau inférieur.
 
-Nom cible :
-
-`temple-wuju-niveau-4-grottes.jpg`
+Les grottes sont jouées en théâtre de l'esprit ou comme extension directe du Reliquaire.
 
 ---
 
