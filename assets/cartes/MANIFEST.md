@@ -6,6 +6,7 @@
 
 ### Carte principale joueurs
 - fichier : `assets/cartes/chutes-de-brume-sanctuaire-joueurs.jpg`
+- source validée : Library `file_00000000bc3881f4a830e321f543662f` — **Sanctuaire caché sous la cascade**
 - usage : révélation du sanctuaire après l'arrivée aux Chutes
 - montre : cascade, bassin, épée d'Urong, ruines visibles, chemins visibles
 - masque : cache des Seigneurs des Darkin, routes secrètes, indications MJ
@@ -43,7 +44,7 @@
 - scènes : réveil des PJ, évacuation des disciples, décision monter / tenir / descendre
 
 ### Niveau inférieur — Reliquaire
-- fichier historique joueurs : `assets/cartes/temple-wuju-niveau-3-joueurs.jpg` — **validée visuellement**
+- fichier historique joueurs : `assets/cartes/temple-wuju-niveau-3-joueurs.jpg` — **validée visuellement, transfert binaire restant**
 - MJ : `assets/cartes/temple-wuju-niveau-3-mj.jpg`
 - scènes : Transfuge, Jun/Xolaani, final contre Kayn
 
