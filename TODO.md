@@ -155,7 +155,8 @@
 - [ ] Finaliser les cartes joueurs / MJ.
   - [x] Niveau -1 joueurs intégré dans Homebrewery.
   - [ ] Niveau -1 MJ.
-  - [ ] Niveau -2 joueurs / MJ.
+  - [x] Niveau -2 joueurs intégré.
+  - [ ] Niveau -2 MJ.
   - [ ] Niveau -3 joueurs / MJ.
   - [ ] Vue générale joueurs / MJ.
   - [ ] Chutes joueurs / MJ.
