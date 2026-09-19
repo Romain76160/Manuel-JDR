@@ -5,7 +5,7 @@
 ## Chapitre II — Les Chutes de Brume
 
 ### Carte principale joueurs
-- fichier : `assets/cartes/chutes-de-brume-sanctuaire-joueurs.jpg`
+- fichier : `assets/cartes/chutes-de-brume-sanctuaire-joueurs.jpg` — **intégrée dans Homebrewery**
 - source validée : Library `file_00000000bc3881f4a830e321f543662f` — **Sanctuaire caché sous la cascade**
 - usage : révélation du sanctuaire après l'arrivée aux Chutes
 - montre : cascade, bassin, épée d'Urong, ruines visibles, chemins visibles
@@ -44,7 +44,7 @@
 - scènes : réveil des PJ, évacuation des disciples, décision monter / tenir / descendre
 
 ### Niveau inférieur — Reliquaire
-- fichier historique joueurs : `assets/cartes/temple-wuju-niveau-3-joueurs.jpg` — **validée visuellement, transfert binaire restant**
+- joueurs : `assets/cartes/temple-wuju-niveau-inferieur-joueurs.jpg` — **intégrée dans Homebrewery**
 - MJ : `assets/cartes/temple-wuju-niveau-3-mj.jpg`
 - scènes : Transfuge, Jun/Xolaani, final contre Kayn
 
