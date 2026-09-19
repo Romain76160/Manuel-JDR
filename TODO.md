@@ -153,6 +153,12 @@
 - [x] Insérer Yi, Jun, Kayn et Xolaani dans Homebrewery.
 - [ ] Finaliser la couverture originale.
 - [ ] Finaliser les cartes joueurs / MJ.
+  - [x] Niveau -1 joueurs intégré dans Homebrewery.
+  - [ ] Niveau -1 MJ.
+  - [ ] Niveau -2 joueurs / MJ.
+  - [ ] Niveau -3 joueurs / MJ.
+  - [ ] Vue générale joueurs / MJ.
+  - [ ] Chutes joueurs / MJ.
 
 ## Identité graphique
 
