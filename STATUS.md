@@ -76,17 +76,17 @@ Niveau : 3.
 
 ## Architecture canonique
 
-Le Temple Wuju est creusé dans la montagne :
+Le Temple Wuju est creusé dans la montagne et possède **trois niveaux jouables** :
 
-- niveau 0 : entrée / vestibule / râteliers ;
-- niveau -1 : temple principal / bassin / dojo / grande cloche ;
-- niveau -2 : dortoirs / cloître / bibliothèque ;
-- niveau -3 : reliquaire ;
-- niveau -4 : grottes des esprits.
+- **niveau supérieur — Temple principal** : entrée, vestibule, râteliers, bassin, arbre Wuju, dojo, grande cloche ;
+- **niveau intermédiaire — Quartiers** : dortoirs, cloître, bibliothèque, espaces communs ;
+- **niveau inférieur — Reliquaire** : reliquaire, chambre des esprits, alcôves, accès aux grottes.
 
-Le Clan des Ombres attaque depuis **le haut et le bas**. Les PJ commencent au niveau -2 et doivent choisir entre monter, tenir ou descendre.
+Les **Grottes des esprits** sont une connexion naturelle sous le Reliquaire, pas un étage supplémentaire.
 
-Yi affronte Kayn au niveau -1. Le Transfuge progresse vers le reliquaire. La confrontation finale avec Kayn se déroule idéalement au niveau -3.
+Le Clan des Ombres attaque depuis **le niveau supérieur et les grottes**. Les PJ commencent au niveau intermédiaire et choisissent entre monter, tenir ou descendre.
+
+Yi affronte Kayn au niveau supérieur. Le Transfuge progresse depuis les grottes vers le Reliquaire. La confrontation finale avec Kayn se déroule au niveau inférieur.
 
 Kayn commence cette phase à **52 PV**, cherche à partir à **25 PV** et peut également être repoussé par **3 succès d'objectif**.
 
@@ -240,7 +240,7 @@ Le dépôt GitHub est la **source de vérité** du projet.
 
 # Prochaines priorités
 
-1. Finaliser les **fonds cartographiques canoniques** : Chutes + Temple niveaux -1, -2, -3 et vue générale.
+1. Finaliser les **fonds cartographiques canoniques** : Chutes + vue générale simplifiée ; les trois niveaux du Temple réutilisent les cartes déjà validées.
 2. Produire les versions **joueurs / MJ** avec annotations contrôlées.
 3. Finaliser la **couverture originale**.
 4. Insérer les cartes finales dans les cinq emplacements Homebrewery préparés.
@@ -309,9 +309,9 @@ Les emplacements Homebrewery sont maintenant réservés pour :
 
 - carte du Sanctuaire des Chutes de Brume ;
 - vue générale du Temple Wuju ;
-- niveau -2 Dortoirs / Cloître ;
-- niveau -1 Temple principal ;
-- niveau -3 Reliquaire.
+- niveau intermédiaire — Quartiers ;
+- niveau supérieur — Temple principal ;
+- niveau inférieur — Reliquaire.
 
 Les liens image restent volontairement inactifs jusqu'à validation et ajout des fichiers définitifs, afin de ne pas casser le rendu Homebrewery.
 
@@ -334,7 +334,7 @@ Plusieurs concepts visuels ont été générés pour tester :
 
 Certains concepts représentent trop fortement le Temple comme un complexe extérieur ou inventent un niveau secret. Le fichier `assets/cartes/VALIDATION.md` fixe désormais les critères non négociables avant intégration.
 
-Prochaine production : fonds sans texte du Temple Wuju intérieur, en commençant par le **niveau -1 canonique**.
+Les trois battlemaps principales du Temple sont désormais définies. Ne pas générer de nouveaux étages : priorité à la vue générale simplifiée, aux versions MJ et aux Chutes.
 
 
 ---
@@ -364,7 +364,7 @@ La première passe éditoriale structurelle et mécanique est terminée. Les blo
 
 ---
 
-# Carte finale intégrée — niveau -1
+# Carte finale intégrée — niveau supérieur
 
 Premier asset cartographique binaire ajouté au dépôt :
 
@@ -381,12 +381,12 @@ Il est inséré directement dans `homebrewery/chapters/03-assaut-du-temple.md` v
 - escaliers haut / bas ;
 - architecture intérieure creusée dans la roche.
 
-Cette carte sert désormais de **fond de référence commun** pour la future version MJ du niveau -1.
+Cette carte sert désormais de **fond de référence commun** pour la future version MJ du niveau supérieur.
 
 
 ---
 
-# Carte finale intégrée — niveau -2
+# Carte finale intégrée — niveau intermédiaire
 
 Asset canonique :
 
@@ -400,7 +400,7 @@ Intégré dans le chapitre III à la section **Le premier choix**.
 - dortoirs des disciples ;
 - bibliothèque / archives ;
 - zones communes ;
-- escaliers vers -1 et -3 ;
+- escaliers vers les niveaux supérieur et inférieur ;
 - architecture souterraine creusée dans la roche.
 
 Ce fond servira aussi à la future version MJ.
@@ -408,7 +408,7 @@ Ce fond servira aussi à la future version MJ.
 
 ---
 
-# Carte joueurs validée — niveau -3
+# Carte joueurs validée — niveau inférieur
 
 La battlemap du **Reliquaire Wuju** a été validée visuellement.
 
@@ -416,7 +416,7 @@ Fichier de travail généré : `temple-wuju-niveau-3-joueurs.jpg`.
 
 Éléments retenus :
 
-- accès principal depuis le niveau -2 ;
+- accès principal depuis le niveau intermédiaire ;
 - grande salle centrale jouable ;
 - bassins et lumière spirituelle turquoise ;
 - galeries latérales et couverts ;
@@ -426,3 +426,18 @@ Fichier de travail généré : `temple-wuju-niveau-3-joueurs.jpg`.
 Aucune corruption Darkin ni information MJ n'est visible sur la version joueurs.
 
 L'upload binaire GitHub et l'insertion Homebrewery restent à effectuer avant l'export PDF.
+
+
+---
+
+# Décision de simplification — trois niveaux
+
+Décision validée le 19 septembre 2026 :
+
+- abandon de l'ancienne architecture 0 / -1 / -2 / -3 / -4 ;
+- trois niveaux jouables seulement : **supérieur / intermédiaire / inférieur** ;
+- Grottes des esprits conservées comme connexion naturelle ;
+- réutilisation des trois premières battlemaps validées ;
+- les noms de fichiers `niveau-1/-2/-3` restent uniquement des identifiants techniques historiques.
+
+Objectif : accélérer l'assaut, réduire les déplacements inutiles et rendre le choix **monter / tenir / descendre** immédiatement compréhensible.
