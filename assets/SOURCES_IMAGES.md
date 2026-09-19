@@ -75,3 +75,6 @@ Conserver les noms d'artistes dans ce registre lorsque l'information est connue,
 
 
 | `assets/cartes/temple-wuju-niveau-1-joueurs.jpg` | Temple Wuju — niveau -1 | Projet Manuel-JDR | — | Génération originale du projet | Dépôt GitHub | Original | Carte joueurs chapitre III | **Intégrée** |
+
+
+| `assets/cartes/temple-wuju-niveau-2-joueurs.webp` | Temple Wuju — niveau -2 | Projet Manuel-JDR | — | Génération originale du projet | Dépôt GitHub | Original | Carte joueurs chapitre III | **Intégrée** |
