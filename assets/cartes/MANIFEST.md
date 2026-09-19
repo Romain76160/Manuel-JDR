@@ -19,37 +19,39 @@
 
 ### Vue générale joueurs
 - fichier : `assets/cartes/temple-wuju-vue-generale-joueurs.jpg`
-- montre : niveaux 0 à -4 et connexions connues
-- masque : routes du Clan des Ombres, passages oubliés, positions ennemies
+- montre : **trois niveaux jouables** et la connexion vers les Grottes des esprits
+- masque : routes du Clan des Ombres, passage oublié, positions ennemies
 
 ### Vue générale MJ
 - fichier : `assets/cartes/temple-wuju-vue-generale-mj.jpg`
 - ajoute :
-  - infiltration haute ;
-  - infiltration par niveau -4 ;
-  - position initiale des PJ au niveau -2 ;
+  - infiltration par le niveau supérieur ;
+  - infiltration par les grottes ;
+  - position initiale des PJ au niveau intermédiaire ;
   - trajectoire du Transfuge ;
-  - emplacement de Kayn au début de l'assaut ;
+  - emplacement initial de Kayn ;
   - accès au reliquaire.
 
-### Niveau -1 — Temple principal
-- joueurs : `assets/cartes/temple-wuju-niveau-1-joueurs.jpg` — **intégrée dans Homebrewery**
+### Niveau supérieur — Temple principal
+- fichier historique joueurs : `assets/cartes/temple-wuju-niveau-1-joueurs.jpg` — **intégrée dans Homebrewery**
 - MJ : `assets/cartes/temple-wuju-niveau-1-mj.jpg`
-- scènes : Yi contre Kayn, bassin, dojo, grande cloche
+- scènes : entrée, armes, Yi contre Kayn, bassin, dojo, grande cloche
 
-### Niveau -2 — Dortoirs / cloître
-- joueurs : `assets/cartes/temple-wuju-niveau-2-joueurs.webp` — **intégrée dans Homebrewery**
+### Niveau intermédiaire — Quartiers
+- fichier historique joueurs : `assets/cartes/temple-wuju-niveau-2-joueurs.webp` — **intégrée dans Homebrewery**
 - MJ : `assets/cartes/temple-wuju-niveau-2-mj.jpg`
 - scènes : réveil des PJ, évacuation des disciples, décision monter / tenir / descendre
 
-### Niveau -3 — Reliquaire
-- joueurs : `assets/cartes/temple-wuju-niveau-3-joueurs.jpg`
+### Niveau inférieur — Reliquaire
+- fichier historique joueurs : `assets/cartes/temple-wuju-niveau-3-joueurs.jpg` — **validée visuellement**
 - MJ : `assets/cartes/temple-wuju-niveau-3-mj.jpg`
 - scènes : Transfuge, Jun/Xolaani, final contre Kayn
 
-### Niveau -4 — Grottes des esprits
+### Grottes des esprits
 Pas de battlemap dédiée obligatoire en V1.
-La zone apparaît sur la vue générale et peut être jouée en théâtre de l'esprit.
+La zone est directement reliée au niveau inférieur et peut être jouée en théâtre de l'esprit.
+
+> Les noms de fichiers `niveau-1/-2/-3` sont conservés comme identifiants techniques historiques. Ils ne correspondent plus à la nomenclature narrative du Temple.
 
 ---
 
