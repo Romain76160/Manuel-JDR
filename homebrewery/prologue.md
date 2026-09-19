@@ -26,11 +26,11 @@
 **Système :** Légende & Dragons / compatible 5e  
 **Univers :** Runeterra
 
-Ce document est une création de fan non officielle.
+Ce document est un **projet de fan gratuit et non commercial**.
 
-League of Legends, Runeterra et leurs personnages appartiennent à Riot Games.
+*L'Héritage du Wuju* a été créé conformément à la politique fan « Legal Jibber Jabber » de Riot Games en utilisant des éléments appartenant à Riot Games. **Riot Games ne soutient ni ne sponsorise ce projet.**
 
-Ce projet n'est ni approuvé ni sponsorisé par Riot Games.
+League of Legends, Legends of Runeterra, Runeterra ainsi que leurs personnages et univers appartiennent à Riot Games.
 
 ### Illustrations officielles utilisées
 
