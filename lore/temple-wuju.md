@@ -4,85 +4,130 @@ Ce fichier fixe la géographie officielle du Temple Wuju pour le Manuel I — Pr
 
 ## Principe général
 
-Le Temple Wuju est **creusé dans une montagne**. Une petite partie seulement est visible depuis l'extérieur. Le sanctuaire principal descend verticalement dans la roche et suit d'anciennes cavités naturelles liées au Royaume Spirituel.
+Le Temple Wuju est **creusé dans une montagne**. Une petite partie seulement est visible depuis l'extérieur.
 
-Cette architecture est désormais canonique et remplace les anciennes représentations du temple comme un ensemble de bâtiments disposés dans une grande cour extérieure.
+Pour le Prologue, le sanctuaire est volontairement simplifié en **trois niveaux jouables**. Les Grottes des esprits sont une connexion naturelle sous le dernier niveau, et non un étage supplémentaire.
 
-## Niveaux
+Cette structure remplace définitivement l'ancienne organisation en niveaux 0 à -4.
 
-### Niveau 0 — Entrée / vestibule
+---
 
-- entrée dissimulée dans la montagne ;
-- statues des anciens maîtres ;
-- râteliers d'armes ;
-- petit poste de garde ;
-- accès vers l'extérieur ;
-- escalier descendant vers le temple principal.
+# Niveau supérieur — Temple principal
 
-C'est ici que les armes de guerre sont normalement déposées pendant les périodes de repos.
+Ce niveau fusionne l'ancienne entrée/vestibule et l'ancien temple principal.
 
-### Niveau -1 — Temple principal
+On y trouve :
 
-- grand bassin central ;
-- arbre Wuju vivant sous la montagne ;
-- salle de méditation ;
-- dojo ;
-- jardins intérieurs ;
-- grande cloche ;
-- accès vers les niveaux 0 et -2.
+- l'entrée dans le flanc de la montagne ;
+- le vestibule ;
+- les statues des anciens maîtres ;
+- les râteliers d'armes ;
+- un poste de garde ;
+- le grand bassin spirituel ;
+- l'arbre Wuju ;
+- le dojo ;
+- les jardins intérieurs ;
+- la grande cloche ;
+- l'escalier vers le niveau intermédiaire.
 
-C'est le cœur symbolique du temple et le lieu où Yi intercepte Kayn au début de l'assaut.
+Les armes de guerre sont normalement déposées dans le vestibule pendant les périodes de repos.
 
-### Niveau -2 — Dortoirs / cloître
+**Scènes principales :**
 
-- dortoirs des disciples ;
-- chambres des invités ;
-- cloître ;
-- bibliothèque ;
-- espaces de soin ;
-- escalier vers le reliquaire.
+- attaque supérieure du Clan des Ombres ;
+- récupération des armes ;
+- révélation du magnétisme de Cassian ;
+- duel Yi–Kayn.
 
-Les PJ commencent normalement le chapitre III à ce niveau.
+---
 
-### Niveau -3 — Reliquaire
+# Niveau intermédiaire — Quartiers
 
-- salle des reliques ;
-- objets mémoriels du Wuju ;
-- Seigneurs des Darkin si les lames ont été ramenées ;
-- chambre des esprits ;
-- poste de garde intérieur ;
-- accès vers les grottes.
+C'est le niveau le plus habité et le point de départ des PJ pendant l'assaut.
 
-Le combat final contre Kayn se déroule idéalement ici.
+On y trouve :
 
-### Niveau -4 — Grottes des esprits
+- les dortoirs des disciples ;
+- les chambres des invités ;
+- le cloître intérieur ;
+- la bibliothèque / les archives ;
+- les espaces de soin ;
+- une petite salle de repas et de thé ;
+- l'escalier vers le niveau supérieur ;
+- l'escalier vers le niveau inférieur.
 
-- cavités naturelles plus anciennes que le temple ;
+**Scènes principales :**
+
+- réveil pendant l'assaut ;
+- évacuation des disciples ;
+- organisation de Jun ;
+- choix monter / tenir / descendre.
+
+---
+
+# Niveau inférieur — Reliquaire
+
+C'est la partie la plus ancienne et la plus protégée du sanctuaire.
+
+On y trouve :
+
+- la salle du reliquaire ;
+- les objets mémoriels du Wuju ;
+- les Seigneurs des Darkin s'ils ont été ramenés ;
+- la chambre des esprits ;
+- les alcôves mémorielles ;
+- plusieurs colonnes et galeries ;
+- l'accès direct aux Grottes des esprits.
+
+**Scènes principales :**
+
+- arrivée du Transfuge ;
+- tentation de Jun par Xolaani ;
+- réaction de Rhaast ;
+- confrontation finale contre Kayn.
+
+---
+
+# Grottes des esprits — connexion naturelle
+
+Les Grottes des esprits ne sont **pas un niveau jouable distinct**.
+
+Il s'agit de cavités naturelles sous le reliquaire :
+
 - eau souterraine ;
 - manifestations spirituelles ;
-- passage presque oublié vers l'extérieur de la montagne.
+- tunnel presque oublié vers l'extérieur ;
+- passage d'infiltration du Clan des Ombres.
 
-Le Clan des Ombres utilise ce passage comme voie d'infiltration secondaire.
+Elles peuvent être jouées brièvement en théâtre de l'esprit ou comme prolongement immédiat de la carte du niveau inférieur.
 
-## Logique de l'assaut
+---
+
+# Logique de l'assaut
 
 Le Clan des Ombres attaque sur deux axes :
 
-1. **par le haut** : prise du vestibule et dispersion des armes ;
-2. **par le bas** : infiltration par les grottes vers le reliquaire.
+1. **par le haut**, en prenant l'entrée du niveau supérieur ;
+2. **par le bas**, en utilisant les Grottes des esprits pour déboucher directement sur le niveau inférieur.
 
-Kayn traverse les ombres jusqu'au niveau -1 et y affronte Maître Yi.
+Les PJ commencent au **niveau intermédiaire**.
 
-Les PJ, situés au niveau -2, sont placés entre les deux fronts.
+Leur choix initial est donc clair :
 
-Cette géographie crée le choix tactique central du chapitre III :
+- **monter** vers le Temple principal, les armes et Yi ;
+- **tenir** les Quartiers et protéger les disciples ;
+- **descendre** vers le Reliquaire avant le Transfuge.
 
-- monter pour récupérer les armes et aider Yi ;
-- rester protéger les disciples ;
-- descendre défendre le reliquaire.
+Cette structure conserve la pression verticale sans multiplier artificiellement les étages.
 
-## Références visuelles validées
+---
 
-La référence principale est la coupe verticale montrant les niveaux du temple dans la montagne, avec cascades, salles Wuju éclairées à la lanterne et grottes spirituelles en profondeur.
+# Réutilisation des cartes existantes
 
-Les battle maps dérivées doivent respecter cette organisation générale même si les détails de mobilier ou de salles changent légèrement.
+Les trois battlemaps déjà validées deviennent les cartes officielles des trois niveaux :
+
+- fichier historique `temple-wuju-niveau-1-joueurs.jpg` → **niveau supérieur — Temple principal** ;
+- fichier historique `temple-wuju-niveau-2-joueurs.webp` → **niveau intermédiaire — Quartiers** ;
+- fichier historique `temple-wuju-niveau-3-joueurs.jpg` → **niveau inférieur — Reliquaire**.
+
+Les noms de fichiers sont conservés pour éviter de casser les liens techniques, mais les numéros ne font plus partie du canon narratif.
