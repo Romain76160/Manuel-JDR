@@ -93,7 +93,7 @@ def main() -> None:
             return match.group(0)
         mime = mimetypes.guess_type(path.name)[0] or "application/octet-stream"
         raw = path.read_bytes()
-        if path.suffix.lower() in {".jpg", ".jpeg", ".webp"}:
+        if path.suffix.lower() in {".jpg", ".jpeg"}:
             with Image.open(io.BytesIO(raw)) as image:
                 image = image.convert("RGB")
                 buf = io.BytesIO()
