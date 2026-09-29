@@ -4,6 +4,8 @@ import re
 import sys
 import base64
 import mimetypes
+import io
+from PIL import Image
 
 try:
     import markdown
@@ -90,7 +92,15 @@ def main() -> None:
         if not path.exists() or not path.is_file():
             return match.group(0)
         mime = mimetypes.guess_type(path.name)[0] or "application/octet-stream"
-        payload = base64.b64encode(path.read_bytes()).decode("ascii")
+        raw = path.read_bytes()
+        if path.suffix.lower() in {".jpg", ".jpeg", ".webp"}:
+            with Image.open(io.BytesIO(raw)) as image:
+                image = image.convert("RGB")
+                buf = io.BytesIO()
+                image.save(buf, format="PNG")
+                raw = buf.getvalue()
+                mime = "image/png"
+        payload = base64.b64encode(raw).decode("ascii")
         return f'src="data:{mime};base64,{payload}"'
 
     source = re.sub(r'src="(assets/[^"]+)"', embed_local_asset, source)
