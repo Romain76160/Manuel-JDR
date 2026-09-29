@@ -21,12 +21,13 @@ Le Prologue contient exactement trois chapitres.
 
 # Chapitre I — Les Épreuves du Wuju
 
-**Statut : narration verrouillée + règles de rencontres V1.**
+**Statut : narration verrouillée + règles de rencontres V1 + passe éditoriale Homebrewery terminée.**
 
 Fichiers :
 
 - `manuel/prologue/01-epreuves-du-wuju.md`
 - `manuel/prologue/rencontres-chapitre-i.md`
+- `homebrewery/prologue.md`
 
 Progression : niveau 1 → niveau 2.
 
