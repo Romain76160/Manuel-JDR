@@ -80,6 +80,18 @@ def main() -> None:
         raise SystemExit(f"Source missing: {SOURCE}")
 
     source = SOURCE.read_text(encoding="utf-8")
+    source = source.replace(
+        "https://dd.b.pvp.net/latest/set6/en_us/img/cards/06IO008-full.png",
+        ".build-assets/master-yi.png",
+    )
+    source = source.replace(
+        "https://dd.b.pvp.net/latest/set6/en_us/img/cards/06IO011-full.png",
+        ".build-assets/jun.png",
+    )
+    source = source.replace(
+        "https://dd.b.pvp.net/latest/set6/en_us/img/cards/06RU005-full.png",
+        ".build-assets/kayn.png",
+    )
     source = source.replace("https://raw.githubusercontent.com/Romain76160/Manuel-JDR/main/", "")
 
     source = re.sub(
