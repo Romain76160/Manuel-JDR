@@ -112,35 +112,68 @@ def main() -> None:
     pdf_css = r"""
 @page {
   size: A4;
-  margin: 11mm 12mm 12mm 12mm;
+  margin: 12mm 13mm 13mm 13mm;
+  background: #efe7d2;
+
   @bottom-center {
     content: counter(page);
     font-family: "DejaVu Sans", sans-serif;
     font-size: 7pt;
-    color: #53645e;
+    color: #5d6e67;
   }
 }
 
 html, body {
   margin: 0;
   padding: 0;
-  background: white;
+  background: #efe7d2;
 }
 
 body {
   font-family: "DejaVu Serif", Georgia, serif;
   color: #26332f;
-  font-size: 9.15pt;
-  line-height: 1.30;
+  font-size: 9pt;
+  line-height: 1.32;
 }
 
 .page {
   position: relative;
   box-sizing: border-box;
-  min-height: 273mm;
+  min-height: 271mm;
+  padding: 3mm 4mm 5mm 4mm;
+  background:
+    radial-gradient(circle at 15% 8%, rgba(255,255,255,.34), transparent 26%),
+    radial-gradient(circle at 88% 82%, rgba(49,95,86,.08), transparent 24%),
+    linear-gradient(180deg, #f6f0df 0%, #efe6cf 100%);
+  border: 0.45pt solid rgba(49,95,86,.28);
+  box-shadow: inset 0 0 0 1.2mm rgba(255,255,255,.22);
   break-after: page;
   page-break-after: always;
   counter-increment: logicalpage;
+}
+
+.page::before,
+.page::after {
+  content: "";
+  position: absolute;
+  width: 18mm;
+  height: 18mm;
+  opacity: .25;
+  pointer-events: none;
+}
+
+.page::before {
+  left: 2.5mm;
+  top: 2.5mm;
+  border-left: 1.2pt solid #315f56;
+  border-top: 1.2pt solid #315f56;
+}
+
+.page::after {
+  right: 2.5mm;
+  bottom: 2.5mm;
+  border-right: 1.2pt solid #315f56;
+  border-bottom: 1.2pt solid #315f56;
 }
 
 .page:last-child {
@@ -151,6 +184,7 @@ body {
 .content-sheet {
   column-count: 2;
   column-gap: 8mm;
+  column-rule: .35pt solid rgba(49,95,86,.22);
   column-fill: auto;
 }
 
@@ -167,28 +201,39 @@ h1, h2, h3, h4, h5 {
 
 h1 {
   margin: 0 0 4mm 0;
-  font-size: 23pt;
-  line-height: 1.05;
+  font-size: 22pt;
+  line-height: 1.02;
+  color: #315f56;
+  letter-spacing: .015em;
+  text-transform: none;
+  border-bottom: 1.2pt solid #7d9a8c;
+  padding-bottom: 1.5mm;
 }
 
 h2 {
-  margin: 3mm 0 1.5mm;
-  font-size: 15pt;
-  border-bottom: 0.5pt solid #819d89;
+  margin: 3.2mm 0 1.5mm;
+  font-size: 14.5pt;
+  color: #315f56;
+  border-bottom: .7pt solid #9bb1a5;
+  padding-bottom: .7mm;
 }
 
 h3 {
-  margin: 2.8mm 0 1mm;
-  font-size: 11.5pt;
+  margin: 2.6mm 0 1mm;
+  font-size: 11.3pt;
+  color: #3f6d62;
 }
 
 h4, h5 {
   margin: 2mm 0 1mm;
   font-size: 9.5pt;
+  color: #4b746a;
 }
 
 p {
-  margin: 0 0 2.2mm 0;
+  margin: 0 0 2.1mm 0;
+  orphans: 3;
+  widows: 3;
 }
 
 ul, ol {
@@ -197,11 +242,15 @@ ul, ol {
   padding-left: 5mm;
 }
 
+li::marker {
+  color: #4a766b;
+}
+
 blockquote {
-  margin: 2mm 0;
-  padding: 1.8mm 2.5mm;
-  border-left: 2.5pt solid #819d89;
-  background: #f5f7f5;
+  margin: 2.4mm 0;
+  padding: 2mm 3mm;
+  border-left: 2.7pt solid #789d90;
+  background: rgba(226,236,230,.78);
   font-style: italic;
 }
 
@@ -211,39 +260,78 @@ table {
   font-size: 8pt;
   margin: 2mm 0 3mm;
   break-inside: avoid;
+  background: rgba(255,255,255,.16);
 }
 
 th, td {
-  border-bottom: 0.4pt solid #b7c5bd;
-  padding: 1.2mm 1.4mm;
+  border-bottom: .45pt solid #aebdb4;
+  padding: 1.3mm 1.5mm;
   vertical-align: top;
 }
 
 th {
   font-family: "DejaVu Sans", sans-serif;
-  background: #e8eee9;
+  background: rgba(49,95,86,.12);
+  color: #315f56;
 }
 
-.note, .descriptive, .wuju, .darkin, .encounter {
+.note,
+.descriptive,
+.wuju,
+.darkin,
+.encounter,
+.mapSlot {
   display: block;
-  padding: 2.2mm 2.8mm;
-  margin: 2.5mm 0;
-  border-radius: 1mm;
+  padding: 2.6mm 3mm;
+  margin: 2.7mm 0;
+  border-radius: 1.3mm;
   break-inside: avoid;
   page-break-inside: avoid;
 }
 
-.note { background: #eef0e5; border-left: 3pt solid #a2a578; }
-.descriptive { background: #e8eee9; border-left: 3pt solid #819d89; }
-.wuju { background: #edf4ef; border-left: 3pt solid #315f56; }
-.darkin { background: #f3e9e6; border-left: 3pt solid #6f2628; }
-.encounter { background: #f3eee3; border-left: 3pt solid #9a783d; }
+.note {
+  background: linear-gradient(180deg, #f0eedc 0%, #e9e6cf 100%);
+  border: .55pt solid #b9b58d;
+  border-left: 3.4pt solid #9d9966;
+}
+
+.descriptive {
+  background: linear-gradient(180deg, #eaf1ed 0%, #dfe9e4 100%);
+  border: .55pt solid #9db7ad;
+  border-left: 3.4pt solid #6f9689;
+  font-style: italic;
+}
+
+.wuju {
+  background: linear-gradient(135deg, #e8f1ec 0%, #d8e6df 100%);
+  border: .55pt solid #8aa79b;
+  border-left: 3.8pt solid #315f56;
+}
+
+.darkin {
+  background: linear-gradient(135deg, #f2e4e1 0%, #ead4d0 100%);
+  border: .55pt solid #b68681;
+  border-left: 3.8pt solid #6f2628;
+}
+
+.darkin h4,
+.darkin h5,
+.darkin strong {
+  color: #6f2628;
+}
+
+.encounter {
+  background: linear-gradient(180deg, #f5eddc 0%, #eee1c7 100%);
+  border: .55pt solid #b99a61;
+  border-left: 3.8pt solid #9a783d;
+}
 
 .note > :first-child,
 .descriptive > :first-child,
 .wuju > :first-child,
 .darkin > :first-child,
-.encounter > :first-child {
+.encounter > :first-child,
+.mapSlot > :first-child {
   margin-top: 0;
 }
 
@@ -251,68 +339,161 @@ th {
 .descriptive > :last-child,
 .wuju > :last-child,
 .darkin > :last-child,
-.encounter > :last-child {
+.encounter > :last-child,
+.mapSlot > :last-child {
   margin-bottom: 0;
 }
 
-.cover-sheet,
-.chapter-sheet {
+/* Couverture */
+.cover-sheet {
   column-count: 1;
   text-align: center;
-  padding-top: 14mm;
+  padding: 0;
   overflow: hidden;
+  background:
+    linear-gradient(180deg, rgba(234,241,236,.10), rgba(20,35,31,.18)),
+    radial-gradient(circle at 50% 22%, rgba(118,158,143,.24), transparent 34%),
+    linear-gradient(180deg, #dce8e1 0%, #b8cfc4 38%, #5c786f 100%);
+  border: 0;
+}
+
+.cover-sheet::before,
+.cover-sheet::after {
+  display: none;
 }
 
 .coverPage {
-  margin-top: 34mm;
+  margin: 0;
+  min-height: 250mm;
+  padding: 27mm 16mm 18mm;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  background:
+    linear-gradient(180deg, rgba(244,241,226,.88) 0%, rgba(244,241,226,.76) 46%, rgba(27,44,39,.34) 100%);
+  border: 1.2pt solid rgba(255,255,255,.5);
 }
 
 .coverPage h1:first-child {
-  font-size: 32pt;
-  letter-spacing: 0.03em;
+  font-size: 31pt;
+  line-height: 1;
+  letter-spacing: .04em;
+  color: #284f47;
+  border: 0;
+  margin: 0 0 9mm;
+  text-transform: uppercase;
 }
 
 .coverPage h1:last-of-type {
   font-size: 27pt;
-  margin-top: 7mm;
+  color: #315f56;
+  border: 0;
+  margin: 0 0 8mm;
 }
 
 .coverPage h2 {
   border: 0;
-  font-size: 18pt;
+  color: #365f56;
+  font-size: 17pt;
+  margin-bottom: 8mm;
+}
+
+.coverPage h3,
+.coverPage h4,
+.coverPage h5 {
+  color: #f3f0e6;
+  text-shadow: 0 1px 2px rgba(0,0,0,.35);
+}
+
+.coverPage::after {
+  content: "☯";
+  display: block;
+  margin: 14mm auto 0;
+  font-family: "DejaVu Sans", sans-serif;
+  font-size: 26pt;
+  color: rgba(244,240,225,.9);
+}
+
+/* Ouverture de chapitre */
+.chapter-sheet {
+  column-count: 1;
+  text-align: center;
+  padding: 0;
+  overflow: hidden;
+  border: 0;
+  background: #182723;
+}
+
+.chapter-sheet::before,
+.chapter-sheet::after {
+  display: none;
 }
 
 .chapter-sheet .chapter {
   position: relative;
-  z-index: 3;
-  background: rgba(255,255,255,.78);
-  padding: 4mm;
-  border-radius: 2mm;
+  z-index: 4;
+  margin: 11mm 12mm 0;
+  padding: 5mm 7mm 4.5mm;
+  background: rgba(242,238,220,.90);
+  border-top: 1.3pt solid #6b8f82;
+  border-bottom: 1.3pt solid #6b8f82;
+  box-shadow: 0 2mm 8mm rgba(0,0,0,.22);
 }
 
 .chapter-sheet .chapter h1 {
-  font-size: 29pt;
-  margin: 0 0 4mm;
+  font-size: 28pt;
+  line-height: 1;
+  margin: 0 0 2mm;
+  border: 0;
+  color: #315f56;
+}
+
+.chapter-sheet .chapter hr {
+  border: 0;
+  border-top: .6pt solid #90a99f;
+  margin: 2mm 0;
 }
 
 .chapter-sheet .chapterHero {
   position: absolute !important;
-  left: -12mm !important;
-  right: -12mm !important;
-  bottom: -12mm !important;
-  width: calc(100% + 24mm) !important;
-  height: 72% !important;
+  left: -13mm !important;
+  right: -13mm !important;
+  bottom: -13mm !important;
+  width: calc(100% + 26mm) !important;
+  height: 76% !important;
   max-height: none !important;
   object-fit: cover !important;
+  object-position: center !important;
   z-index: 0 !important;
-  -webkit-mask-image: linear-gradient(to bottom, transparent 0%, rgba(0,0,0,.88) 24%, #000 40%, #000 100%);
-  mask-image: linear-gradient(to bottom, transparent 0%, rgba(0,0,0,.88) 24%, #000 40%, #000 100%);
+  -webkit-mask-image: linear-gradient(to bottom, transparent 0%, rgba(0,0,0,.68) 15%, #000 31%, #000 100%);
+  mask-image: linear-gradient(to bottom, transparent 0%, rgba(0,0,0,.68) 15%, #000 31%, #000 100%);
+}
+
+.chapter-sheet > p,
+.chapter-sheet > blockquote {
+  position: relative;
+  z-index: 5;
+  max-width: 150mm;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.chapter-sheet blockquote {
+  background: rgba(239,232,211,.82);
+  border-left: 0;
+  border-top: .5pt solid rgba(49,95,86,.45);
+  border-bottom: .5pt solid rgba(49,95,86,.45);
+  color: #2d4942;
 }
 
 .chapter-sheet .artCredit {
-  z-index: 4 !important;
-  right: 0 !important;
-  bottom: 1mm !important;
+  z-index: 5 !important;
+  right: 4mm !important;
+  bottom: 2mm !important;
+  color: rgba(255,255,255,.95);
+  background: rgba(20,32,28,.58);
+  padding: 1mm 2mm;
+  border-radius: 1mm;
 }
 
 img {
@@ -320,17 +501,27 @@ img {
   height: auto;
 }
 
-.sectionArt,
+.sectionArt {
+  width: 100%;
+  max-height: 95mm !important;
+  object-fit: cover !important;
+  border: .55pt solid rgba(49,95,86,.45);
+  box-shadow: 0 1mm 2mm rgba(0,0,0,.12);
+}
+
 .mapImage {
-  max-height: 120mm !important;
+  width: 100%;
+  max-height: 118mm !important;
   object-fit: contain !important;
+  background: #17211e;
+  border: .7pt solid #607e74;
 }
 
 .mapFallback {
   padding: 4mm;
   margin: 2mm 0;
-  border: 0.6pt dashed #819d89;
-  background: #f4f7f5;
+  border: .8pt dashed #819d89;
+  background: rgba(244,247,245,.70);
   font-family: "DejaVu Sans", sans-serif;
   font-size: 8pt;
   color: #53645e;
@@ -339,29 +530,29 @@ img {
 
 .mapSlot {
   column-span: all;
-  break-inside: avoid;
-  border: 0.6pt solid #819d89;
-  background: #f4f7f5;
-  padding: 2mm;
-  margin: 2mm 0 3mm;
+  border: .65pt solid #819d89;
+  background: rgba(232,238,233,.62);
 }
 
 .source-footnote {
   position: absolute;
-  left: 0;
-  bottom: 1mm;
+  left: 4mm;
+  bottom: 1.8mm;
   font-family: "DejaVu Sans", sans-serif;
-  font-size: 6.5pt;
+  font-size: 6.4pt;
   color: #62716b;
-  letter-spacing: .02em;
+  letter-spacing: .025em;
+  text-transform: uppercase;
 }
 
 .spacer { height: 4mm; }
 
-.artCredit, .sectionArtCredit, .mapCredit {
+.artCredit,
+.sectionArtCredit,
+.mapCredit {
   font-family: "DejaVu Sans", sans-serif;
-  font-size: 6.5pt;
-  color: #62716b;
+  font-size: 6.4pt;
+  color: #6b786f;
 }
 
 a {
