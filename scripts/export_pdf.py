@@ -2,6 +2,8 @@
 from pathlib import Path
 import re
 import sys
+import base64
+import mimetypes
 
 try:
     import markdown
@@ -81,6 +83,17 @@ def main() -> None:
 
     source = SOURCE.read_text(encoding="utf-8")
     source = source.replace("https://raw.githubusercontent.com/Romain76160/Manuel-JDR/main/", "")
+
+    def embed_local_asset(match):
+        rel = match.group(1)
+        path = ROOT / rel
+        if not path.exists() or not path.is_file():
+            return match.group(0)
+        mime = mimetypes.guess_type(path.name)[0] or "application/octet-stream"
+        payload = base64.b64encode(path.read_bytes()).decode("ascii")
+        return f'src="data:{mime};base64,{payload}"'
+
+    source = re.sub(r'src="(assets/[^"]+)"', embed_local_asset, source)
     project_css = STYLE.read_text(encoding="utf-8") if STYLE.exists() else ""
 
     segments = re.split(r"(?m)^\s*[\\]page\s*$", source)
