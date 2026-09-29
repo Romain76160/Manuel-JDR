@@ -43,7 +43,7 @@
 - [x] Ajouter les renvois vers les annexes.
 - [x] Fixer les cartes du chapitre I : aucune battlemap obligatoire en V1 ; carte régionale facultative.
 - [x] Illustration maîtresse chapitre I : Master Yi officiel LoR intégré.
-- [ ] Faire la passe éditoriale finale Homebrewery.
+- [x] Faire la passe éditoriale finale Homebrewery.
 
 ## Chapitre II — Les Chutes de Brume
 
