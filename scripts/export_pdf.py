@@ -82,7 +82,7 @@ def main() -> None:
     source = SOURCE.read_text(encoding="utf-8")
     project_css = STYLE.read_text(encoding="utf-8") if STYLE.exists() else ""
 
-    segments = re.split(r"(?m)^\s*\\\\page\s*$", source)
+    segments = re.split(r"(?m)^\s*[\\]page\s*$", source)
     rendered_pages = []
 
     md = markdown.Markdown(
