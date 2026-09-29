@@ -80,18 +80,6 @@ def main() -> None:
         raise SystemExit(f"Source missing: {SOURCE}")
 
     source = SOURCE.read_text(encoding="utf-8")
-    source = source.replace(
-        "https://dd.b.pvp.net/latest/set6/en_us/img/cards/06IO008-full.png",
-        ".build-assets/master-yi.png",
-    )
-    source = source.replace(
-        "https://dd.b.pvp.net/latest/set6/en_us/img/cards/06IO011-full.png",
-        ".build-assets/jun.png",
-    )
-    source = source.replace(
-        "https://dd.b.pvp.net/latest/set6/en_us/img/cards/06RU005-full.png",
-        ".build-assets/kayn.png",
-    )
     source = source.replace("https://raw.githubusercontent.com/Romain76160/Manuel-JDR/main/", "")
 
     source = re.sub(
@@ -101,7 +89,46 @@ def main() -> None:
     )
     project_css = STYLE.read_text(encoding="utf-8") if STYLE.exists() else ""
 
-    segments = re.split(r"(?m)^\s*[\\]page\s*$", source)
+    raw_segments = [
+        part.strip()
+        for part in re.split(r"(?m)^\s*[\\]page\s*$", source)
+        if part.strip()
+    ]
+
+    # Homebrewery source uses many explicit page breaks for editing convenience.
+    # For the PDF, keep only structural breaks and let normal prose flow densely.
+    groups = []
+    buffer = []
+    buffer_chars = 0
+    target_chars = 4300
+
+    def flush_buffer():
+        nonlocal buffer, buffer_chars
+        if buffer:
+            groups.append(("content-sheet", "\n\n".join(buffer)))
+            buffer = []
+            buffer_chars = 0
+
+    for raw_segment in raw_segments:
+        structural = (
+            "{{coverPage" in raw_segment
+            or "{{chapter" in raw_segment
+            or "{{mapSlot" in raw_segment
+        )
+
+        if structural:
+            flush_buffer()
+            groups.append((page_class(raw_segment), raw_segment))
+            continue
+
+        buffer.append(raw_segment)
+        buffer_chars += len(raw_segment)
+
+        if buffer_chars >= target_chars:
+            flush_buffer()
+
+    flush_buffer()
+
     rendered_pages = []
 
     md = markdown.Markdown(
@@ -109,12 +136,8 @@ def main() -> None:
         output_format="html5",
     )
 
-    for index, raw_segment in enumerate(segments, start=1):
-        raw_segment = raw_segment.strip()
-        if not raw_segment:
-            continue
-        cls = page_class(raw_segment)
-        processed = preprocess_blocks(raw_segment)
+    for index, (cls, raw_group) in enumerate(groups, start=1):
+        processed = preprocess_blocks(raw_group)
         md.reset()
         html = md.convert(processed)
         rendered_pages.append(
@@ -433,7 +456,9 @@ th {
   padding: 0;
   overflow: hidden;
   border: 0;
-  background: #182723;
+  background:
+    radial-gradient(circle at 50% 70%, rgba(152,190,176,.26), transparent 32%),
+    linear-gradient(180deg, #19352f 0%, #2e5e54 48%, #d8e3d8 100%);
 }
 
 .chapter-sheet::before,
