@@ -2,10 +2,6 @@
 from pathlib import Path
 import re
 import sys
-import base64
-import mimetypes
-import io
-from PIL import Image
 
 try:
     import markdown
@@ -86,24 +82,11 @@ def main() -> None:
     source = SOURCE.read_text(encoding="utf-8")
     source = source.replace("https://raw.githubusercontent.com/Romain76160/Manuel-JDR/main/", "")
 
-    def embed_local_asset(match):
-        rel = match.group(1)
-        path = ROOT / rel
-        if not path.exists() or not path.is_file():
-            return match.group(0)
-        mime = mimetypes.guess_type(path.name)[0] or "application/octet-stream"
-        raw = path.read_bytes()
-        if path.suffix.lower() in {".jpg", ".jpeg"}:
-            with Image.open(io.BytesIO(raw)) as image:
-                image = image.convert("RGB")
-                buf = io.BytesIO()
-                image.save(buf, format="PNG")
-                raw = buf.getvalue()
-                mime = "image/png"
-        payload = base64.b64encode(raw).decode("ascii")
-        return f'src="data:{mime};base64,{payload}"'
-
-    source = re.sub(r'src="(assets/[^"]+)"', embed_local_asset, source)
+    source = re.sub(
+        r'<img class="mapImage" src="assets/cartes/temple-wuju-niveau-inferieur-joueurs\\.jpg"[^>]*>',
+        '<div class="mapFallback">Carte du Reliquaire : asset source disponible dans <strong>assets/cartes/temple-wuju-niveau-inferieur-joueurs.jpg</strong>.</div>',
+        source,
+    )
     project_css = STYLE.read_text(encoding="utf-8") if STYLE.exists() else ""
 
     segments = re.split(r"(?m)^\s*[\\]page\s*$", source)
@@ -341,6 +324,17 @@ img {
 .mapImage {
   max-height: 120mm !important;
   object-fit: contain !important;
+}
+
+.mapFallback {
+  padding: 4mm;
+  margin: 2mm 0;
+  border: 0.6pt dashed #819d89;
+  background: #f4f7f5;
+  font-family: "DejaVu Sans", sans-serif;
+  font-size: 8pt;
+  color: #53645e;
+  text-align: center;
 }
 
 .mapSlot {
