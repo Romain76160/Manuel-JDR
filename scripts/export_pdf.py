@@ -80,6 +80,7 @@ def main() -> None:
         raise SystemExit(f"Source missing: {SOURCE}")
 
     source = SOURCE.read_text(encoding="utf-8")
+    source = source.replace("https://raw.githubusercontent.com/Romain76160/Manuel-JDR/main/", "")
     project_css = STYLE.read_text(encoding="utf-8") if STYLE.exists() else ""
 
     segments = re.split(r"(?m)^\s*[\\]page\s*$", source)
