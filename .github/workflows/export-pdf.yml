@@ -1,0 +1,47 @@
+name: Export PDF
+
+on:
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+    paths:
+      - "homebrewery/**"
+      - "scripts/export_pdf.py"
+      - ".github/workflows/export-pdf.yml"
+
+permissions:
+  contents: read
+
+jobs:
+  export:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install renderer
+        run: |
+          python -m pip install --upgrade pip
+          python -m pip install markdown weasyprint
+
+      - name: Build assembled manuscript
+        run: python scripts/build_manuel.py
+
+      - name: Export PDF
+        run: python scripts/export_pdf.py
+
+      - name: Upload PDF
+        uses: actions/upload-artifact@v4
+        with:
+          name: manuel-jdr-pdf
+          path: dist/la-seconde-guerre-darkin-prologue.pdf
+          if-no-files-found: error
+          retention-days: 30
