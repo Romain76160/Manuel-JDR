@@ -32,13 +32,6 @@ jobs:
           python -m pip install --upgrade pip
           python -m pip install markdown weasyprint
 
-      - name: Fetch chapter artwork
-        run: |
-          mkdir -p .build-assets
-          curl -A "Mozilla/5.0" -e "https://playruneterra.com/" -L --fail --retry 3 -o .build-assets/master-yi.png "https://dd.b.pvp.net/latest/set6/en_us/img/cards/06IO008-full.png"
-          curl -A "Mozilla/5.0" -e "https://playruneterra.com/" -L --fail --retry 3 -o .build-assets/jun.png "https://dd.b.pvp.net/latest/set6/en_us/img/cards/06IO011-full.png"
-          curl -A "Mozilla/5.0" -e "https://playruneterra.com/" -L --fail --retry 3 -o .build-assets/kayn.png "https://dd.b.pvp.net/latest/set6/en_us/img/cards/06RU005-full.png"
-
       - name: Build assembled manuscript
         run: python scripts/build_manuel.py
 
