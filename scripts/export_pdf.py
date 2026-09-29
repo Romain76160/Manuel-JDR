@@ -83,7 +83,7 @@ def main() -> None:
     source = source.replace("https://raw.githubusercontent.com/Romain76160/Manuel-JDR/main/", "")
 
     source = re.sub(
-        r'<img class="mapImage" src="assets/cartes/temple-wuju-niveau-inferieur-joueurs\\.jpg"[^>]*>',
+        r'<img class="mapImage" src="assets/cartes/temple-wuju-niveau-inferieur-joueurs\.jpg"[^>]*>',
         '<div class="mapFallback">Carte du Reliquaire : asset source disponible dans <strong>assets/cartes/temple-wuju-niveau-inferieur-joueurs.jpg</strong>.</div>',
         source,
     )
