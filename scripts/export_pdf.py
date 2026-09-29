@@ -21,6 +21,7 @@ BLOCKS = {
     "wuju": "wuju",
     "darkin": "darkin",
     "encounter": "encounter",
+    "mapSlot": "mapSlot",
     "chapter": "chapter",
     "coverPage": "coverPage",
 }
